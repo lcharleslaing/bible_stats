@@ -39,7 +39,17 @@
   );
 
   onMount(async () => {
-    await loadBibleData(); // Ensure this is awaited if it's asynchronous
+    await loadBibleData();
+    if (typeof localStorage !== "undefined") {
+      const storedOpenOnStart = localStorage.getItem("openOnStart");
+      openOnStart =
+        storedOpenOnStart !== null ? storedOpenOnStart === "true" : true;
+      modalOpen = openOnStart;
+    } else {
+      // Set a default behavior if localStorage is not available
+      openOnStart = true;
+      modalOpen = true;
+    }
   });
 
   function showOnlyBook(bookName) {
@@ -56,7 +66,7 @@
 
   import HelpModal from "$lib/components/HelpModal.svelte";
   let modalOpen = true;
-  let openOnStart = true;
+  let openOnStart;
 
   function handleModalClose() {
     modalOpen = false;

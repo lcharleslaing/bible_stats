@@ -5,4 +5,7 @@
   <h2 class="text-center text-xl text-green-700 my-12 font-extrabold">
     This is coming tomorrow!!!!
   </h2>
+  <p class="p-6 text-center">
+    Let me know what you want here and I'll get it done!!!
+  </p>
 </div>

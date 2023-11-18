@@ -1,8 +1,14 @@
 <script>
-  import { createEventDispatcher } from "svelte";
+  import { createEventDispatcher, onMount } from "svelte";
   export let isOpen = false;
   export let openOnStart = false;
   const dispatch = createEventDispatcher();
+
+  onMount(() => {
+    if (typeof localStorage !== "undefined") {
+      openOnStart = localStorage.getItem("openOnStart") === "true";
+    }
+  });
 
   function close() {
     isOpen = false;
@@ -11,6 +17,9 @@
 
   function toggleOpenOnStart() {
     openOnStart = !openOnStart;
+    if (typeof localStorage !== "undefined") {
+      localStorage.setItem("openOnStart", openOnStart.toString());
+    }
     dispatch("update", { openOnStart });
   }
 </script>
