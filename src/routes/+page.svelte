@@ -1,3 +1,5 @@
+<!-- +page.svelte "/" route THIS ONE WORKS-->
+
 <script>
   import { bibleStore, loadBibleData } from "$lib/bibleStore";
   import { onMount } from "svelte";
