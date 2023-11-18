@@ -67,8 +67,7 @@
             7,
             40,
             40,
-            6,
-            100,
+            600,
             2,
             2,
             7,
@@ -396,7 +395,7 @@
             "3": 31,
             "4": 6,
             "5": 18,
-            "6": 7,
+            "6": 6,
             "7": 49,
             "130": 2,
             "800": 4,
@@ -409,7 +408,7 @@
             "910": 1,
             "60": 5,
             "830": 1,
-            "100": 8,
+            "100": 7,
             "962": 1,
             "300": 3,
             "365": 1,
@@ -423,6 +422,7 @@
             "120": 1,
             "30": 8,
             "40": 7,
+            "600": 1,
             "17": 4,
             "15": 1,
             "150": 2,
@@ -956,10 +956,9 @@
                 "book": "GENESIS",
                 "chapter": "7",
                 "verse": 6,
-                "text": "And Noah <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  years old when the flood of waters was upon the earth.",
+                "text": "And Noah <strong>SIX HUNDRED (600)</strong>  years old when the flood of waters was upon the earth.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -3283,8 +3282,7 @@
             "(2, 2)": 12,
             "(2, 7)": 7,
             "(40, 40)": 2,
-            "(6, 100)": 2,
-            "(100, 2)": 3,
+            "(100, 2)": 2,
             "(10, 10)": 4,
             "(10, 1)": 3,
             "(1, 40)": 2,
@@ -3319,7 +3317,6 @@
             "(2, 3, 2)": 3,
             "(3, 2, 2)": 4,
             "(2, 2, 7)": 3,
-            "(6, 100, 2)": 2,
             "(2, 1, 1)": 5,
             "(1, 1, 12)": 2,
             "(1, 3, 3)": 3,
@@ -3399,8 +3396,7 @@
             2,
             3,
             137,
-            100,
-            33,
+            133,
             137,
             80,
             80,
@@ -3429,8 +3425,7 @@
             7,
             1,
             14,
-            1,
-            20,
+            21,
             7,
             2,
             2,
@@ -3444,8 +3439,7 @@
             7,
             7,
             7,
-            6,
-            100,
+            600,
             1,
             1,
             1,
@@ -3547,8 +3541,7 @@
             7,
             10,
             1,
-            8,
-            20,
+            28,
             1,
             4,
             1,
@@ -3858,28 +3851,18 @@
             5,
             4,
             4,
-            20,
-            9,
-            7,
-            130,
+            29,
+            730,
             100,
-            1000,
-            7,
-            100,
-            60,
-            15,
+            1775,
             1,
             20,
             603550,
             100,
             100,
             100,
-            1000,
-            7,
-            100,
-            5,
-            2000,
-            400,
+            1775,
+            2400,
             2,
             4,
             1,
@@ -3909,40 +3892,41 @@
             1
         ],
         "number_counts": {
-            "1": 132,
+            "1": 131,
             "3": 38,
             "2": 121,
-            "7": 34,
+            "7": 31,
             "137": 2,
-            "100": 13,
-            "33": 1,
+            "133": 1,
             "80": 2,
             "10": 12,
             "14": 2,
-            "20": 23,
+            "21": 1,
             "600000": 1,
             "430": 2,
-            "6": 28,
+            "600": 1,
             "12": 7,
             "70": 1,
-            "15": 6,
+            "15": 5,
+            "6": 27,
             "4": 39,
             "30": 3,
-            "5": 24,
-            "8": 5,
+            "5": 23,
+            "8": 4,
             "40": 4,
+            "28": 1,
             "11": 4,
+            "20": 20,
             "16": 2,
+            "100": 9,
             "500": 2,
             "250": 2,
             "3000": 1,
-            "9": 1,
-            "130": 1,
-            "1000": 2,
-            "60": 1,
+            "29": 1,
+            "730": 1,
+            "1775": 2,
             "603550": 1,
-            "2000": 1,
-            "400": 1
+            "2400": 1
         },
         "verses_with_numbers": [
             {
@@ -4040,10 +4024,9 @@
                 "book": "EXODUS",
                 "chapter": "6",
                 "verse": 18,
-                "text": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath an <strong>HUNDRED (100)</strong>  <strong>THIRTY AND THREE (33)</strong>  years.",
+                "text": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath an <strong>HUNDRED THIRTY AND THREE (133)</strong>  years.",
                 "numeric_numbers": [
-                    "100",
-                    "33"
+                    "133"
                 ]
             },
             {
@@ -4228,12 +4211,11 @@
                 "book": "EXODUS",
                 "chapter": "12",
                 "verse": 18,
-                "text": "# In the <strong>FIRST (1)</strong>  , on the <strong>FOURTEENTH DAY (14)</strong>  of the month at even, ye shall eat unleavened bread, until the <strong>ONE (1)</strong>  and <strong>TWENTIETH DAY (20)</strong>  of the month at even.",
+                "text": "# In the <strong>FIRST (1)</strong>  , on the <strong>FOURTEENTH DAY (14)</strong>  of the month at even, ye shall eat unleavened bread, until the <strong>ONE AND TWENTIETH (21)</strong>  day of the month at even.",
                 "numeric_numbers": [
                     "1",
                     "14",
-                    "1",
-                    "20"
+                    "21"
                 ]
             },
             {
@@ -4349,10 +4331,9 @@
                 "book": "EXODUS",
                 "chapter": "14",
                 "verse": 7,
-                "text": "And he took <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  chosen chariots, and all the chariots of Egypt, and captains over every <strong>ONE (1)</strong>  of them.",
+                "text": "And he took <strong>SIX HUNDRED (600)</strong>  chosen chariots, and all the chariots of Egypt, and captains over every <strong>ONE (1)</strong>  of them.",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "1"
                 ]
             },
@@ -4955,11 +4936,10 @@
                 "book": "EXODUS",
                 "chapter": "26",
                 "verse": 2,
-                "text": "The length of <strong>ONE (1)</strong>  curtain <strong>EIGHT (8)</strong>  and <strong>TWENTY (20)</strong>  cubits, and the breadth of <strong>ONE (1)</strong>  curtain <strong>FOUR (4)</strong>  cubits: and every <strong>ONE (1)</strong>  of the curtains shall have <strong>ONE (1)</strong>  measure.",
+                "text": "The length of <strong>ONE (1)</strong>  curtain <strong>EIGHT AND TWENTY (28)</strong>  cubits, and the breadth of <strong>ONE (1)</strong>  curtain <strong>FOUR (4)</strong>  cubits: and every <strong>ONE (1)</strong>  of the curtains shall have <strong>ONE (1)</strong>  measure.",
                 "numeric_numbers": [
                     "1",
-                    "8",
-                    "20",
+                    "28",
                     "1",
                     "4",
                     "1",
@@ -6411,26 +6391,20 @@
                 "book": "EXODUS",
                 "chapter": "38",
                 "verse": 24,
-                "text": "All the gold that was occupied for the work in all the work of the holy , even the gold of the offering, was <strong>TWENTY (20)</strong>  and <strong>NINE (9)</strong>  talents, and <strong>SEVEN (7)</strong>  <strong>HUNDRED AND THIRTY (130)</strong>  shekels, after the shekel of the sanctuary.",
+                "text": "All the gold that was occupied for the work in all the work of the holy , even the gold of the offering, was <strong>TWENTY AND NINE (29)</strong>  talents, and <strong>SEVEN HUNDRED AND THIRTY (730)</strong>  shekels, after the shekel of the sanctuary.",
                 "numeric_numbers": [
-                    "20",
-                    "9",
-                    "7",
-                    "130"
+                    "29",
+                    "730"
                 ]
             },
             {
                 "book": "EXODUS",
                 "chapter": "38",
                 "verse": 25,
-                "text": "And the silver of them that were numbered of the congregation an <strong>HUNDRED (100)</strong>  talents, and a <strong>THOUSAND (1000)</strong>  <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  and <strong>THREESCORE (60)</strong>  and <strong>FIFTEEN (15)</strong>  shekels, after the shekel of the sanctuary:",
+                "text": "And the silver of them that were numbered of the congregation an <strong>HUNDRED (100)</strong>  talents, and a <strong>THOUSAND SEVEN HUNDRED AND THREESCORE AND FIFTEEN (1775)</strong>  shekels, after the shekel of the sanctuary:",
                 "numeric_numbers": [
                     "100",
-                    "1000",
-                    "7",
-                    "100",
-                    "60",
-                    "15"
+                    "1775"
                 ]
             },
             {
@@ -6459,22 +6433,18 @@
                 "book": "EXODUS",
                 "chapter": "38",
                 "verse": 28,
-                "text": "And of the <strong>THOUSAND (1000)</strong>  <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  seventy and <strong>FIVE (5)</strong>  shekels he made hooks for the pillars, and overlaid their chapiters, and filleted them.",
+                "text": "And of the <strong>THOUSAND SEVEN HUNDRED SEVENTY AND FIVE (1775)</strong>  shekels he made hooks for the pillars, and overlaid their chapiters, and filleted them.",
                 "numeric_numbers": [
-                    "1000",
-                    "7",
-                    "100",
-                    "5"
+                    "1775"
                 ]
             },
             {
                 "book": "EXODUS",
                 "chapter": "38",
                 "verse": 29,
-                "text": "And the brass of the offering seventy talents, and <strong>TWO THOUSAND (2000)</strong>  and <strong>FOUR HUNDRED (400)</strong>  shekels.",
+                "text": "And the brass of the offering seventy talents, and <strong>TWO THOUSAND AND FOUR HUNDRED (2400)</strong>  shekels.",
                 "numeric_numbers": [
-                    "2000",
-                    "400"
+                    "2400"
                 ]
             },
             {
@@ -6624,17 +6594,15 @@
             "(1, 14)": 2,
             "(7, 1)": 5,
             "(1, 7)": 7,
-            "(1, 20)": 8,
             "(7, 2)": 4,
             "(2, 1)": 37,
             "(7, 7)": 5,
-            "(7, 6)": 7,
-            "(100, 1)": 2,
             "(2, 6)": 7,
             "(6, 1)": 5,
             "(1, 6)": 4,
             "(6, 2)": 6,
             "(6, 7)": 11,
+            "(7, 6)": 6,
             "(7, 10)": 2,
             "(3, 3)": 10,
             "(3, 4)": 6,
@@ -6651,14 +6619,13 @@
             "(6, 3)": 2,
             "(3, 6)": 2,
             "(6, 4)": 2,
-            "(1, 8)": 2,
-            "(20, 1)": 2,
             "(1, 4)": 4,
             "(5, 1)": 7,
             "(1, 11)": 3,
             "(11, 1)": 4,
             "(1, 30)": 2,
             "(5, 6)": 2,
+            "(1, 20)": 7,
             "(20, 20)": 6,
             "(20, 2)": 4,
             "(2, 20)": 2,
@@ -6678,13 +6645,10 @@
             "(3, 15)": 2,
             "(3, 20)": 2,
             "(4, 100)": 2,
-            "(100, 5)": 2,
             "(4, 12)": 2,
             "(12, 1)": 2,
             "(12, 2)": 2,
-            "(100, 1000)": 2,
-            "(1000, 7)": 2,
-            "(7, 100)": 2,
+            "(100, 1775)": 2,
             "(1, 3, 1)": 3,
             "(3, 1, 2)": 3,
             "(1, 2, 2)": 7,
@@ -6703,7 +6667,6 @@
             "(2, 2, 1)": 10,
             "(1, 7, 7)": 2,
             "(7, 7, 7)": 2,
-            "(7, 7, 6)": 2,
             "(2, 6, 1)": 4,
             "(6, 1, 6)": 2,
             "(1, 6, 2)": 2,
@@ -6786,8 +6749,6 @@
             "(12, 2, 2)": 2,
             "(2, 1, 20)": 2,
             "(6, 7, 1)": 2,
-            "(100, 1000, 7)": 2,
-            "(1000, 7, 100)": 2,
             "(7, 3, 1, 2)": 2,
             "(3, 7, 3, 1)": 2,
             "(7, 3, 1, 1)": 2,
@@ -6883,7 +6844,6 @@
             "(1, 2, 2, 1)": 2,
             "(2, 1, 1, 1)": 4,
             "(1, 1, 1, 10)": 2,
-            "(100, 1000, 7, 100)": 2,
             "(3, 7, 3, 1, 1)": 2,
             "(7, 3, 1, 1, 1)": 2,
             "(1, 1, 1, 7, 7)": 2,
@@ -7364,8 +7324,7 @@
             8,
             33,
             2,
-            60,
-            6,
+            66,
             1,
             2,
             2,
@@ -7567,8 +7526,8 @@
             "8": 10,
             "4": 7,
             "33": 1,
-            "60": 3,
-            "6": 6,
+            "66": 1,
+            "6": 5,
             "14": 1,
             "15": 4,
             "9": 3,
@@ -7576,6 +7535,7 @@
             "100": 2,
             "10000": 1,
             "20": 4,
+            "60": 2,
             "30": 1
         },
         "verses_with_numbers": [
@@ -7985,11 +7945,10 @@
                 "book": "LEVITICUS",
                 "chapter": "12",
                 "verse": 5,
-                "text": "But if she bear a maid child, then she shall be unclean <strong>TWO (2)</strong>  weeks, as in her separation: and she shall continue in the blood of her purifying <strong>THREESCORE (60)</strong>  and <strong>SIX DAYS (6)</strong> .",
+                "text": "But if she bear a maid child, then she shall be unclean <strong>TWO (2)</strong>  weeks, as in her separation: and she shall continue in the blood of her purifying <strong>THREESCORE AND SIX DAYS (66)</strong> .",
                 "numeric_numbers": [
                     "2",
-                    "60",
-                    "6"
+                    "66"
                 ]
             },
             {
@@ -9159,7 +9118,6 @@
             "(1, 4)": 2,
             "(4, 4)": 2,
             "(4, 7)": 2,
-            "(6, 1)": 2,
             "(8, 2)": 3,
             "(1, 8)": 2,
             "(7, 10)": 2,
@@ -9560,8 +9518,7 @@
             12,
             12,
             130,
-            2000,
-            400,
+            2400,
             12,
             10,
             120,
@@ -9570,8 +9527,7 @@
             1,
             12,
             12,
-            20,
-            4,
+            24,
             60,
             60,
             1,
@@ -9939,7 +9895,7 @@
         "number_counts": {
             "1": 248,
             "2": 58,
-            "20": 24,
+            "20": 23,
             "46500": 2,
             "59300": 2,
             "5650": 1,
@@ -9977,13 +9933,13 @@
             "7": 45,
             "8": 5,
             "6": 6,
-            "4": 12,
+            "4": 11,
             "130": 13,
             "9": 3,
             "11": 2,
-            "2000": 5,
-            "400": 1,
+            "2400": 1,
             "120": 1,
+            "24": 1,
             "60": 3,
             "25": 1,
             "14": 12,
@@ -10026,6 +9982,7 @@
             "16700": 1,
             "70": 1,
             "123": 1,
+            "2000": 4,
             "42": 1,
             "48": 1
         },
@@ -11576,11 +11533,10 @@
                 "book": "NUMBERS",
                 "chapter": "7",
                 "verse": 85,
-                "text": "Each charger of silver an <strong>HUNDRED AND THIRTY (130)</strong>  , each bowl seventy: all the silver vessels <strong>TWO THOUSAND (2000)</strong>  and <strong>FOUR HUNDRED (400)</strong>  , after the shekel of the sanctuary:",
+                "text": "Each charger of silver an <strong>HUNDRED AND THIRTY (130)</strong>  , each bowl seventy: all the silver vessels <strong>TWO THOUSAND AND FOUR HUNDRED (2400)</strong>  , after the shekel of the sanctuary:",
                 "numeric_numbers": [
                     "130",
-                    "2000",
-                    "400"
+                    "2400"
                 ]
             },
             {
@@ -11611,10 +11567,9 @@
                 "book": "NUMBERS",
                 "chapter": "7",
                 "verse": 88,
-                "text": "And all the oxen for the sacrifice of the peace offerings <strong>TWENTY (20)</strong>  and <strong>FOUR (4)</strong>  bullocks, the rams <strong>SIXTY (60)</strong> , the he goats <strong>SIXTY (60)</strong> , the lambs of the <strong>FIRST (1)</strong>  year <strong>SIXTY (60)</strong> . This the dedication of the altar, after that it was anointed.",
+                "text": "And all the oxen for the sacrifice of the peace offerings <strong>TWENTY AND FOUR (24)</strong>  bullocks, the rams <strong>SIXTY (60)</strong> , the he goats <strong>SIXTY (60)</strong> , the lambs of the <strong>FIRST (1)</strong>  year <strong>SIXTY (60)</strong> . This the dedication of the altar, after that it was anointed.",
                 "numeric_numbers": [
-                    "20",
-                    "4",
+                    "24",
                     "60",
                     "60",
                     "1",
@@ -15141,8 +15096,7 @@
             80,
             5,
             3,
-            20,
-            9,
+            29,
             14,
             16,
             9,
@@ -15172,8 +15126,7 @@
             4,
             16,
             5,
-            20,
-            2,
+            22,
             6,
             19,
             7,
@@ -15214,7 +15167,7 @@
         ],
         "number_counts": {
             "3": 11,
-            "2": 19,
+            "2": 18,
             "2000": 1,
             "12": 11,
             "1000": 2,
@@ -15231,14 +15184,15 @@
             "12000": 1,
             "5": 10,
             "31": 1,
-            "9": 6,
+            "9": 5,
             "60": 1,
             "80": 1,
-            "20": 2,
+            "29": 1,
             "16": 2,
             "11": 1,
             "13": 5,
             "4": 10,
+            "22": 1,
             "19": 1,
             "48": 1,
             "110": 1,
@@ -15962,10 +15916,9 @@
                 "book": "JOSHUA",
                 "chapter": "15",
                 "verse": 32,
-                "text": "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities <strong>TWENTY (20)</strong>  and <strong>NINE (9)</strong> , with their villages:",
+                "text": "And Lebaoth, and Shilhim, and Ain, and Rimmon: all the cities <strong>TWENTY AND NINE (29)</strong> , with their villages:",
                 "numeric_numbers": [
-                    "20",
-                    "9"
+                    "29"
                 ]
             },
             {
@@ -16225,10 +16178,9 @@
                 "book": "JOSHUA",
                 "chapter": "19",
                 "verse": 30,
-                "text": "Ummah also, and Aphek, and Rehob: <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong>  cities with their villages.",
+                "text": "Ummah also, and Aphek, and Rehob: <strong>TWENTY AND TWO (22)</strong>  cities with their villages.",
                 "numeric_numbers": [
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
@@ -16543,7 +16495,7 @@
             "(6, 7)": 2,
             "(7, 7)": 13,
             "(7, 2)": 2,
-            "(2, 6)": 3,
+            "(2, 6)": 2,
             "(1, 1)": 36,
             "(1, 2)": 2,
             "(3, 1)": 2,
@@ -16598,15 +16550,12 @@
             2,
             10000,
             80,
-            6,
-            100,
-            9,
-            100,
+            600,
+            900,
             20,
             10000,
             10000,
-            9,
-            100,
+            900,
             10000,
             1000,
             2,
@@ -16632,17 +16581,12 @@
             300,
             2,
             300,
-            15,
-            1000,
-            120,
-            1000,
+            15000,
+            120000,
             2,
-            60,
-            17,
+            77,
             1,
-            1000,
-            7,
-            100,
+            1700,
             70,
             70,
             1,
@@ -16657,10 +16601,8 @@
             3,
             2,
             1000,
-            20,
-            3,
-            20,
-            2,
+            23,
+            22,
             30,
             30,
             30,
@@ -16673,8 +16615,7 @@
             2,
             2,
             4,
-            42,
-            1000,
+            42000,
             6,
             30,
             30,
@@ -16705,8 +16646,7 @@
             20,
             2,
             1,
-            11,
-            100,
+            1100,
             7,
             7,
             7,
@@ -16717,24 +16657,19 @@
             2,
             1,
             20,
-            11,
-            100,
-            11,
-            100,
+            1100,
+            1100,
             200,
             1,
             10,
             1,
             5,
             5,
-            6,
-            100,
+            600,
             5,
-            6,
-            100,
+            600,
             5,
-            6,
-            100,
+            600,
             1,
             1,
             4,
@@ -16745,8 +16680,7 @@
             1,
             12,
             1,
-            400,
-            1000,
+            400000,
             1,
             10,
             100,
@@ -16757,39 +16691,30 @@
             1,
             20,
             6000,
-            7,
-            100,
-            7,
-            100,
+            700,
+            700,
             1,
-            400,
-            1000,
+            400000,
             1,
             1,
             22000,
             1,
             2,
             2,
-            18,
-            1000,
+            18000,
             3,
             1,
             30,
             1,
             10000,
-            25,
-            1000,
-            100,
+            25100,
             30,
             1,
-            18,
-            1000,
+            18000,
             5000,
             2000,
-            25,
-            1000,
-            6,
-            100,
+            25000,
+            600,
             4,
             1,
             1,
@@ -16801,39 +16726,46 @@
             "1": 31,
             "10000": 8,
             "70": 8,
-            "3": 10,
+            "3": 9,
             "110": 1,
             "5": 6,
             "8": 2,
-            "18": 4,
-            "2": 20,
+            "18": 2,
+            "2": 19,
             "80": 1,
-            "6": 6,
-            "100": 17,
-            "9": 2,
-            "20": 7,
-            "1000": 16,
-            "7": 15,
+            "600": 5,
+            "900": 2,
+            "20": 5,
+            "1000": 6,
+            "7": 12,
             "10": 4,
             "22000": 2,
             "300": 8,
-            "15": 1,
-            "120": 1,
-            "60": 1,
-            "17": 1,
+            "100": 3,
+            "15000": 1,
+            "120000": 1,
+            "77": 1,
+            "1700": 1,
             "4": 5,
+            "23": 1,
+            "22": 1,
             "30": 15,
-            "42": 1,
+            "42000": 1,
+            "6": 1,
             "3000": 2,
-            "11": 3,
+            "1100": 3,
             "200": 1,
             "12": 1,
-            "400": 3,
+            "400000": 2,
             "6000": 1,
-            "25": 2,
+            "700": 2,
+            "18000": 2,
+            "25100": 1,
             "5000": 1,
             "2000": 1,
-            "12000": 1
+            "25000": 1,
+            "12000": 1,
+            "400": 1
         },
         "verses_with_numbers": [
             {
@@ -16939,20 +16871,18 @@
                 "book": "JUDGES",
                 "chapter": "3",
                 "verse": 31,
-                "text": "# And after him was Shamgar the son of Anath, which slew of the Philistines <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men with an ox goad: and he also delivered Israel.",
+                "text": "# And after him was Shamgar the son of Anath, which slew of the Philistines <strong>SIX HUNDRED (600)</strong>  men with an ox goad: and he also delivered Israel.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
                 "book": "JUDGES",
                 "chapter": "4",
                 "verse": 3,
-                "text": "And the children of Israel cried unto the LORD: for he had <strong>NINE (9)</strong>  <strong>HUNDRED (100)</strong>  chariots of iron; and <strong>TWENTY (20)</strong>  years he mightily oppressed the children of Israel.",
+                "text": "And the children of Israel cried unto the LORD: for he had <strong>NINE HUNDRED (900)</strong>  chariots of iron; and <strong>TWENTY (20)</strong>  years he mightily oppressed the children of Israel.",
                 "numeric_numbers": [
-                    "9",
-                    "100",
+                    "900",
                     "20"
                 ]
             },
@@ -16978,10 +16908,9 @@
                 "book": "JUDGES",
                 "chapter": "4",
                 "verse": 13,
-                "text": "And Sisera gathered together all his chariots, <strong>NINE (9)</strong>  <strong>HUNDRED (100)</strong>  chariots of iron, and all the people that with him, from Harosheth of the Gentiles unto the river of Kishon.",
+                "text": "And Sisera gathered together all his chariots, <strong>NINE HUNDRED (900)</strong>  chariots of iron, and all the people that with him, from Harosheth of the Gentiles unto the river of Kishon.",
                 "numeric_numbers": [
-                    "9",
-                    "100"
+                    "900"
                 ]
             },
             {
@@ -17181,12 +17110,10 @@
                 "book": "JUDGES",
                 "chapter": "8",
                 "verse": 10,
-                "text": "# Now Zebah and Zalmunna in Karkor, and their hosts with them, about <strong>FIFTEEN (15)</strong>  <strong>THOUSAND (1000)</strong>  , all that were left of all the hosts of the children of the east: for there fell an <strong>HUNDRED AND TWENTY (120)</strong>  <strong>THOUSAND (1000)</strong>  men that drew sword.",
+                "text": "# Now Zebah and Zalmunna in Karkor, and their hosts with them, about <strong>FIFTEEN THOUSAND (15000)</strong>  , all that were left of all the hosts of the children of the east: for there fell an <strong>HUNDRED AND TWENTY THOUSAND (120000)</strong>  men that drew sword.",
                 "numeric_numbers": [
-                    "15",
-                    "1000",
-                    "120",
-                    "1000"
+                    "15000",
+                    "120000"
                 ]
             },
             {
@@ -17202,10 +17129,9 @@
                 "book": "JUDGES",
                 "chapter": "8",
                 "verse": 14,
-                "text": "And caught a young man of the men of Succoth, and enquired of him: and he described unto him the princes of Succoth, and the elders thereof, <strong>THREESCORE (60)</strong>  and <strong>SEVENTEEN (17)</strong>  men.",
+                "text": "And caught a young man of the men of Succoth, and enquired of him: and he described unto him the princes of Succoth, and the elders thereof, <strong>THREESCORE AND SEVENTEEN (77)</strong>  men.",
                 "numeric_numbers": [
-                    "60",
-                    "17"
+                    "77"
                 ]
             },
             {
@@ -17221,11 +17147,9 @@
                 "book": "JUDGES",
                 "chapter": "8",
                 "verse": 26,
-                "text": "And the weight of the golden earrings that he requested was a <strong>THOUSAND (1000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  of gold; beside ornaments, and collars, and purple raiment that on the kings of Midian, and beside the chains that about their camels' necks.",
+                "text": "And the weight of the golden earrings that he requested was a <strong>THOUSAND AND SEVEN HUNDRED (1700)</strong>  of gold; beside ornaments, and collars, and purple raiment that on the kings of Midian, and beside the chains that about their camels' necks.",
                 "numeric_numbers": [
-                    "1000",
-                    "7",
-                    "100"
+                    "1700"
                 ]
             },
             {
@@ -17334,20 +17258,18 @@
                 "book": "JUDGES",
                 "chapter": "10",
                 "verse": 2,
-                "text": "And he judged Israel <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong>  years, and died, and was buried in Shamir.",
+                "text": "And he judged Israel <strong>TWENTY AND THREE (23)</strong>  years, and died, and was buried in Shamir.",
                 "numeric_numbers": [
-                    "20",
-                    "3"
+                    "23"
                 ]
             },
             {
                 "book": "JUDGES",
                 "chapter": "10",
                 "verse": 3,
-                "text": "# And after him arose Jair, a Gileadite, and judged Israel <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong>  years.",
+                "text": "# And after him arose Jair, a Gileadite, and judged Israel <strong>TWENTY AND TWO (22)</strong>  years.",
                 "numeric_numbers": [
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
@@ -17446,10 +17368,9 @@
                 "book": "JUDGES",
                 "chapter": "12",
                 "verse": 6,
-                "text": "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites <strong>FORTY AND TWO (42)</strong>  <strong>THOUSAND (1000)</strong> .",
+                "text": "Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites <strong>FORTY AND TWO THOUSAND (42000)</strong> .",
                 "numeric_numbers": [
-                    "42",
-                    "1000"
+                    "42000"
                 ]
             },
             {
@@ -17637,11 +17558,10 @@
                 "book": "JUDGES",
                 "chapter": "16",
                 "verse": 5,
-                "text": "And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength , and by what we may prevail against him, that we may bind him to afflict him: and we will give thee every <strong>ONE (1)</strong>  of us <strong>ELEVEN (11)</strong>  <strong>HUNDRED (100)</strong>  of silver.",
+                "text": "And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength , and by what we may prevail against him, that we may bind him to afflict him: and we will give thee every <strong>ONE (1)</strong>  of us <strong>ELEVEN HUNDRED (1100)</strong>  of silver.",
                 "numeric_numbers": [
                     "1",
-                    "11",
-                    "100"
+                    "1100"
                 ]
             },
             {
@@ -17730,20 +17650,18 @@
                 "book": "JUDGES",
                 "chapter": "17",
                 "verse": 2,
-                "text": "And he said unto his mother, The <strong>ELEVEN (11)</strong>  <strong>HUNDRED (100)</strong>  of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver with me; I took it. And his mother said, Blessed of the LORD, my son.",
+                "text": "And he said unto his mother, The <strong>ELEVEN HUNDRED (1100)</strong>  of silver that were taken from thee, about which thou cursedst, and spakest of also in mine ears, behold, the silver with me; I took it. And his mother said, Blessed of the LORD, my son.",
                 "numeric_numbers": [
-                    "11",
-                    "100"
+                    "1100"
                 ]
             },
             {
                 "book": "JUDGES",
                 "chapter": "17",
                 "verse": 3,
-                "text": "And when he had restored the <strong>ELEVEN (11)</strong>  <strong>HUNDRED (100)</strong>  of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee.",
+                "text": "And when he had restored the <strong>ELEVEN HUNDRED (1100)</strong>  of silver to his mother, his mother said, I had wholly dedicated the silver unto the LORD from my hand for my son, to make a graven image and a molten image: now therefore I will restore it unto thee.",
                 "numeric_numbers": [
-                    "11",
-                    "100"
+                    "1100"
                 ]
             },
             {
@@ -17804,10 +17722,9 @@
                 "book": "JUDGES",
                 "chapter": "18",
                 "verse": 11,
-                "text": "# And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men appointed with weapons of war.",
+                "text": "# And there went from thence of the family of the Danites, out of Zorah and out of Eshtaol, <strong>SIX HUNDRED (600)</strong>  men appointed with weapons of war.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -17823,21 +17740,19 @@
                 "book": "JUDGES",
                 "chapter": "18",
                 "verse": 16,
-                "text": "And the <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men appointed with their weapons of war, which of the children of Dan, stood by the entering of the gate.",
+                "text": "And the <strong>SIX HUNDRED (600)</strong>  men appointed with their weapons of war, which of the children of Dan, stood by the entering of the gate.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
                 "book": "JUDGES",
                 "chapter": "18",
                 "verse": 17,
-                "text": "And the <strong>FIVE (5)</strong>  men that went to spy out the land went up, came in thither, took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men appointed with weapons of war.",
+                "text": "And the <strong>FIVE (5)</strong>  men that went to spy out the land went up, came in thither, took the graven image, and the ephod, and the teraphim, and the molten image: and the priest stood in the entering of the gate with the <strong>SIX HUNDRED (600)</strong>  men appointed with weapons of war.",
                 "numeric_numbers": [
                     "5",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -17934,10 +17849,9 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 2,
-                "text": "And the chief of all the people, of all the tribes of Israel, presented themselves in the assembly of the people of God, <strong>FOUR HUNDRED (400)</strong>  <strong>THOUSAND (1000)</strong>  footmen that drew sword.",
+                "text": "And the chief of all the people, of all the tribes of Israel, presented themselves in the assembly of the people of God, <strong>FOUR HUNDRED THOUSAND (400000)</strong>  footmen that drew sword.",
                 "numeric_numbers": [
-                    "400",
-                    "1000"
+                    "400000"
                 ]
             },
             {
@@ -17976,22 +17890,20 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 15,
-                "text": "And the children of Benjamin were numbered at that time out of the cities <strong>TWENTY (20)</strong>  and <strong>SIX THOUSAND (6000)</strong>  men that drew sword, beside the inhabitants of Gibeah, which were numbered <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  chosen men.",
+                "text": "And the children of Benjamin were numbered at that time out of the cities <strong>TWENTY (20)</strong>  and <strong>SIX THOUSAND (6000)</strong>  men that drew sword, beside the inhabitants of Gibeah, which were numbered <strong>SEVEN HUNDRED (700)</strong>  chosen men.",
                 "numeric_numbers": [
                     "20",
                     "6000",
-                    "7",
-                    "100"
+                    "700"
                 ]
             },
             {
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 16,
-                "text": "Among all this people <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  chosen men lefthanded; every <strong>ONE (1)</strong>  could sling stones at an hair , and not miss.",
+                "text": "Among all this people <strong>SEVEN HUNDRED (700)</strong>  chosen men lefthanded; every <strong>ONE (1)</strong>  could sling stones at an hair , and not miss.",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "1"
                 ]
             },
@@ -17999,10 +17911,9 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 17,
-                "text": "And the men of Israel, beside Benjamin, were numbered <strong>FOUR HUNDRED (400)</strong>  <strong>THOUSAND (1000)</strong>  men that drew sword: all these men of war.",
+                "text": "And the men of Israel, beside Benjamin, were numbered <strong>FOUR HUNDRED THOUSAND (400000)</strong>  men that drew sword: all these men of war.",
                 "numeric_numbers": [
-                    "400",
-                    "1000"
+                    "400000"
                 ]
             },
             {
@@ -18046,11 +17957,10 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 25,
-                "text": "And Benjamin went forth against them out of Gibeah the <strong>SECOND DAY (2)</strong> , and destroyed down to the ground of the children of Israel again <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong>  men; all these drew the sword.",
+                "text": "And Benjamin went forth against them out of Gibeah the <strong>SECOND DAY (2)</strong> , and destroyed down to the ground of the children of Israel again <strong>EIGHTEEN THOUSAND (18000)</strong>  men; all these drew the sword.",
                 "numeric_numbers": [
                     "2",
-                    "18",
-                    "1000"
+                    "18000"
                 ]
             },
             {
@@ -18094,11 +18004,9 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 35,
-                "text": "And the LORD smote Benjamin before Israel: and the children of Israel destroyed of the Benjamites that day <strong>TWENTY AND FIVE (25)</strong>  <strong>THOUSAND (1000)</strong>  and an <strong>HUNDRED (100)</strong>  men: all these drew the sword.",
+                "text": "And the LORD smote Benjamin before Israel: and the children of Israel destroyed of the Benjamites that day <strong>TWENTY AND FIVE THOUSAND AND AN HUNDRED (25100)</strong>  men: all these drew the sword.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
-                    "100"
+                    "25100"
                 ]
             },
             {
@@ -18115,10 +18023,9 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 44,
-                "text": "And there fell of Benjamin <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong>  men; all these men of valour.",
+                "text": "And there fell of Benjamin <strong>EIGHTEEN THOUSAND (18000)</strong>  men; all these men of valour.",
                 "numeric_numbers": [
-                    "18",
-                    "1000"
+                    "18000"
                 ]
             },
             {
@@ -18135,20 +18042,18 @@
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 46,
-                "text": "So that all which fell that day of Benjamin were <strong>TWENTY AND FIVE (25)</strong>  <strong>THOUSAND (1000)</strong>  men that drew the sword; all these men of valour.",
+                "text": "So that all which fell that day of Benjamin were <strong>TWENTY AND FIVE THOUSAND (25000)</strong>  men that drew the sword; all these men of valour.",
                 "numeric_numbers": [
-                    "25",
-                    "1000"
+                    "25000"
                 ]
             },
             {
                 "book": "JUDGES",
                 "chapter": "20",
                 "verse": 47,
-                "text": "But <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon <strong>FOUR (4)</strong>  months.",
+                "text": "But <strong>SIX HUNDRED (600)</strong>  men turned and fled to the wilderness unto the rock Rimmon, and abode in the rock Rimmon <strong>FOUR (4)</strong>  months.",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "4"
                 ]
             },
@@ -18200,9 +18105,6 @@
         ],
         "repeating_patterns": {
             "(1, 10000)": 2,
-            "(6, 100)": 5,
-            "(9, 100)": 2,
-            "(1000, 2)": 2,
             "(2, 7)": 2,
             "(1, 2)": 3,
             "(2, 1)": 4,
@@ -18212,47 +18114,32 @@
             "(1, 300)": 2,
             "(300, 300)": 2,
             "(300, 2)": 2,
-            "(7, 100)": 3,
             "(70, 70)": 2,
             "(70, 1)": 3,
             "(1, 70)": 2,
             "(4, 3)": 2,
             "(2, 1000)": 2,
-            "(1000, 20)": 2,
-            "(20, 2)": 2,
             "(30, 30)": 6,
             "(2, 2)": 3,
-            "(1000, 6)": 2,
             "(30, 7)": 2,
             "(7, 30)": 2,
             "(3, 7)": 2,
             "(7, 7)": 4,
             "(3000, 2)": 2,
             "(1000, 1000)": 2,
-            "(11, 100)": 3,
-            "(100, 7)": 2,
             "(1, 20)": 2,
             "(1, 10)": 2,
-            "(5, 6)": 3,
-            "(100, 5)": 2,
-            "(100, 1)": 2,
-            "(1, 400)": 2,
-            "(400, 1000)": 2,
-            "(1000, 1)": 2,
-            "(18, 1000)": 2,
+            "(5, 600)": 3,
+            "(600, 5)": 2,
+            "(1, 400000)": 2,
+            "(400000, 1)": 2,
             "(30, 1)": 2,
-            "(25, 1000)": 2,
             "(70, 70, 1)": 2,
             "(70, 1, 70)": 2,
             "(30, 30, 30)": 4,
             "(1, 2, 2)": 2,
             "(7, 7, 7)": 2,
-            "(5, 6, 100)": 3,
-            "(6, 100, 5)": 2,
-            "(100, 5, 6)": 2,
-            "(1, 400, 1000)": 2,
-            "(400, 1000, 1)": 2,
-            "(1, 400, 1000, 1)": 2
+            "(1, 400000, 1)": 2
         }
     },
     {
@@ -18524,12 +18411,10 @@
             30000,
             6000,
             7,
-            6,
-            100,
+            600,
             3,
             1,
-            6,
-            100,
+            600,
             1,
             1,
             1,
@@ -18548,8 +18433,7 @@
             1,
             6,
             5000,
-            6,
-            100,
+            600,
             1,
             8,
             3,
@@ -18590,8 +18474,7 @@
             80,
             5,
             1,
-            6,
-            100,
+            600,
             2,
             3000,
             3000,
@@ -18614,8 +18497,7 @@
             1,
             1,
             1,
-            6,
-            100,
+            600,
             2,
             4,
             2,
@@ -18623,8 +18505,7 @@
             10,
             3,
             2,
-            6,
-            100,
+            600,
             400,
             200,
             2,
@@ -18657,12 +18538,13 @@
             "3000": 4,
             "2000": 1,
             "6000": 1,
-            "6": 7,
-            "100": 8,
+            "600": 6,
             "200": 7,
             "10000": 1,
+            "6": 1,
             "5000": 1,
             "40": 1,
+            "100": 2,
             "400": 4,
             "80": 1
         },
@@ -19125,10 +19007,9 @@
                 "book": "1 SAMUEL",
                 "chapter": "13",
                 "verse": 15,
-                "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people present with him, about <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men.",
+                "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people present with him, about <strong>SIX HUNDRED (600)</strong>  men.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -19145,10 +19026,9 @@
                 "book": "1 SAMUEL",
                 "chapter": "14",
                 "verse": 2,
-                "text": "And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which in Migron: and the people that with him about <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men;",
+                "text": "And Saul tarried in the uttermost part of Gibeah under a pomegranate tree which in Migron: and the people that with him about <strong>SIX HUNDRED (600)</strong>  men;",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -19285,10 +19165,9 @@
                 "book": "1 SAMUEL",
                 "chapter": "17",
                 "verse": 7,
-                "text": "And the staff of his spear like a weaver's beam; and his spear's head <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  shekels of iron: and <strong>ONE (1)</strong>  bearing a shield went before him.",
+                "text": "And the staff of his spear like a weaver's beam; and his spear's head <strong>SIX HUNDRED (600)</strong>  shekels of iron: and <strong>ONE (1)</strong>  bearing a shield went before him.",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "1"
                 ]
             },
@@ -19567,10 +19446,9 @@
                 "book": "1 SAMUEL",
                 "chapter": "23",
                 "verse": 13,
-                "text": "# Then David and his men, about <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong> , arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth.",
+                "text": "# Then David and his men, about <strong>SIX HUNDRED (600)</strong> , arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -19719,10 +19597,9 @@
                 "book": "1 SAMUEL",
                 "chapter": "27",
                 "verse": 2,
-                "text": "And David arose, and he passed over with the <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men that with him unto Achish, the son of Maoch, king of Gath.",
+                "text": "And David arose, and he passed over with the <strong>SIX HUNDRED (600)</strong>  men that with him unto Achish, the son of Maoch, king of Gath.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -19784,10 +19661,9 @@
                 "book": "1 SAMUEL",
                 "chapter": "30",
                 "verse": 9,
-                "text": "So David went, he and the <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men that with him, and came to the brook Besor, where those that were left behind stayed.",
+                "text": "So David went, he and the <strong>SIX HUNDRED (600)</strong>  men that with him, and came to the brook Besor, where those that were left behind stayed.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -19898,15 +19774,14 @@
             "(7, 1)": 3,
             "(1000, 30000)": 2,
             "(2, 3000)": 2,
-            "(6, 100)": 6,
-            "(1, 6)": 4,
-            "(100, 1)": 2,
+            "(1, 600)": 3,
+            "(600, 1)": 2,
             "(2, 200)": 2,
             "(10, 1000)": 2,
             "(100, 200)": 2,
             "(200, 3)": 2,
             "(1, 10)": 2,
-            "(100, 2)": 2,
+            "(600, 2)": 2,
             "(400, 200)": 2,
             "(200, 2)": 2,
             "(2, 1, 2)": 3,
@@ -19919,19 +19794,15 @@
             "(3, 1, 3)": 2,
             "(1, 3, 3)": 2,
             "(7, 1, 1)": 2,
-            "(1, 6, 100)": 3,
-            "(6, 100, 1)": 2,
-            "(1, 1, 6)": 2,
             "(3, 3, 3)": 3,
             "(10, 10, 1000)": 2,
             "(200, 3, 3)": 2,
-            "(6, 100, 2)": 2,
+            "(1, 600, 2)": 2,
             "(3, 2, 1, 2)": 2,
             "(2, 1, 1, 1)": 2,
             "(1, 1, 1, 1)": 4,
             "(3, 1, 3, 3)": 2,
             "(1, 3, 3, 2)": 2,
-            "(1, 6, 100, 2)": 2,
             "(3, 1, 3, 3, 2)": 2
         }
     },
@@ -19988,16 +19859,14 @@
             2,
             1,
             1000,
-            7,
-            100,
+            700,
             20,
             1000,
             100,
             2,
             20,
             1000,
-            18,
-            1000,
+            18000,
             15,
             20,
             1,
@@ -20006,8 +19875,7 @@
             1000,
             1000,
             12000,
-            7,
-            100,
+            700,
             1000,
             1,
             2,
@@ -20032,8 +19900,7 @@
             1,
             200,
             10,
-            6,
-            100,
+            600,
             2,
             2,
             200,
@@ -20119,25 +19986,27 @@
             "2": 18,
             "3": 25,
             "1": 46,
-            "7": 8,
-            "6": 7,
+            "7": 6,
+            "6": 6,
             "12": 2,
             "5": 7,
             "19": 1,
             "300": 3,
             "60": 1,
             "4": 2,
-            "100": 7,
+            "100": 4,
             "20": 8,
             "30": 4,
             "33": 1,
             "30000": 1,
-            "1000": 13,
-            "18": 1,
+            "1000": 12,
+            "700": 2,
+            "18000": 1,
             "15": 2,
             "12000": 2,
             "200": 3,
             "10": 5,
+            "600": 1,
             "10000": 1,
             "80": 2,
             "24": 1,
@@ -20496,11 +20365,10 @@
                 "book": "2 SAMUEL",
                 "chapter": "8",
                 "verse": 4,
-                "text": "And David took from him a <strong>THOUSAND (1000)</strong>  , and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  horsemen, and <strong>TWENTY (20)</strong>  <strong>THOUSAND (1000)</strong>  footmen: and David houghed all the chariot , but reserved of them an <strong>HUNDRED (100)</strong>  chariots.",
+                "text": "And David took from him a <strong>THOUSAND (1000)</strong>  , and <strong>SEVEN HUNDRED (700)</strong>  horsemen, and <strong>TWENTY (20)</strong>  <strong>THOUSAND (1000)</strong>  footmen: and David houghed all the chariot , but reserved of them an <strong>HUNDRED (100)</strong>  chariots.",
                 "numeric_numbers": [
                     "1000",
-                    "7",
-                    "100",
+                    "700",
                     "20",
                     "1000",
                     "100"
@@ -20521,10 +20389,9 @@
                 "book": "2 SAMUEL",
                 "chapter": "8",
                 "verse": 13,
-                "text": "And David gat a name when he returned from smiting of the Syrians in the valley of salt, <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong>  .",
+                "text": "And David gat a name when he returned from smiting of the Syrians in the valley of salt, <strong>EIGHTEEN THOUSAND (18000)</strong>  .",
                 "numeric_numbers": [
-                    "18",
-                    "1000"
+                    "18000"
                 ]
             },
             {
@@ -20571,10 +20438,9 @@
                 "book": "2 SAMUEL",
                 "chapter": "10",
                 "verse": 18,
-                "text": "And the Syrians fled before Israel; and David slew <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  chariots of the Syrians, and forty <strong>THOUSAND (1000)</strong>  horsemen, and smote Shobach the captain of their host, who died there.",
+                "text": "And the Syrians fled before Israel; and David slew <strong>SEVEN HUNDRED (700)</strong>  chariots of the Syrians, and forty <strong>THOUSAND (1000)</strong>  horsemen, and smote Shobach the captain of their host, who died there.",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "1000"
                 ]
             },
@@ -20749,10 +20615,9 @@
                 "book": "2 SAMUEL",
                 "chapter": "15",
                 "verse": 18,
-                "text": "And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  men which came after him from Gath, passed on before the king.",
+                "text": "And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, <strong>SIX HUNDRED (600)</strong>  men which came after him from Gath, passed on before the king.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -21279,14 +21144,10 @@
             "(1, 3)": 6,
             "(1, 5)": 2,
             "(5, 1)": 4,
-            "(100, 20)": 2,
             "(2, 1)": 7,
             "(1, 30)": 2,
             "(1, 1000)": 2,
-            "(7, 100)": 2,
             "(20, 1000)": 4,
-            "(100, 2)": 2,
-            "(1000, 15)": 2,
             "(15, 20)": 2,
             "(20, 1)": 2,
             "(1, 7)": 2,
@@ -21303,7 +21164,6 @@
             "(5, 1, 1)": 2,
             "(1, 2, 1)": 5,
             "(1, 1, 1)": 5,
-            "(1000, 15, 20)": 2,
             "(15, 20, 1)": 2,
             "(2, 1, 1)": 3,
             "(2, 2, 1)": 2,
@@ -21312,7 +21172,6 @@
             "(3, 3, 3)": 3,
             "(3, 1, 2, 2)": 2,
             "(1, 1, 1, 1)": 2,
-            "(1000, 15, 20, 1)": 2,
             "(1, 2, 1, 1)": 2,
             "(2, 1, 1, 1)": 2,
             "(1, 3, 3, 3)": 2
@@ -21495,8 +21354,7 @@
             2,
             20,
             1000,
-            120,
-            1000,
+            120000,
             7,
             7,
             14,
@@ -21514,8 +21372,7 @@
             1,
             666,
             200,
-            6,
-            100,
+            600,
             1,
             300,
             3,
@@ -21529,11 +21386,9 @@
             1000,
             400,
             12000,
-            6,
-            100,
+            600,
             150,
-            7,
-            100,
+            700,
             300,
             1,
             6,
@@ -21570,8 +21425,7 @@
             2,
             3,
             3,
-            20,
-            4,
+            24,
             20,
             6,
             2,
@@ -21589,8 +21443,7 @@
             2,
             30,
             8,
-            20,
-            2,
+            22,
             2,
             1,
             3,
@@ -21659,18 +21512,18 @@
             2
         ],
         "number_counts": {
-            "2": 53,
-            "7": 16,
+            "2": 52,
+            "7": 15,
             "33": 1,
             "1": 63,
             "3": 29,
-            "1000": 11,
+            "1000": 10,
             "12": 10,
             "60": 3,
             "30": 8,
             "10": 19,
-            "20": 21,
-            "100": 8,
+            "20": 19,
+            "100": 5,
             "12000": 2,
             "3000": 2,
             "5": 15,
@@ -21680,8 +21533,8 @@
             "80": 1,
             "300": 3,
             "400": 8,
-            "4": 16,
-            "6": 8,
+            "4": 15,
+            "6": 6,
             "11": 1,
             "8": 6,
             "13": 1,
@@ -21689,13 +21542,18 @@
             "18": 2,
             "200": 3,
             "2000": 1,
-            "120": 2,
+            "120000": 1,
             "14": 1,
             "500": 1,
+            "120": 1,
             "666": 1,
+            "600": 2,
             "150": 1,
+            "700": 1,
             "180": 1,
             "17": 2,
+            "24": 1,
+            "22": 1,
             "40": 2,
             "7000": 3,
             "32": 3,
@@ -22518,13 +22376,12 @@
                 "book": "1 KINGS",
                 "chapter": "8",
                 "verse": 63,
-                "text": "And Solomon offered a sacrifice of peace offerings, which he offered unto the LORD, <strong>TWO (2)</strong>  and <strong>TWENTY (20)</strong>  <strong>THOUSAND (1000)</strong>  oxen, and an <strong>HUNDRED AND TWENTY (120)</strong>  <strong>THOUSAND (1000)</strong>  sheep. So the king and all the children of Israel dedicated the house of the LORD.",
+                "text": "And Solomon offered a sacrifice of peace offerings, which he offered unto the LORD, <strong>TWO (2)</strong>  and <strong>TWENTY (20)</strong>  <strong>THOUSAND (1000)</strong>  oxen, and an <strong>HUNDRED AND TWENTY THOUSAND (120000)</strong>  sheep. So the king and all the children of Israel dedicated the house of the LORD.",
                 "numeric_numbers": [
                     "2",
                     "20",
                     "1000",
-                    "120",
-                    "1000"
+                    "120000"
                 ]
             },
             {
@@ -22635,11 +22492,10 @@
                 "book": "1 KINGS",
                 "chapter": "10",
                 "verse": 16,
-                "text": "# And king Solomon made <strong>TWO HUNDRED (200)</strong>  targets beaten gold: <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  of gold went to <strong>ONE (1)</strong>  target.",
+                "text": "# And king Solomon made <strong>TWO HUNDRED (200)</strong>  targets beaten gold: <strong>SIX HUNDRED (600)</strong>  of gold went to <strong>ONE (1)</strong>  target.",
                 "numeric_numbers": [
                     "200",
-                    "6",
-                    "100",
+                    "600",
                     "1"
                 ]
             },
@@ -22699,10 +22555,9 @@
                 "book": "1 KINGS",
                 "chapter": "10",
                 "verse": 29,
-                "text": "And a chariot came up and went out of Egypt for <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  of silver, and an horse for an <strong>HUNDRED AND FIFTY (150)</strong> : and so for all the kings of the Hittites, and for the kings of Syria, did they bring out by their means.",
+                "text": "And a chariot came up and went out of Egypt for <strong>SIX HUNDRED (600)</strong>  of silver, and an horse for an <strong>HUNDRED AND FIFTY (150)</strong> : and so for all the kings of the Hittites, and for the kings of Syria, did they bring out by their means.",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "150"
                 ]
             },
@@ -22710,10 +22565,9 @@
                 "book": "1 KINGS",
                 "chapter": "11",
                 "verse": 3,
-                "text": "And he had <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  wives, princesses, and <strong>THREE HUNDRED (300)</strong>  concubines: and his wives turned away his heart.",
+                "text": "And he had <strong>SEVEN HUNDRED (700)</strong>  wives, princesses, and <strong>THREE HUNDRED (300)</strong>  concubines: and his wives turned away his heart.",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "300"
                 ]
             },
@@ -22963,11 +22817,10 @@
                 "book": "1 KINGS",
                 "chapter": "15",
                 "verse": 33,
-                "text": "In the <strong>THIRD (3)</strong>  year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, <strong>TWENTY (20)</strong>  and <strong>FOUR (4)</strong>  years.",
+                "text": "In the <strong>THIRD (3)</strong>  year of Asa king of Judah began Baasha the son of Ahijah to reign over all Israel in Tirzah, <strong>TWENTY AND FOUR (24)</strong>  years.",
                 "numeric_numbers": [
                     "3",
-                    "20",
-                    "4"
+                    "24"
                 ]
             },
             {
@@ -23045,12 +22898,11 @@
                 "book": "1 KINGS",
                 "chapter": "16",
                 "verse": 29,
-                "text": "# And in the <strong>THIRTY (30)</strong>  and <strong>EIGHTH (8)</strong>  year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong>  years.",
+                "text": "# And in the <strong>THIRTY (30)</strong>  and <strong>EIGHTH (8)</strong>  year of Asa king of Judah began Ahab the son of Omri to reign over Israel: and Ahab the son of Omri reigned over Israel in Samaria <strong>TWENTY AND TWO (22)</strong>  years.",
                 "numeric_numbers": [
                     "30",
                     "8",
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
@@ -23500,7 +23352,7 @@
             "(100, 1000)": 2,
             "(5, 20)": 2,
             "(20, 1000)": 2,
-            "(20, 2)": 4,
+            "(20, 2)": 3,
             "(4, 2)": 4,
             "(10, 5)": 2,
             "(6, 3)": 2,
@@ -23513,7 +23365,7 @@
             "(10, 1)": 9,
             "(5, 2)": 2,
             "(2, 4)": 2,
-            "(2, 2)": 10,
+            "(2, 2)": 9,
             "(3, 4)": 2,
             "(3, 3)": 10,
             "(30, 1)": 2,
@@ -23534,14 +23386,10 @@
             "(7, 7)": 4,
             "(1, 20)": 3,
             "(3, 400)": 2,
-            "(6, 100)": 2,
-            "(100, 1)": 2,
             "(3, 1)": 2,
             "(1, 6)": 3,
             "(6, 2)": 4,
-            "(7, 100)": 2,
             "(20, 1)": 2,
-            "(3, 20)": 2,
             "(20, 7)": 2,
             "(2, 30)": 2,
             "(32, 1)": 2,
@@ -23558,7 +23406,7 @@
             "(1, 10, 1)": 5,
             "(2, 4, 2)": 2,
             "(4, 2, 2)": 2,
-            "(2, 2, 1)": 4,
+            "(2, 2, 1)": 3,
             "(3, 3, 3)": 4,
             "(1, 5, 5)": 2,
             "(5, 5, 7)": 2,
@@ -23610,8 +23458,7 @@
             1,
             3,
             1,
-            7,
-            100,
+            700,
             2,
             1,
             1,
@@ -23699,8 +23546,7 @@
             3,
             2,
             25,
-            20,
-            9,
+            29,
             10000,
             1,
             1,
@@ -23740,8 +23586,7 @@
             1,
             3,
             25,
-            20,
-            9,
+            29,
             4,
             7,
             3,
@@ -23771,8 +23616,7 @@
             5,
             2,
             1,
-            20,
-            2,
+            22,
             2,
             8,
             31,
@@ -23780,8 +23624,7 @@
             2,
             2,
             18,
-            20,
-            3,
+            23,
             3,
             100,
             1,
@@ -23794,8 +23637,7 @@
             10000,
             7000,
             1000,
-            20,
-            1,
+            21,
             11,
             9,
             10,
@@ -23823,16 +23665,17 @@
             27
         ],
         "number_counts": {
-            "3": 24,
-            "2": 44,
+            "3": 23,
+            "2": 43,
             "42": 1,
             "18": 5,
             "12": 5,
-            "100": 6,
+            "100": 5,
             "1000": 4,
-            "7": 16,
-            "1": 32,
-            "20": 14,
+            "7": 15,
+            "1": 31,
+            "700": 1,
+            "20": 9,
             "10": 12,
             "6000": 1,
             "80": 3,
@@ -23847,16 +23690,20 @@
             "30": 3,
             "16": 5,
             "25": 4,
-            "9": 7,
+            "29": 2,
             "400": 1,
             "15": 3,
             "39": 2,
+            "9": 5,
             "14": 1,
             "300": 1,
             "2000": 1,
             "5000": 1,
+            "22": 1,
             "31": 1,
+            "23": 1,
             "7000": 1,
+            "21": 1,
             "19": 1,
             "60": 1,
             "37": 1,
@@ -24017,10 +23864,9 @@
                 "book": "2 KINGS",
                 "chapter": "3",
                 "verse": 26,
-                "text": "# And when the king of Moab saw that the battle was too sore for him, he took with him <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  men that drew swords, to break through unto the king of Edom: but they could not.",
+                "text": "# And when the king of Moab saw that the battle was too sore for him, he took with him <strong>SEVEN HUNDRED (700)</strong>  men that drew swords, to break through unto the king of Edom: but they could not.",
                 "numeric_numbers": [
-                    "7",
-                    "100"
+                    "700"
                 ]
             },
             {
@@ -24601,11 +24447,10 @@
                 "book": "2 KINGS",
                 "chapter": "14",
                 "verse": 2,
-                "text": "He was <strong>TWENTY AND FIVE (25)</strong>  years old when he began to reign, and reigned <strong>TWENTY (20)</strong>  and <strong>NINE (9)</strong>  years in Jerusalem. And his mother's name Jehoaddan of Jerusalem.",
+                "text": "He was <strong>TWENTY AND FIVE (25)</strong>  years old when he began to reign, and reigned <strong>TWENTY AND NINE (29)</strong>  years in Jerusalem. And his mother's name Jehoaddan of Jerusalem.",
                 "numeric_numbers": [
                     "25",
-                    "20",
-                    "9"
+                    "29"
                 ]
             },
             {
@@ -24874,11 +24719,10 @@
                 "book": "2 KINGS",
                 "chapter": "18",
                 "verse": 2,
-                "text": "<strong>TWENTY AND FIVE (25)</strong>  years old was he when he began to reign; and he reigned <strong>TWENTY (20)</strong>  and <strong>NINE (9)</strong>  years in Jerusalem. His mother's name also Abi, the daughter of Zachariah.",
+                "text": "<strong>TWENTY AND FIVE (25)</strong>  years old was he when he began to reign; and he reigned <strong>TWENTY AND NINE (29)</strong>  years in Jerusalem. His mother's name also Abi, the daughter of Zachariah.",
                 "numeric_numbers": [
                     "25",
-                    "20",
-                    "9"
+                    "29"
                 ]
             },
             {
@@ -25058,10 +24902,9 @@
                 "book": "2 KINGS",
                 "chapter": "21",
                 "verse": 19,
-                "text": "# Amon <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong>  years old when he began to reign, and he reigned <strong>TWO (2)</strong>  years in Jerusalem. And his mother's name Meshullemeth, the daughter of Haruz of Jotbah.",
+                "text": "# Amon <strong>TWENTY AND TWO (22)</strong>  years old when he began to reign, and he reigned <strong>TWO (2)</strong>  years in Jerusalem. And his mother's name Meshullemeth, the daughter of Haruz of Jotbah.",
                 "numeric_numbers": [
-                    "20",
-                    "2",
+                    "22",
                     "2"
                 ]
             },
@@ -25115,10 +24958,9 @@
                 "book": "2 KINGS",
                 "chapter": "23",
                 "verse": 31,
-                "text": "# Jehoahaz <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong>  years old when he began to reign; and he reigned <strong>THREE (3)</strong>  months in Jerusalem. And his mother's name Hamutal, the daughter of Jeremiah of Libnah.",
+                "text": "# Jehoahaz <strong>TWENTY AND THREE (23)</strong>  years old when he began to reign; and he reigned <strong>THREE (3)</strong>  months in Jerusalem. And his mother's name Hamutal, the daughter of Jeremiah of Libnah.",
                 "numeric_numbers": [
-                    "20",
-                    "3",
+                    "23",
                     "3"
                 ]
             },
@@ -25201,10 +25043,9 @@
                 "book": "2 KINGS",
                 "chapter": "24",
                 "verse": 18,
-                "text": "Zedekiah <strong>TWENTY (20)</strong>  and <strong>ONE (1)</strong>  years old when he began to reign, and he reigned <strong>ELEVEN (11)</strong>  years in Jerusalem. And his mother's name Hamutal, the daughter of Jeremiah of Libnah.",
+                "text": "Zedekiah <strong>TWENTY AND ONE (21)</strong>  years old when he began to reign, and he reigned <strong>ELEVEN (11)</strong>  years in Jerusalem. And his mother's name Hamutal, the daughter of Jeremiah of Libnah.",
                 "numeric_numbers": [
-                    "20",
-                    "1",
+                    "21",
                     "11"
                 ]
             },
@@ -25322,34 +25163,31 @@
             }
         ],
         "repeating_patterns": {
-            "(3, 3)": 4,
+            "(3, 3)": 3,
             "(3, 2)": 6,
-            "(2, 2)": 20,
+            "(2, 2)": 19,
             "(2, 3)": 4,
             "(100, 1000)": 2,
             "(7, 3)": 3,
             "(3, 1)": 2,
             "(1, 3)": 4,
-            "(1, 7)": 2,
             "(2, 1)": 6,
             "(1, 1)": 14,
             "(7, 1)": 2,
-            "(1, 20)": 3,
+            "(1, 20)": 2,
             "(7, 7)": 4,
             "(1, 80)": 2,
             "(80, 4)": 2,
             "(5, 2)": 3,
             "(2, 7)": 2,
             "(2, 20)": 2,
-            "(20, 1)": 3,
+            "(20, 1)": 2,
             "(1, 2)": 2,
             "(8, 6)": 2,
             "(3, 20)": 2,
             "(7, 16)": 2,
             "(2, 25)": 2,
-            "(25, 20)": 2,
-            "(20, 9)": 2,
-            "(20, 2)": 2,
+            "(25, 29)": 2,
             "(9, 2)": 2,
             "(3, 100)": 2,
             "(10, 10)": 4,
@@ -25367,7 +25205,6 @@
             "(2, 7, 7)": 2,
             "(1, 1, 2)": 2,
             "(1, 3, 20)": 2,
-            "(25, 20, 9)": 2,
             "(3, 2, 2, 2)": 2,
             "(2, 2, 2, 2)": 7,
             "(2, 2, 2, 1)": 2,
@@ -25423,8 +25260,7 @@
             7,
             4,
             1000,
-            7,
-            100,
+            700,
             60,
             1000,
             250,
@@ -25464,13 +25300,10 @@
             3,
             150,
             1,
-            6,
-            100,
+            600,
             950,
             6,
-            1000,
-            7,
-            100,
+            1700,
             60,
             200,
             12,
@@ -25525,19 +25358,15 @@
             1,
             100,
             4000,
-            6,
-            100,
+            600,
             3000,
-            7,
-            100,
-            20,
-            2,
+            700,
+            22,
             3000,
             20,
             1000,
             800,
-            18,
-            1000,
+            18000,
             200,
             1000,
             1000,
@@ -25545,8 +25374,7 @@
             20,
             8600,
             1000,
-            120,
-            1000,
+            120000,
             1,
             3,
             3,
@@ -25577,8 +25405,7 @@
             2,
             20,
             1000,
-            18,
-            1000,
+            18000,
             1000,
             32000,
             7000,
@@ -25601,8 +25428,7 @@
             3,
             1000,
             4,
-            6,
-            100,
+            600,
             100,
             1000,
             1000,
@@ -25652,8 +25478,7 @@
             18,
             19,
             20,
-            1,
-            20,
+            21,
             2,
             20,
             3,
@@ -25708,8 +25533,7 @@
             12,
             20,
             12,
-            1,
-            20,
+            21,
             12,
             2,
             20,
@@ -25746,12 +25570,9 @@
             2,
             4,
             2,
-            1000,
-            7,
-            100,
+            1700,
             2000,
-            7,
-            100,
+            700,
             24000,
             1,
             1,
@@ -25797,8 +25618,7 @@
             5000,
             10000,
             10000,
-            18,
-            1000,
+            18000,
             1,
             100,
             1000,
@@ -25811,23 +25631,24 @@
             1
         ],
         "number_counts": {
-            "2": 30,
-            "1": 33,
+            "2": 29,
+            "1": 31,
             "3": 43,
             "5": 17,
             "4": 25,
-            "6": 24,
-            "7": 21,
+            "6": 21,
+            "7": 16,
             "60": 5,
-            "20": 20,
+            "20": 17,
             "33": 2,
             "9": 6,
             "16": 4,
             "500": 1,
-            "1000": 35,
-            "100": 17,
+            "1000": 29,
+            "700": 3,
             "250": 1,
             "2000": 2,
+            "100": 9,
             "13": 5,
             "10": 6,
             "12": 30,
@@ -25840,7 +25661,9 @@
             "17": 3,
             "6000": 3,
             "150": 1,
+            "600": 3,
             "950": 1,
+            "1700": 2,
             "300": 2,
             "30": 8,
             "8": 9,
@@ -25848,10 +25671,12 @@
             "800": 2,
             "4000": 3,
             "3000": 3,
-            "18": 6,
+            "22": 1,
+            "18000": 3,
             "37000": 1,
             "8600": 1,
-            "120": 2,
+            "120000": 1,
+            "120": 1,
             "130": 1,
             "32000": 1,
             "24": 3,
@@ -25861,7 +25686,9 @@
             "24000": 14,
             "14": 3,
             "15": 2,
+            "18": 3,
             "19": 2,
+            "21": 2,
             "62": 1,
             "5000": 1,
             "10000": 2
@@ -26127,12 +25954,11 @@
                 "book": "1 CHRONICLES",
                 "chapter": "5",
                 "verse": 18,
-                "text": "# The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, <strong>FOUR (4)</strong>  and forty <strong>THOUSAND (1000)</strong>  <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  and <strong>THREESCORE (60)</strong> , that went out to the war.",
+                "text": "# The sons of Reuben, and the Gadites, and half the tribe of Manasseh, of valiant men, men able to bear buckler and sword, and to shoot with bow, and skilful in war, <strong>FOUR (4)</strong>  and forty <strong>THOUSAND (1000)</strong>  <strong>SEVEN HUNDRED (700)</strong>  and <strong>THREESCORE (60)</strong> , that went out to the war.",
                 "numeric_numbers": [
                     "4",
                     "1000",
-                    "7",
-                    "100",
+                    "700",
                     "60"
                 ]
             },
@@ -26354,10 +26180,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "9",
                 "verse": 6,
-                "text": "And of the sons of Zerah; Jeuel, and their brethren, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  and ninety.",
+                "text": "And of the sons of Zerah; Jeuel, and their brethren, <strong>SIX HUNDRED (600)</strong>  and ninety.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -26374,11 +26199,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "9",
                 "verse": 13,
-                "text": "And their brethren, heads of the house of their fathers, a <strong>THOUSAND (1000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  and <strong>THREESCORE (60)</strong> ; very able men for the work of the service of the house of God.",
+                "text": "And their brethren, heads of the house of their fathers, a <strong>THOUSAND AND SEVEN HUNDRED (1700)</strong>  and <strong>THREESCORE (60)</strong> ; very able men for the work of the service of the house of God.",
                 "numeric_numbers": [
-                    "1000",
-                    "7",
-                    "100",
+                    "1700",
                     "60"
                 ]
             },
@@ -26686,32 +26509,29 @@
                 "book": "1 CHRONICLES",
                 "chapter": "12",
                 "verse": 26,
-                "text": "Of the children of Levi <strong>FOUR THOUSAND (4000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong> .",
+                "text": "Of the children of Levi <strong>FOUR THOUSAND (4000)</strong>  and <strong>SIX HUNDRED (600)</strong> .",
                 "numeric_numbers": [
                     "4000",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
                 "book": "1 CHRONICLES",
                 "chapter": "12",
                 "verse": 27,
-                "text": "And Jehoiada the leader of the Aaronites, and with him <strong>THREE THOUSAND (3000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong> ;",
+                "text": "And Jehoiada the leader of the Aaronites, and with him <strong>THREE THOUSAND (3000)</strong>  and <strong>SEVEN HUNDRED (700)</strong> ;",
                 "numeric_numbers": [
                     "3000",
-                    "7",
-                    "100"
+                    "700"
                 ]
             },
             {
                 "book": "1 CHRONICLES",
                 "chapter": "12",
                 "verse": 28,
-                "text": "And Zadok, a young man mighty of valour, and of his father's house <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong>  captains.",
+                "text": "And Zadok, a young man mighty of valour, and of his father's house <strong>TWENTY AND TWO (22)</strong>  captains.",
                 "numeric_numbers": [
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
@@ -26738,10 +26558,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "12",
                 "verse": 31,
-                "text": "And of the half tribe of Manasseh <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong> , which were expressed by name, to come and make David king.",
+                "text": "And of the half tribe of Manasseh <strong>EIGHTEEN THOUSAND (18000)</strong> , which were expressed by name, to come and make David king.",
                 "numeric_numbers": [
-                    "18",
-                    "1000"
+                    "18000"
                 ]
             },
             {
@@ -26795,10 +26614,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "12",
                 "verse": 37,
-                "text": "And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an <strong>HUNDRED AND TWENTY (120)</strong>  <strong>THOUSAND (1000)</strong> .",
+                "text": "And on the other side of Jordan, of the Reubenites, and the Gadites, and of the half tribe of Manasseh, with all manner of instruments of war for the battle, an <strong>HUNDRED AND TWENTY THOUSAND (120000)</strong> .",
                 "numeric_numbers": [
-                    "120",
-                    "1000"
+                    "120000"
                 ]
             },
             {
@@ -26987,10 +26805,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "18",
                 "verse": 12,
-                "text": "Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong> .",
+                "text": "Moreover Abishai the son of Zeruiah slew of the Edomites in the valley of salt <strong>EIGHTEEN THOUSAND (18000)</strong> .",
                 "numeric_numbers": [
-                    "18",
-                    "1000"
+                    "18000"
                 ]
             },
             {
@@ -27099,10 +26916,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "21",
                 "verse": 25,
-                "text": "So David gave to Ornan for the place <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  shekels of gold by weight.",
+                "text": "So David gave to Ornan for the place <strong>SIX HUNDRED (600)</strong>  shekels of gold by weight.",
                 "numeric_numbers": [
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -27374,10 +27190,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "24",
                 "verse": 17,
-                "text": "The <strong>ONE (1)</strong>  and <strong>TWENTIETH (20)</strong>  to Jachin, the <strong>TWO (2)</strong>  and <strong>TWENTIETH (20)</strong>  to Gamul,",
+                "text": "The <strong>ONE AND TWENTIETH (21)</strong>  to Jachin, the <strong>TWO (2)</strong>  and <strong>TWENTIETH (20)</strong>  to Gamul,",
                 "numeric_numbers": [
-                    "1",
-                    "20",
+                    "21",
                     "2",
                     "20"
                 ]
@@ -27638,10 +27453,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "25",
                 "verse": 28,
-                "text": "The <strong>ONE (1)</strong>  and <strong>TWENTIETH (20)</strong>  to Hothir, , his sons, and his brethren, <strong>TWELVE (12)</strong> :",
+                "text": "The <strong>ONE AND TWENTIETH (21)</strong>  to Hothir, , his sons, and his brethren, <strong>TWELVE (12)</strong> :",
                 "numeric_numbers": [
-                    "1",
-                    "20",
+                    "21",
                     "12"
                 ]
             },
@@ -27788,22 +27602,19 @@
                 "book": "1 CHRONICLES",
                 "chapter": "26",
                 "verse": 30,
-                "text": "of the Hebronites, Hashabiah and his brethren, men of valour, a <strong>THOUSAND (1000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong> , officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.",
+                "text": "of the Hebronites, Hashabiah and his brethren, men of valour, a <strong>THOUSAND AND SEVEN HUNDRED (1700)</strong> , officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king.",
                 "numeric_numbers": [
-                    "1000",
-                    "7",
-                    "100"
+                    "1700"
                 ]
             },
             {
                 "book": "1 CHRONICLES",
                 "chapter": "26",
                 "verse": 32,
-                "text": "And his brethren, men of valour, <strong>TWO THOUSAND (2000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.",
+                "text": "And his brethren, men of valour, <strong>TWO THOUSAND (2000)</strong>  and <strong>SEVEN HUNDRED (700)</strong>  chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king.",
                 "numeric_numbers": [
                     "2000",
-                    "7",
-                    "100"
+                    "700"
                 ]
             },
             {
@@ -27988,13 +27799,12 @@
                 "book": "1 CHRONICLES",
                 "chapter": "29",
                 "verse": 7,
-                "text": "And gave for the service of the house of God of gold <strong>FIVE THOUSAND (5000)</strong>  talents and <strong>TEN THOUSAND (10000)</strong>  drams, and of silver <strong>TEN THOUSAND (10000)</strong>  talents, and of brass <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong>  talents, and <strong>ONE (1)</strong>  <strong>HUNDRED (100)</strong>  <strong>THOUSAND (1000)</strong>  talents of iron.",
+                "text": "And gave for the service of the house of God of gold <strong>FIVE THOUSAND (5000)</strong>  talents and <strong>TEN THOUSAND (10000)</strong>  drams, and of silver <strong>TEN THOUSAND (10000)</strong>  talents, and of brass <strong>EIGHTEEN THOUSAND (18000)</strong>  talents, and <strong>ONE (1)</strong>  <strong>HUNDRED (100)</strong>  <strong>THOUSAND (1000)</strong>  talents of iron.",
                 "numeric_numbers": [
                     "5000",
                     "10000",
                     "10000",
-                    "18",
-                    "1000",
+                    "18000",
                     "1",
                     "100",
                     "1000"
@@ -28056,18 +27866,13 @@
             "(3, 7)": 2,
             "(7, 2)": 2,
             "(7, 4)": 2,
-            "(1000, 7)": 3,
-            "(7, 100)": 5,
-            "(100, 60)": 2,
             "(100, 1000)": 6,
             "(13, 12)": 2,
             "(12, 4)": 3,
             "(20, 1000)": 4,
-            "(1000, 200)": 3,
+            "(1000, 200)": 2,
             "(2, 20)": 4,
-            "(1, 6)": 2,
-            "(6, 100)": 4,
-            "(4, 6)": 3,
+            "(4, 6)": 2,
             "(7, 1)": 2,
             "(1, 1)": 6,
             "(3, 3)": 9,
@@ -28081,12 +27886,8 @@
             "(9, 10)": 2,
             "(10, 11)": 2,
             "(1, 100)": 3,
-            "(1000, 1)": 3,
-            "(20, 2)": 2,
-            "(18, 1000)": 3,
-            "(1000, 1000)": 8,
+            "(1000, 1000)": 7,
             "(200, 80)": 2,
-            "(12, 1)": 2,
             "(2, 7)": 2,
             "(7, 7)": 2,
             "(1, 1000)": 2,
@@ -28096,10 +27897,9 @@
             "(4, 1)": 2,
             "(11, 12)": 2,
             "(12, 13)": 2,
-            "(1, 20)": 2,
             "(12, 3)": 2,
             "(12, 12)": 2,
-            "(20, 12)": 4,
+            "(20, 12)": 3,
             "(12, 2)": 2,
             "(4, 4)": 2,
             "(24000, 1)": 2,
@@ -28108,8 +27908,6 @@
             "(4, 5, 6)": 8,
             "(5, 6, 7)": 5,
             "(6, 3, 7)": 2,
-            "(1000, 7, 100)": 3,
-            "(7, 100, 60)": 2,
             "(7, 1, 1)": 2,
             "(1, 3, 3)": 4,
             "(3, 3, 3)": 2,
@@ -28126,7 +27924,6 @@
             "(2, 3, 4, 5)": 8,
             "(3, 4, 5, 6)": 8,
             "(4, 5, 6, 7)": 5,
-            "(1000, 7, 100, 60)": 2,
             "(1, 3, 3, 3)": 2,
             "(1, 2, 3, 4)": 4,
             "(5, 6, 7, 8)": 3,
@@ -28172,16 +27969,14 @@
             1000,
             400,
             12000,
-            6,
-            100,
+            600,
             150,
             70,
             1000,
             80,
             1000,
             3000,
-            6,
-            100,
+            600,
             20,
             1000,
             20,
@@ -28193,15 +27988,13 @@
             150,
             1000,
             3000,
-            6,
-            100,
+            600,
             70,
             1000,
             80,
             1000,
             3000,
-            6,
-            100,
+            600,
             2,
             2,
             4,
@@ -28212,8 +28005,7 @@
             120,
             20,
             20,
-            6,
-            100,
+            600,
             2,
             20,
             1,
@@ -28271,8 +28063,7 @@
             3,
             1,
             22000,
-            120,
-            1000,
+            120000,
             7,
             8,
             7,
@@ -28288,13 +28079,11 @@
             1,
             120,
             1,
-            6,
-            100,
+            600,
             60,
             6,
             200,
-            6,
-            100,
+            600,
             1,
             300,
             300,
@@ -28330,16 +28119,14 @@
             1,
             18,
             3,
-            400,
-            1000,
+            400000,
             800,
             1000,
             7,
             500,
             1000,
             14,
-            20,
-            2,
+            22,
             16,
             10,
             300,
@@ -28352,8 +28139,7 @@
             300,
             3,
             15,
-            7,
-            100,
+            700,
             7000,
             5,
             30,
@@ -28365,11 +28151,9 @@
             1,
             3,
             7000,
-            7,
-            100,
+            700,
             7000,
-            7,
-            100,
+            700,
             300,
             1000,
             200,
@@ -28409,8 +28193,7 @@
             2,
             130,
             25,
-            20,
-            9,
+            29,
             20,
             300,
             1000,
@@ -28430,8 +28213,7 @@
             16,
             2,
             2000,
-            6,
-            100,
+            600,
             300,
             1000,
             7500,
@@ -28448,8 +28230,7 @@
             16,
             20,
             16,
-            120,
-            1000,
+            120000,
             1,
             200,
             1000,
@@ -28471,8 +28252,7 @@
             70,
             100,
             200,
-            6,
-            100,
+            600,
             3000,
             2,
             1,
@@ -28511,8 +28291,7 @@
             30000,
             3000,
             2000,
-            6,
-            100,
+            600,
             300,
             5000,
             500,
@@ -28520,8 +28299,7 @@
             18,
             2,
             1,
-            20,
-            3,
+            23,
             3,
             100,
             25,
@@ -28536,56 +28314,61 @@
             1
         ],
         "number_counts": {
-            "1000": 33,
-            "400": 6,
+            "1000": 30,
+            "400": 5,
             "12000": 2,
-            "6": 15,
-            "100": 22,
+            "600": 10,
             "150": 2,
             "70": 4,
             "80": 5,
             "3000": 7,
-            "20": 23,
-            "2": 26,
+            "20": 20,
+            "2": 25,
             "4": 2,
             "1": 47,
             "60": 5,
-            "120": 5,
+            "120": 3,
             "5": 17,
             "35": 2,
+            "100": 9,
             "10": 8,
             "30": 3,
             "12": 6,
-            "3": 26,
-            "7": 21,
+            "3": 25,
+            "7": 18,
             "22000": 1,
+            "120000": 2,
             "8": 9,
             "250": 1,
+            "6": 5,
             "200": 7,
             "300": 8,
             "4000": 1,
             "180": 2,
             "18": 4,
             "17": 1,
+            "400000": 1,
             "800": 1,
             "500": 2,
             "14": 3,
+            "22": 1,
             "16": 7,
             "15": 2,
+            "700": 3,
             "7000": 4,
             "39": 1,
             "25": 6,
             "32": 2,
             "42": 1,
             "130": 1,
-            "9": 1,
+            "29": 2,
             "10000": 5,
             "2000": 2,
             "7500": 1,
-            "29": 1,
             "31": 1,
             "30000": 1,
             "5000": 1,
+            "23": 1,
             "11": 2
         },
         "verses_with_numbers": [
@@ -28613,10 +28396,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "1",
                 "verse": 17,
-                "text": "And they fetched up, and brought forth out of Egypt a chariot for <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  of silver, and an horse for an <strong>HUNDRED AND FIFTY (150)</strong> : and so brought they out for all the kings of the Hittites, and for the kings of Syria, by their means.",
+                "text": "And they fetched up, and brought forth out of Egypt a chariot for <strong>SIX HUNDRED (600)</strong>  of silver, and an horse for an <strong>HUNDRED AND FIFTY (150)</strong> : and so brought they out for all the kings of the Hittites, and for the kings of Syria, by their means.",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "150"
                 ]
             },
@@ -28624,15 +28406,14 @@
                 "book": "2 CHRONICLES",
                 "chapter": "2",
                 "verse": 2,
-                "text": "And Solomon told out <strong>THREESCORE AND TEN (70)</strong>  <strong>THOUSAND (1000)</strong>  men to bear burdens, and <strong>FOURSCORE (80)</strong>  <strong>THOUSAND (1000)</strong>  to hew in the mountain, and <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  to oversee them.",
+                "text": "And Solomon told out <strong>THREESCORE AND TEN (70)</strong>  <strong>THOUSAND (1000)</strong>  men to bear burdens, and <strong>FOURSCORE (80)</strong>  <strong>THOUSAND (1000)</strong>  to hew in the mountain, and <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX HUNDRED (600)</strong>  to oversee them.",
                 "numeric_numbers": [
                     "70",
                     "1000",
                     "80",
                     "1000",
                     "3000",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -28655,28 +28436,26 @@
                 "book": "2 CHRONICLES",
                 "chapter": "2",
                 "verse": 17,
-                "text": "# And Solomon numbered all the strangers that in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an <strong>HUNDRED AND FIFTY (150)</strong>  <strong>THOUSAND (1000)</strong>  and <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong> .",
+                "text": "# And Solomon numbered all the strangers that in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an <strong>HUNDRED AND FIFTY (150)</strong>  <strong>THOUSAND (1000)</strong>  and <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX HUNDRED (600)</strong> .",
                 "numeric_numbers": [
                     "150",
                     "1000",
                     "3000",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
                 "book": "2 CHRONICLES",
                 "chapter": "2",
                 "verse": 18,
-                "text": "And he set <strong>THREESCORE AND TEN (70)</strong>  <strong>THOUSAND (1000)</strong>  of them bearers of burdens, and <strong>FOURSCORE (80)</strong>  <strong>THOUSAND (1000)</strong>  hewers in the mountain, and <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  overseers to set the people a work.",
+                "text": "And he set <strong>THREESCORE AND TEN (70)</strong>  <strong>THOUSAND (1000)</strong>  of them bearers of burdens, and <strong>FOURSCORE (80)</strong>  <strong>THOUSAND (1000)</strong>  hewers in the mountain, and <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX HUNDRED (600)</strong>  overseers to set the people a work.",
                 "numeric_numbers": [
                     "70",
                     "1000",
                     "80",
                     "1000",
                     "3000",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -28715,12 +28494,11 @@
                 "book": "2 CHRONICLES",
                 "chapter": "3",
                 "verse": 8,
-                "text": "And he made the most holy house, the length whereof according to the breadth of the house, <strong>TWENTY (20)</strong>  cubits, and the breadth thereof <strong>TWENTY (20)</strong>  cubits: and he overlaid it with fine gold, to <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  talents.",
+                "text": "And he made the most holy house, the length whereof according to the breadth of the house, <strong>TWENTY (20)</strong>  cubits, and the breadth thereof <strong>TWENTY (20)</strong>  cubits: and he overlaid it with fine gold, to <strong>SIX HUNDRED (600)</strong>  talents.",
                 "numeric_numbers": [
                     "20",
                     "20",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -28975,11 +28753,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "7",
                 "verse": 5,
-                "text": "And king Solomon offered a sacrifice of <strong>TWENTY AND TWO THOUSAND (22000)</strong>  oxen, and an <strong>HUNDRED AND TWENTY (120)</strong>  <strong>THOUSAND (1000)</strong>  sheep: so the king and all the people dedicated the house of God.",
+                "text": "And king Solomon offered a sacrifice of <strong>TWENTY AND TWO THOUSAND (22000)</strong>  oxen, and an <strong>HUNDRED AND TWENTY THOUSAND (120000)</strong>  sheep: so the king and all the people dedicated the house of God.",
                 "numeric_numbers": [
                     "22000",
-                    "120",
-                    "1000"
+                    "120000"
                 ]
             },
             {
@@ -29080,11 +28857,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "9",
                 "verse": 13,
-                "text": "# Now the weight of gold that came to Solomon in <strong>ONE (1)</strong>  year was <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  and <strong>THREESCORE (60)</strong>  and <strong>SIX (6)</strong>  talents of gold;",
+                "text": "# Now the weight of gold that came to Solomon in <strong>ONE (1)</strong>  year was <strong>SIX HUNDRED (600)</strong>  and <strong>THREESCORE (60)</strong>  and <strong>SIX (6)</strong>  talents of gold;",
                 "numeric_numbers": [
                     "1",
-                    "6",
-                    "100",
+                    "600",
                     "60",
                     "6"
                 ]
@@ -29093,11 +28869,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "9",
                 "verse": 15,
-                "text": "# And king Solomon made <strong>TWO HUNDRED (200)</strong>  targets beaten gold: <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  of beaten gold went to <strong>ONE (1)</strong>  target.",
+                "text": "# And king Solomon made <strong>TWO HUNDRED (200)</strong>  targets beaten gold: <strong>SIX HUNDRED (600)</strong>  of beaten gold went to <strong>ONE (1)</strong>  target.",
                 "numeric_numbers": [
                     "200",
-                    "6",
-                    "100",
+                    "600",
                     "1"
                 ]
             },
@@ -29275,10 +29050,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "13",
                 "verse": 3,
-                "text": "And Abijah set the battle in array with an army of valiant men of war, <strong>FOUR HUNDRED (400)</strong>  <strong>THOUSAND (1000)</strong>  chosen men: Jeroboam also set the battle in array against him with <strong>EIGHT HUNDRED (800)</strong>  <strong>THOUSAND (1000)</strong>  chosen men, mighty men of valour.",
+                "text": "And Abijah set the battle in array with an army of valiant men of war, <strong>FOUR HUNDRED THOUSAND (400000)</strong>  chosen men: Jeroboam also set the battle in array against him with <strong>EIGHT HUNDRED (800)</strong>  <strong>THOUSAND (1000)</strong>  chosen men, mighty men of valour.",
                 "numeric_numbers": [
-                    "400",
-                    "1000",
+                    "400000",
                     "800",
                     "1000"
                 ]
@@ -29306,11 +29080,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "13",
                 "verse": 21,
-                "text": "# But Abijah waxed mighty, and married <strong>FOURTEEN (14)</strong>  wives, and begat <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong>  sons, and <strong>SIXTEEN (16)</strong>  daughters.",
+                "text": "# But Abijah waxed mighty, and married <strong>FOURTEEN (14)</strong>  wives, and begat <strong>TWENTY AND TWO (22)</strong>  sons, and <strong>SIXTEEN (16)</strong>  daughters.",
                 "numeric_numbers": [
                     "14",
-                    "20",
-                    "2",
+                    "22",
                     "16"
                 ]
             },
@@ -29361,10 +29134,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "15",
                 "verse": 11,
-                "text": "And they offered unto the LORD the same time, of the spoil they had brought, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  oxen and <strong>SEVEN THOUSAND (7000)</strong>  sheep.",
+                "text": "And they offered unto the LORD the same time, of the spoil they had brought, <strong>SEVEN HUNDRED (700)</strong>  oxen and <strong>SEVEN THOUSAND (7000)</strong>  sheep.",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "7000"
                 ]
             },
@@ -29437,14 +29209,12 @@
                 "book": "2 CHRONICLES",
                 "chapter": "17",
                 "verse": 11,
-                "text": "Also of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, <strong>SEVEN THOUSAND (7000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  rams, and <strong>SEVEN THOUSAND (7000)</strong>  and <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  he goats.",
+                "text": "Also of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, <strong>SEVEN THOUSAND (7000)</strong>  and <strong>SEVEN HUNDRED (700)</strong>  rams, and <strong>SEVEN THOUSAND (7000)</strong>  and <strong>SEVEN HUNDRED (700)</strong>  he goats.",
                 "numeric_numbers": [
                     "7000",
-                    "7",
-                    "100",
+                    "700",
                     "7000",
-                    "7",
-                    "100"
+                    "700"
                 ]
             },
             {
@@ -29697,11 +29467,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "25",
                 "verse": 1,
-                "text": "Amaziah <strong>TWENTY AND FIVE (25)</strong>  years old he began to reign, and he reigned <strong>TWENTY (20)</strong>  and <strong>NINE (9)</strong>  years in Jerusalem. And his mother's name Jehoaddan of Jerusalem.",
+                "text": "Amaziah <strong>TWENTY AND FIVE (25)</strong>  years old he began to reign, and he reigned <strong>TWENTY AND NINE (29)</strong>  years in Jerusalem. And his mother's name Jehoaddan of Jerusalem.",
                 "numeric_numbers": [
                     "25",
-                    "20",
-                    "9"
+                    "29"
                 ]
             },
             {
@@ -29830,11 +29599,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "26",
                 "verse": 12,
-                "text": "The whole number of the chief of the fathers of the mighty men of valour <strong>TWO THOUSAND (2000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong> .",
+                "text": "The whole number of the chief of the fathers of the mighty men of valour <strong>TWO THOUSAND (2000)</strong>  and <strong>SIX HUNDRED (600)</strong> .",
                 "numeric_numbers": [
                     "2000",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -29913,10 +29681,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "28",
                 "verse": 6,
-                "text": "# For Pekah the son of Remaliah slew in Judah an <strong>HUNDRED AND TWENTY (120)</strong>  <strong>THOUSAND (1000)</strong>  in <strong>ONE DAY (1)</strong> , all valiant men; because they had forsaken the LORD God of their fathers.",
+                "text": "# For Pekah the son of Remaliah slew in Judah an <strong>HUNDRED AND TWENTY THOUSAND (120000)</strong>  in <strong>ONE DAY (1)</strong> , all valiant men; because they had forsaken the LORD God of their fathers.",
                 "numeric_numbers": [
-                    "120",
-                    "1000",
+                    "120000",
                     "1"
                 ]
             },
@@ -30000,10 +29767,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "29",
                 "verse": 33,
-                "text": "And the consecrated things <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  oxen and <strong>THREE THOUSAND (3000)</strong>  sheep.",
+                "text": "And the consecrated things <strong>SIX HUNDRED (600)</strong>  oxen and <strong>THREE THOUSAND (3000)</strong>  sheep.",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "3000"
                 ]
             },
@@ -30223,11 +29989,10 @@
                 "book": "2 CHRONICLES",
                 "chapter": "35",
                 "verse": 8,
-                "text": "And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings <strong>TWO THOUSAND (2000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  , and <strong>THREE HUNDRED (300)</strong>  oxen.",
+                "text": "And his princes gave willingly unto the people, to the priests, and to the Levites: Hilkiah and Zechariah and Jehiel, rulers of the house of God, gave unto the priests for the passover offerings <strong>TWO THOUSAND (2000)</strong>  and <strong>SIX HUNDRED (600)</strong>  , and <strong>THREE HUNDRED (300)</strong>  oxen.",
                 "numeric_numbers": [
                     "2000",
-                    "6",
-                    "100",
+                    "600",
                     "300"
                 ]
             },
@@ -30281,10 +30046,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "36",
                 "verse": 2,
-                "text": "Jehoahaz <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong>  years old when he began to reign, and he reigned <strong>THREE (3)</strong>  months in Jerusalem.",
+                "text": "Jehoahaz <strong>TWENTY AND THREE (23)</strong>  years old when he began to reign, and he reigned <strong>THREE (3)</strong>  months in Jerusalem.",
                 "numeric_numbers": [
-                    "20",
-                    "3",
+                    "23",
                     "3"
                 ]
             },
@@ -30351,15 +30115,14 @@
         "repeating_patterns": {
             "(1000, 1000)": 3,
             "(1000, 400)": 2,
-            "(6, 100)": 10,
             "(70, 1000)": 2,
             "(1000, 80)": 2,
             "(80, 1000)": 4,
             "(1000, 3000)": 3,
-            "(3000, 6)": 3,
+            "(3000, 600)": 3,
             "(20, 1000)": 4,
             "(1000, 20)": 3,
-            "(100, 2)": 3,
+            "(600, 2)": 2,
             "(2, 2)": 7,
             "(60, 20)": 2,
             "(20, 20)": 3,
@@ -30367,14 +30130,13 @@
             "(20, 1)": 2,
             "(1, 5)": 2,
             "(5, 5)": 6,
-            "(20, 2)": 3,
+            "(20, 2)": 2,
             "(5, 100)": 2,
-            "(100, 1)": 2,
-            "(1, 20)": 5,
+            "(1, 20)": 4,
             "(10, 5)": 4,
             "(5, 30)": 2,
             "(2, 12)": 2,
-            "(3, 3)": 8,
+            "(3, 3)": 7,
             "(5, 10)": 2,
             "(2, 1)": 4,
             "(1, 12)": 2,
@@ -30382,83 +30144,66 @@
             "(120, 1)": 2,
             "(1, 1)": 12,
             "(3, 1)": 2,
-            "(120, 1000)": 2,
-            "(1000, 7)": 2,
             "(7, 7)": 7,
             "(7, 3)": 3,
-            "(3, 400)": 2,
             "(400, 1)": 2,
-            "(1, 6)": 4,
-            "(100, 60)": 2,
-            "(200, 6)": 2,
+            "(200, 600)": 2,
+            "(1, 6)": 3,
             "(1, 3)": 3,
             "(180, 1000)": 2,
-            "(1000, 1)": 3,
+            "(1000, 1)": 2,
             "(300, 1000)": 4,
             "(1000, 200)": 4,
             "(200, 80)": 2,
-            "(7, 100)": 3,
-            "(100, 7000)": 2,
-            "(7000, 7)": 2,
-            "(100, 300)": 3,
+            "(700, 7000)": 2,
+            "(7000, 700)": 2,
             "(200, 1000)": 3,
             "(32, 8)": 2,
             "(3, 7)": 2,
+            "(25, 29)": 2,
             "(1000, 100)": 2,
             "(100, 10000)": 2,
             "(10000, 10000)": 2,
-            "(2000, 6)": 2,
+            "(2000, 600)": 2,
+            "(600, 300)": 2,
             "(1, 25)": 2,
             "(25, 16)": 2,
             "(1, 7)": 2,
             "(70, 1000, 80)": 2,
             "(1000, 80, 1000)": 2,
             "(80, 1000, 3000)": 2,
-            "(1000, 3000, 6)": 3,
-            "(3000, 6, 100)": 3,
+            "(1000, 3000, 600)": 3,
             "(20, 1000, 20)": 2,
             "(1000, 20, 1000)": 2,
-            "(6, 100, 2)": 2,
-            "(100, 2, 2)": 2,
             "(1, 5, 5)": 2,
             "(3, 3, 3)": 3,
             "(10, 5, 5)": 3,
             "(5, 5, 10)": 2,
             "(5, 10, 5)": 2,
             "(2, 2, 2)": 2,
-            "(200, 6, 100)": 2,
             "(300, 1000, 200)": 2,
             "(1000, 200, 80)": 2,
             "(200, 80, 1000)": 2,
-            "(7, 100, 7000)": 2,
             "(1, 1, 3)": 2,
-            "(7000, 7, 100)": 2,
-            "(100, 300, 1000)": 2,
             "(1, 1, 1)": 4,
             "(100, 10000, 10000)": 2,
-            "(2000, 6, 100)": 2,
-            "(6, 100, 300)": 2,
+            "(2000, 600, 300)": 2,
             "(1, 7, 7)": 2,
             "(7, 7, 7)": 3,
             "(70, 1000, 80, 1000)": 2,
             "(1000, 80, 1000, 3000)": 2,
-            "(80, 1000, 3000, 6)": 2,
-            "(1000, 3000, 6, 100)": 3,
+            "(80, 1000, 3000, 600)": 2,
             "(20, 1000, 20, 1000)": 2,
             "(300, 1000, 200, 80)": 2,
             "(1000, 200, 80, 1000)": 2,
             "(1, 1, 1, 1)": 2,
-            "(2000, 6, 100, 300)": 2,
             "(1, 7, 7, 7)": 2,
             "(7, 7, 7, 7)": 2,
             "(70, 1000, 80, 1000, 3000)": 2,
-            "(1000, 80, 1000, 3000, 6)": 2,
-            "(80, 1000, 3000, 6, 100)": 2,
+            "(1000, 80, 1000, 3000, 600)": 2,
             "(300, 1000, 200, 80, 1000)": 2,
             "(1, 7, 7, 7, 7)": 2,
-            "(70, 1000, 80, 1000, 3000, 6)": 2,
-            "(1000, 80, 1000, 3000, 6, 100)": 2,
-            "(70, 1000, 80, 1000, 3000, 6, 100)": 2
+            "(70, 1000, 80, 1000, 3000, 600)": 2
         }
     },
     {
@@ -30481,8 +30226,7 @@
             2,
             300,
             2,
-            7,
-            100,
+            700,
             5,
             2000,
             800,
@@ -30490,25 +30234,18 @@
             1000,
             200,
             4,
-            9,
-            100,
+            900,
             5,
-            7,
-            100,
+            700,
             60,
-            6,
-            100,
+            600,
             42,
-            6,
-            100,
-            20,
-            3,
+            600,
+            23,
             1000,
             200,
-            20,
-            2,
-            6,
-            100,
+            22,
+            600,
             60,
             6,
             2000,
@@ -30517,35 +30254,27 @@
             4,
             8,
             300,
-            20,
-            3,
+            23,
             100,
             12,
             200,
-            20,
-            3,
+            23,
             5,
             100,
-            20,
-            3,
+            23,
             6,
             100,
             20,
             8,
             42,
-            7,
-            100,
+            700,
             3,
-            6,
+            600,
+            21,
             100,
-            20,
-            1,
-            100,
-            20,
-            2,
+            22,
             200,
-            20,
-            3,
+            23,
             2,
             100,
             6,
@@ -30554,16 +30283,14 @@
             4,
             300,
             20,
-            7,
-            100,
+            700,
             25,
             300,
             5,
             3000,
-            6,
-            130,
-            9,
-            100,
+            600,
+            30,
+            900,
             3,
             1000,
             2,
@@ -30580,17 +30307,14 @@
             39,
             300,
             2,
-            6,
-            100,
+            600,
             2,
-            42,
-            1000,
+            42000,
             300,
             60,
             7337,
             200,
-            7,
-            100,
+            700,
             36,
             200,
             5,
@@ -30655,8 +30379,7 @@
             20,
             12,
             10,
-            6,
-            150,
+            600,
             100,
             100,
             20,
@@ -30685,45 +30408,51 @@
             1
         ],
         "number_counts": {
-            "1": 22,
-            "30": 2,
-            "1000": 10,
+            "1": 21,
+            "30": 3,
+            "1000": 9,
             "29": 1,
-            "2": 14,
+            "2": 12,
             "400": 4,
             "10": 3,
             "5000": 2,
             "2000": 3,
-            "100": 29,
+            "100": 17,
             "300": 7,
-            "7": 13,
+            "700": 5,
             "5": 7,
             "800": 1,
             "12": 7,
             "200": 12,
             "4": 5,
-            "9": 3,
+            "900": 2,
             "60": 7,
-            "6": 13,
-            "42": 3,
-            "20": 17,
-            "3": 13,
+            "600": 7,
+            "42": 2,
+            "23": 5,
+            "22": 2,
+            "6": 6,
             "8": 4,
+            "20": 9,
+            "3": 8,
+            "21": 1,
             "25": 1,
             "3000": 1,
-            "130": 1,
+            "7": 8,
             "17": 1,
             "39": 1,
+            "42000": 1,
             "7337": 1,
             "36": 1,
             "435": 1,
             "6720": 1,
             "61000": 1,
             "14": 1,
-            "150": 2,
+            "150": 1,
             "80": 1,
             "18": 2,
-            "110": 1
+            "110": 1,
+            "9": 1
         },
         "verses_with_numbers": [
             {
@@ -30803,10 +30532,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 5,
-                "text": "The children of Arah, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  seventy and <strong>FIVE (5)</strong> .",
+                "text": "The children of Arah, <strong>SEVEN HUNDRED (700)</strong>  seventy and <strong>FIVE (5)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "5"
                 ]
             },
@@ -30836,10 +30564,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 8,
-                "text": "The children of Zattu, <strong>NINE (9)</strong>  <strong>HUNDRED (100)</strong>  forty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Zattu, <strong>NINE HUNDRED (900)</strong>  forty and <strong>FIVE (5)</strong> .",
                 "numeric_numbers": [
-                    "9",
-                    "100",
+                    "900",
                     "5"
                 ]
             },
@@ -30847,10 +30574,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 9,
-                "text": "The children of Zaccai, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  and <strong>THREESCORE (60)</strong> .",
+                "text": "The children of Zaccai, <strong>SEVEN HUNDRED (700)</strong>  and <strong>THREESCORE (60)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "60"
                 ]
             },
@@ -30858,10 +30584,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 10,
-                "text": "The children of Bani, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>FORTY AND TWO (42)</strong> .",
+                "text": "The children of Bani, <strong>SIX HUNDRED (600)</strong>  <strong>FORTY AND TWO (42)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "42"
                 ]
             },
@@ -30869,34 +30594,30 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 11,
-                "text": "The children of Bebai, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong> .",
+                "text": "The children of Bebai, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
-                    "20",
-                    "3"
+                    "600",
+                    "23"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 12,
-                "text": "The children of Azgad, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong> .",
+                "text": "The children of Azgad, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY AND TWO (22)</strong> .",
                 "numeric_numbers": [
                     "1000",
                     "200",
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 13,
-                "text": "The children of Adonikam, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>SIXTY (60)</strong>  and <strong>SIX (6)</strong> .",
+                "text": "The children of Adonikam, <strong>SIX HUNDRED (600)</strong>  <strong>SIXTY (60)</strong>  and <strong>SIX (6)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "60",
                     "6"
                 ]
@@ -30934,11 +30655,10 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 17,
-                "text": "The children of Bezai, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong> .",
+                "text": "The children of Bezai, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
                 "numeric_numbers": [
                     "300",
-                    "20",
-                    "3"
+                    "23"
                 ]
             },
             {
@@ -30955,11 +30675,10 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 19,
-                "text": "The children of Hashum, <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong> .",
+                "text": "The children of Hashum, <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
                 "numeric_numbers": [
                     "200",
-                    "20",
-                    "3"
+                    "23"
                 ]
             },
             {
@@ -30975,11 +30694,10 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 21,
-                "text": "The children of Beth-lehem, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong> .",
+                "text": "The children of Beth-lehem, an <strong>HUNDRED (100)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
                 "numeric_numbers": [
                     "100",
-                    "20",
-                    "3"
+                    "23"
                 ]
             },
             {
@@ -31015,10 +30733,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 25,
-                "text": "The children of Kirjath-arim, Chephirah, and Beeroth, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  and forty and <strong>THREE (3)</strong> .",
+                "text": "The children of Kirjath-arim, Chephirah, and Beeroth, <strong>SEVEN HUNDRED (700)</strong>  and forty and <strong>THREE (3)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "3"
                 ]
             },
@@ -31026,34 +30743,30 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 26,
-                "text": "The children of Ramah and Gaba, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>ONE (1)</strong> .",
+                "text": "The children of Ramah and Gaba, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY AND ONE (21)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
-                    "20",
-                    "1"
+                    "600",
+                    "21"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 27,
-                "text": "The men of Michmas, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong> .",
+                "text": "The men of Michmas, an <strong>HUNDRED (100)</strong>  <strong>TWENTY AND TWO (22)</strong> .",
                 "numeric_numbers": [
                     "100",
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 28,
-                "text": "The men of Beth-el and Ai, <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong> .",
+                "text": "The men of Beth-el and Ai, <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
                 "numeric_numbers": [
                     "200",
-                    "20",
-                    "3"
+                    "23"
                 ]
             },
             {
@@ -31100,10 +30813,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 33,
-                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY AND FIVE (25)</strong> .",
+                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN HUNDRED (700)</strong>  <strong>TWENTY AND FIVE (25)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "25"
                 ]
             },
@@ -31121,21 +30833,20 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 35,
-                "text": "The children of Senaah, <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED AND THIRTY (130)</strong> .",
+                "text": "The children of Senaah, <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX HUNDRED (600)</strong>  and <strong>THIRTY (30)</strong> .",
                 "numeric_numbers": [
                     "3000",
-                    "6",
-                    "130"
+                    "600",
+                    "30"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 36,
-                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE (9)</strong>  <strong>HUNDRED (100)</strong>  seventy and <strong>THREE (3)</strong> .",
+                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE HUNDRED (900)</strong>  seventy and <strong>THREE (3)</strong> .",
                 "numeric_numbers": [
-                    "9",
-                    "100",
+                    "900",
                     "3"
                 ]
             },
@@ -31214,10 +30925,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 60,
-                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  fifty and <strong>TWO (2)</strong> .",
+                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX HUNDRED (600)</strong>  fifty and <strong>TWO (2)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "2"
                 ]
             },
@@ -31225,10 +30935,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 64,
-                "text": "# The whole congregation together <strong>FORTY AND TWO (42)</strong>  <strong>THOUSAND (1000)</strong>  <strong>THREE HUNDRED (300)</strong>  <strong>THREESCORE (60)</strong> ,",
+                "text": "# The whole congregation together <strong>FORTY AND TWO THOUSAND (42000)</strong>  <strong>THREE HUNDRED (300)</strong>  <strong>THREESCORE (60)</strong> ,",
                 "numeric_numbers": [
-                    "42",
-                    "1000",
+                    "42000",
                     "300",
                     "60"
                 ]
@@ -31247,10 +30956,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 66,
-                "text": "Their horses <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  <strong>THIRTY AND SIX (36)</strong> ; their mules, <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong> ;",
+                "text": "Their horses <strong>SEVEN HUNDRED (700)</strong>  <strong>THIRTY AND SIX (36)</strong> ; their mules, <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong> ;",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "36",
                     "200",
                     "5"
@@ -31593,10 +31301,9 @@
                 "book": "EZRA",
                 "chapter": "8",
                 "verse": 26,
-                "text": "I even weighed unto their hand <strong>SIX (6)</strong>  <strong>HUNDRED AND FIFTY (150)</strong>  talents of silver, and silver vessels an <strong>HUNDRED (100)</strong>  talents, of gold an <strong>HUNDRED (100)</strong>  talents;",
+                "text": "I even weighed unto their hand <strong>SIX HUNDRED (600)</strong>  and fifty talents of silver, and silver vessels an <strong>HUNDRED (100)</strong>  talents, of gold an <strong>HUNDRED (100)</strong>  talents;",
                 "numeric_numbers": [
-                    "6",
-                    "150",
+                    "600",
                     "100",
                     "100"
                 ]
@@ -31731,55 +31438,32 @@
             }
         ],
         "repeating_patterns": {
-            "(100, 2)": 2,
             "(300, 2)": 2,
-            "(7, 100)": 6,
-            "(100, 5)": 2,
             "(1000, 200)": 4,
             "(200, 4)": 2,
-            "(9, 100)": 2,
-            "(5, 7)": 3,
-            "(100, 60)": 3,
-            "(60, 6)": 2,
-            "(6, 100)": 7,
-            "(100, 20)": 7,
-            "(20, 3)": 5,
-            "(3, 1000)": 2,
-            "(200, 20)": 4,
-            "(20, 2)": 2,
-            "(2, 6)": 2,
-            "(300, 20)": 2,
-            "(3, 6)": 3,
+            "(200, 23)": 2,
+            "(6, 100)": 2,
+            "(100, 20)": 3,
             "(20, 8)": 3,
-            "(100, 3)": 2,
-            "(20, 1)": 3,
-            "(1, 100)": 2,
             "(1000, 2)": 2,
-            "(200, 7)": 2,
             "(7, 1)": 2,
             "(1, 1)": 5,
             "(1, 7)": 2,
+            "(20, 1)": 2,
             "(1, 2)": 2,
             "(2, 1)": 2,
             "(60, 3)": 2,
             "(3, 3)": 2,
+            "(5, 7)": 2,
             "(100, 100)": 3,
             "(12, 1)": 2,
             "(1, 3)": 2,
             "(1000, 200, 4)": 2,
-            "(5, 7, 100)": 2,
-            "(100, 60, 6)": 2,
-            "(6, 100, 20)": 3,
-            "(100, 20, 3)": 2,
-            "(2, 6, 100)": 2,
-            "(200, 20, 3)": 2,
-            "(3, 6, 100)": 3,
             "(100, 20, 8)": 2,
             "(7, 1, 1)": 2,
             "(1, 1, 1)": 2,
             "(20, 1, 2)": 2,
             "(1, 2, 1)": 2,
-            "(3, 6, 100, 20)": 2,
             "(7, 1, 1, 1)": 2,
             "(20, 1, 2, 1)": 2
         }
@@ -31824,8 +31508,7 @@
             2,
             300,
             2,
-            6,
-            100,
+            600,
             2,
             2000,
             800,
@@ -31835,37 +31518,30 @@
             4,
             800,
             5,
-            7,
-            100,
+            700,
             60,
-            6,
-            100,
+            600,
             48,
-            6,
-            100,
+            600,
             20,
             8,
             2000,
             300,
-            20,
-            2,
-            6,
-            100,
+            22,
+            600,
             60,
             7,
             2000,
             60,
             7,
-            6,
-            100,
+            600,
             5,
             8,
             300,
             20,
             8,
             300,
-            20,
-            4,
+            24,
             100,
             12,
             5,
@@ -31876,18 +31552,14 @@
             20,
             8,
             42,
-            7,
-            100,
+            700,
             3,
-            6,
-            100,
-            20,
-            1,
+            600,
+            21,
             120,
             2,
             100,
-            20,
-            3,
+            23,
             2,
             1000,
             200,
@@ -31896,14 +31568,11 @@
             20,
             300,
             5,
-            7,
-            100,
-            20,
-            1,
+            700,
+            21,
             3000,
             930,
-            9,
-            100,
+            900,
             3,
             1000,
             2,
@@ -31918,18 +31587,15 @@
             138,
             300,
             2,
-            6,
-            100,
+            600,
             42,
-            42,
-            1000,
+            42000,
             300,
             60,
             7337,
             200,
             5,
-            7,
-            100,
+            700,
             36,
             200,
             5,
@@ -31970,14 +31636,12 @@
             400,
             60,
             8,
-            9,
-            100,
+            900,
             20,
             8,
             2,
             800,
-            20,
-            2,
+            22,
             200,
             42,
             100,
@@ -31997,41 +31661,49 @@
             1
         ],
         "number_counts": {
-            "20": 19,
-            "1": 26,
-            "3": 5,
-            "1000": 10,
-            "6": 9,
+            "20": 13,
+            "1": 24,
+            "3": 4,
+            "1000": 9,
+            "6": 2,
             "10": 3,
-            "100": 22,
+            "100": 9,
             "32": 2,
             "12": 2,
             "150": 1,
-            "4": 9,
+            "4": 8,
             "5": 8,
-            "2": 16,
+            "2": 14,
             "2000": 6,
             "300": 8,
+            "600": 7,
             "800": 3,
             "18": 1,
             "200": 8,
-            "7": 13,
+            "700": 4,
             "60": 6,
             "48": 2,
             "8": 9,
+            "22": 2,
+            "7": 9,
+            "24": 1,
             "80": 2,
-            "42": 4,
+            "42": 3,
+            "21": 2,
             "120": 1,
+            "23": 1,
             "3000": 1,
             "930": 1,
-            "9": 3,
+            "900": 2,
             "17": 1,
             "138": 1,
+            "42000": 1,
             "7337": 1,
             "36": 1,
             "435": 1,
             "6720": 1,
             "530": 1,
+            "9": 1,
             "400": 1
         },
         "verses_with_numbers": [
@@ -32292,10 +31964,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 10,
-                "text": "The children of Arah, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  fifty and <strong>TWO (2)</strong> .",
+                "text": "The children of Arah, <strong>SIX HUNDRED (600)</strong>  fifty and <strong>TWO (2)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "2"
                 ]
             },
@@ -32335,10 +32006,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 14,
-                "text": "The children of Zaccai, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  and <strong>THREESCORE (60)</strong> .",
+                "text": "The children of Zaccai, <strong>SEVEN HUNDRED (700)</strong>  and <strong>THREESCORE (60)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "60"
                 ]
             },
@@ -32346,10 +32016,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 15,
-                "text": "The children of Binnui, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>FORTY AND EIGHT (48)</strong> .",
+                "text": "The children of Binnui, <strong>SIX HUNDRED (600)</strong>  <strong>FORTY AND EIGHT (48)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "48"
                 ]
             },
@@ -32357,10 +32026,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 16,
-                "text": "The children of Bebai, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "The children of Bebai, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "20",
                     "8"
                 ]
@@ -32369,22 +32037,20 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 17,
-                "text": "The children of Azgad, <strong>TWO THOUSAND (2000)</strong>  <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong> .",
+                "text": "The children of Azgad, <strong>TWO THOUSAND (2000)</strong>  <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY AND TWO (22)</strong> .",
                 "numeric_numbers": [
                     "2000",
                     "300",
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 18,
-                "text": "The children of Adonikam, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>THREESCORE (60)</strong>  and <strong>SEVEN (7)</strong> .",
+                "text": "The children of Adonikam, <strong>SIX HUNDRED (600)</strong>  <strong>THREESCORE (60)</strong>  and <strong>SEVEN (7)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "60",
                     "7"
                 ]
@@ -32404,10 +32070,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 20,
-                "text": "The children of Adin, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  fifty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Adin, <strong>SIX HUNDRED (600)</strong>  fifty and <strong>FIVE (5)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "5"
                 ]
             },
@@ -32435,11 +32100,10 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 23,
-                "text": "The children of Bezai, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY (20)</strong>  and <strong>FOUR (4)</strong> .",
+                "text": "The children of Bezai, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY AND FOUR (24)</strong> .",
                 "numeric_numbers": [
                     "300",
-                    "20",
-                    "4"
+                    "24"
                 ]
             },
             {
@@ -32496,10 +32160,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 29,
-                "text": "The men of Kirjath-jearim, Chephirah, and Beeroth, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  forty and <strong>THREE (3)</strong> .",
+                "text": "The men of Kirjath-jearim, Chephirah, and Beeroth, <strong>SEVEN HUNDRED (700)</strong>  forty and <strong>THREE (3)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "3"
                 ]
             },
@@ -32507,12 +32170,10 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 30,
-                "text": "The men of Ramah and Geba, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>ONE (1)</strong> .",
+                "text": "The men of Ramah and Geba, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY AND ONE (21)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
-                    "20",
-                    "1"
+                    "600",
+                    "21"
                 ]
             },
             {
@@ -32529,11 +32190,10 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 32,
-                "text": "The men of Beth-el and Ai, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>THREE (3)</strong> .",
+                "text": "The men of Beth-el and Ai, an <strong>HUNDRED (100)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
                 "numeric_numbers": [
                     "100",
-                    "20",
-                    "3"
+                    "23"
                 ]
             },
             {
@@ -32580,12 +32240,10 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 37,
-                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>ONE (1)</strong> .",
+                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN HUNDRED (700)</strong>  <strong>TWENTY AND ONE (21)</strong> .",
                 "numeric_numbers": [
-                    "7",
-                    "100",
-                    "20",
-                    "1"
+                    "700",
+                    "21"
                 ]
             },
             {
@@ -32602,10 +32260,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 39,
-                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE (9)</strong>  <strong>HUNDRED (100)</strong>  seventy and <strong>THREE (3)</strong> .",
+                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE HUNDRED (900)</strong>  seventy and <strong>THREE (3)</strong> .",
                 "numeric_numbers": [
-                    "9",
-                    "100",
+                    "900",
                     "3"
                 ]
             },
@@ -32682,10 +32339,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 62,
-                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong>  <strong>FORTY AND TWO (42)</strong> .",
+                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX HUNDRED (600)</strong>  <strong>FORTY AND TWO (42)</strong> .",
                 "numeric_numbers": [
-                    "6",
-                    "100",
+                    "600",
                     "42"
                 ]
             },
@@ -32693,10 +32349,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 66,
-                "text": "# The whole congregation together <strong>FORTY AND TWO (42)</strong>  <strong>THOUSAND (1000)</strong>  <strong>THREE HUNDRED (300)</strong>  and <strong>THREESCORE (60)</strong> ,",
+                "text": "# The whole congregation together <strong>FORTY AND TWO THOUSAND (42000)</strong>  <strong>THREE HUNDRED (300)</strong>  and <strong>THREESCORE (60)</strong> ,",
                 "numeric_numbers": [
-                    "42",
-                    "1000",
+                    "42000",
                     "300",
                     "60"
                 ]
@@ -32716,10 +32371,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 68,
-                "text": "Their horses, <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  <strong>THIRTY AND SIX (36)</strong> : their mules, <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong> :",
+                "text": "Their horses, <strong>SEVEN HUNDRED (700)</strong>  <strong>THIRTY AND SIX (36)</strong> : their mules, <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong> :",
                 "numeric_numbers": [
-                    "7",
-                    "100",
+                    "700",
                     "36",
                     "200",
                     "5"
@@ -32918,10 +32572,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 8,
-                "text": "And after him Gabbai, Sallai, <strong>NINE (9)</strong>  <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "And after him Gabbai, Sallai, <strong>NINE HUNDRED (900)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
                 "numeric_numbers": [
-                    "9",
-                    "100",
+                    "900",
                     "20",
                     "8"
                 ]
@@ -32939,11 +32592,10 @@
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 12,
-                "text": "And their brethren that did the work of the house <strong>EIGHT HUNDRED (800)</strong>  <strong>TWENTY (20)</strong>  and <strong>TWO (2)</strong> : and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+                "text": "And their brethren that did the work of the house <strong>EIGHT HUNDRED (800)</strong>  <strong>TWENTY AND TWO (22)</strong> : and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
                 "numeric_numbers": [
                     "800",
-                    "20",
-                    "2"
+                    "22"
                 ]
             },
             {
@@ -33053,62 +32705,44 @@
             }
         ],
         "repeating_patterns": {
-            "(20, 1)": 3,
-            "(20, 3)": 2,
             "(3, 1000)": 2,
             "(1, 6)": 2,
             "(6, 10)": 2,
             "(1, 1)": 10,
-            "(100, 20)": 8,
+            "(100, 20)": 3,
             "(2, 1)": 2,
-            "(100, 2)": 3,
+            "(100, 2)": 2,
             "(300, 2)": 2,
-            "(2, 6)": 3,
-            "(6, 100)": 7,
+            "(2, 600)": 2,
             "(1000, 200)": 3,
             "(200, 4)": 2,
-            "(5, 7)": 3,
-            "(7, 100)": 4,
-            "(100, 60)": 2,
-            "(100, 48)": 2,
+            "(5, 700)": 3,
             "(20, 8)": 5,
-            "(300, 20)": 4,
-            "(20, 2)": 2,
             "(60, 7)": 3,
             "(2000, 60)": 2,
             "(8, 300)": 2,
-            "(20, 4)": 2,
-            "(4, 100)": 3,
-            "(100, 3)": 2,
+            "(300, 20)": 2,
             "(2, 1000)": 2,
-            "(9, 100)": 2,
+            "(4, 100)": 2,
             "(200, 5)": 2,
             "(20, 1000)": 2,
             "(1000, 2000)": 2,
             "(7, 1)": 2,
             "(1, 7)": 3,
             "(8, 2)": 2,
-            "(2, 200)": 2,
             "(1, 6, 10)": 2,
             "(1, 1, 1)": 5,
-            "(300, 2, 6)": 2,
-            "(2, 6, 100)": 3,
+            "(300, 2, 600)": 2,
             "(1000, 200, 4)": 2,
-            "(5, 7, 100)": 3,
-            "(6, 100, 20)": 2,
-            "(100, 20, 8)": 4,
             "(2000, 60, 7)": 2,
-            "(8, 300, 20)": 2,
-            "(100, 20, 1)": 2,
+            "(100, 20, 8)": 2,
             "(2, 1000, 200)": 2,
             "(20, 1000, 2000)": 2,
             "(7, 1, 1)": 2,
             "(1, 1, 7)": 2,
             "(20, 8, 2)": 2,
             "(1, 1, 1, 1)": 2,
-            "(300, 2, 6, 100)": 2,
-            "(7, 1, 1, 7)": 2,
-            "(100, 20, 8, 2)": 2
+            "(7, 1, 1, 7)": 2
         }
     },
     {
@@ -37019,12 +36653,10 @@
             2,
             3,
             20,
-            7,
-            100,
+            700,
             5,
             4000,
-            6,
-            100,
+            600,
             37,
             12,
             5,
@@ -37037,24 +36669,26 @@
             "2": 16,
             "1": 69,
             "4": 13,
-            "7": 7,
+            "7": 6,
             "3": 7,
             "20": 5,
             "10": 9,
             "18": 3,
             "17": 1,
-            "6": 3,
+            "6": 2,
             "9": 6,
             "30": 1,
             "80": 1,
             "8": 1,
             "19": 1,
             "12": 3,
-            "100": 3,
+            "100": 1,
             "60": 1,
             "3000": 1,
             "830": 1,
+            "700": 1,
             "4000": 1,
+            "600": 1,
             "37": 1
         },
         "verses_with_numbers": [
@@ -38097,16 +37731,14 @@
                 "book": "JEREMIAH",
                 "chapter": "52",
                 "verse": 30,
-                "text": "In the <strong>THREE (3)</strong>  and <strong>TWENTIETH (20)</strong>  year of Nebuchadrezzar Nebuzar-adan the captain of the guard carried away captive of the Jews <strong>SEVEN (7)</strong>  <strong>HUNDRED (100)</strong>  forty and <strong>FIVE (5)</strong>  persons: all the persons <strong>FOUR THOUSAND (4000)</strong>  and <strong>SIX (6)</strong>  <strong>HUNDRED (100)</strong> .",
+                "text": "In the <strong>THREE (3)</strong>  and <strong>TWENTIETH (20)</strong>  year of Nebuchadrezzar Nebuzar-adan the captain of the guard carried away captive of the Jews <strong>SEVEN HUNDRED (700)</strong>  forty and <strong>FIVE (5)</strong>  persons: all the persons <strong>FOUR THOUSAND (4000)</strong>  and <strong>SIX HUNDRED (600)</strong> .",
                 "numeric_numbers": [
                     "3",
                     "20",
-                    "7",
-                    "100",
+                    "700",
                     "5",
                     "4000",
-                    "6",
-                    "100"
+                    "600"
                 ]
             },
             {
@@ -38140,7 +37772,6 @@
             "(9, 2)": 2,
             "(10, 10)": 2,
             "(4, 4)": 2,
-            "(6, 100)": 2,
             "(2, 3)": 2,
             "(1, 2, 1)": 5,
             "(2, 1, 1)": 4,
@@ -38653,8 +38284,7 @@
             1,
             1,
             1,
-            18,
-            1000
+            18000
         ],
         "number_counts": {
             "30": 4,
@@ -38681,13 +38311,13 @@
             "60": 1,
             "100": 11,
             "500": 16,
-            "1000": 20,
+            "1000": 19,
             "10000": 10,
             "5000": 2,
             "200": 1,
             "4000": 8,
             "250": 4,
-            "18": 1
+            "18000": 1
         },
         "verses_with_numbers": [
             {
@@ -40896,10 +40526,9 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 35,
-                "text": "round about <strong>EIGHTEEN (18)</strong>  <strong>THOUSAND (1000)</strong>  : and the name of the city from day , The LORD there.",
+                "text": "round about <strong>EIGHTEEN THOUSAND (18000)</strong>  : and the name of the city from day , The LORD there.",
                 "numeric_numbers": [
-                    "18",
-                    "1000"
+                    "18000"
                 ]
             }
         ],
@@ -42774,8 +42403,7 @@
             6,
             2,
             7,
-            1,
-            20,
+            21,
             1,
             24,
             9,
@@ -42792,11 +42420,12 @@
         "number_counts": {
             "2": 3,
             "6": 2,
-            "1": 5,
+            "1": 4,
             "24": 4,
             "7": 1,
-            "20": 3,
+            "21": 1,
             "9": 2,
+            "20": 2,
             "10": 1
         },
         "verses_with_numbers": [
@@ -42826,11 +42455,10 @@
                 "book": "HAGGAI",
                 "chapter": "2",
                 "verse": 1,
-                "text": "In the <strong>SEVENTH (7)</strong>  , in the <strong>ONE (1)</strong>  and <strong>TWENTIETH (20)</strong>  of the month, came the word of the LORD by the prophet Haggai, saying,",
+                "text": "In the <strong>SEVENTH (7)</strong>  , in the <strong>ONE AND TWENTIETH (21)</strong>  of the month, came the word of the LORD by the prophet Haggai, saying,",
                 "numeric_numbers": [
                     "7",
-                    "1",
-                    "20"
+                    "21"
                 ]
             },
             {
@@ -42904,7 +42532,6 @@
         ],
         "repeating_patterns": {
             "(1, 24)": 2,
-            "(1, 20)": 2,
             "(24, 9)": 2
         }
     },
