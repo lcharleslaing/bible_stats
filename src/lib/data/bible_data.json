@@ -25297,8 +25297,7 @@
             130,
             200,
             80,
-            100,
-            12,
+            112,
             1,
             2,
             7,
@@ -25546,7 +25545,7 @@
             "100000": 3,
             "13": 5,
             "10": 6,
-            "12": 29,
+            "12": 28,
             "22600": 1,
             "30000": 1,
             "87000": 1,
@@ -25563,7 +25562,7 @@
             "30": 8,
             "8": 7,
             "11": 5,
-            "100": 4,
+            "100": 3,
             "6800": 1,
             "7100": 1,
             "4600": 1,
@@ -25579,6 +25578,7 @@
             "120": 1,
             "130": 1,
             "80": 1,
+            "112": 1,
             "68": 1,
             "7000": 3,
             "20000": 1,
@@ -26588,10 +26588,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "15",
                 "verse": 10,
-                "text": "Of the sons of Uzziel; Amminadab the chief, and his brethren an <strong>HUNDRED (100)</strong>  and <strong>TWELVE (12)</strong> .",
+                "text": "Of the sons of Uzziel; Amminadab the chief, and his brethren an <strong>HUNDRED AND TWELVE (112)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "12"
+                    "112"
                 ]
             },
             {
@@ -29984,94 +29983,51 @@
             29,
             30,
             2,
-            400,
-            10,
+            410,
             1000,
-            5000,
-            400,
+            5400,
             1,
-            2000,
-            100,
-            2,
-            300,
-            2,
-            700,
-            5,
-            2000,
-            800,
-            12,
-            1000,
-            200,
-            4,
-            900,
-            5,
-            700,
-            60,
+            2172,
+            372,
+            775,
+            2812,
+            1254,
+            945,
+            760,
             600,
             42,
-            600,
-            23,
-            1000,
-            200,
-            22,
-            600,
-            60,
-            6,
-            2000,
-            6,
-            400,
-            4,
+            623,
+            1222,
+            666,
+            2056,
+            454,
             8,
-            300,
-            23,
-            100,
-            12,
-            200,
-            23,
+            323,
+            112,
+            223,
             5,
             100,
             23,
             6,
-            100,
-            20,
-            8,
+            128,
             42,
-            700,
-            3,
-            600,
-            21,
-            100,
-            22,
-            200,
-            23,
+            743,
+            621,
+            122,
+            223,
             2,
-            100,
-            6,
-            1000,
-            200,
+            156,
+            1254,
+            320,
+            725,
+            345,
+            3630,
+            973,
+            1052,
+            1247,
+            1017,
             4,
-            300,
-            20,
-            700,
-            25,
-            300,
-            5,
-            3000,
-            600,
-            30,
-            900,
-            3,
-            1000,
-            2,
-            1000,
-            200,
-            7,
-            1000,
-            17,
-            4,
-            100,
-            20,
-            8,
+            128,
             100,
             39,
             300,
@@ -30178,49 +30134,71 @@
         ],
         "number_counts": {
             "1": 21,
-            "30": 3,
-            "1000": 9,
+            "30": 2,
+            "1000": 3,
             "29": 1,
-            "2": 12,
-            "400": 4,
-            "10": 3,
-            "5000": 2,
-            "2000": 3,
-            "100": 17,
-            "300": 7,
-            "700": 5,
-            "5": 7,
-            "800": 1,
-            "12": 7,
-            "200": 12,
-            "4": 5,
-            "900": 2,
-            "60": 7,
-            "600": 7,
+            "2": 9,
+            "410": 1,
+            "5400": 1,
+            "2172": 1,
+            "372": 1,
+            "775": 1,
+            "2812": 1,
+            "1254": 2,
+            "945": 1,
+            "760": 1,
+            "600": 3,
             "42": 2,
-            "23": 5,
-            "22": 2,
-            "6": 6,
-            "8": 4,
-            "20": 9,
-            "3": 8,
-            "21": 1,
-            "25": 1,
-            "3000": 1,
-            "7": 8,
-            "17": 1,
+            "623": 1,
+            "1222": 1,
+            "666": 1,
+            "2056": 1,
+            "454": 1,
+            "8": 2,
+            "323": 1,
+            "112": 1,
+            "223": 2,
+            "5": 4,
+            "100": 11,
+            "23": 1,
+            "6": 3,
+            "128": 2,
+            "743": 1,
+            "621": 1,
+            "122": 1,
+            "156": 1,
+            "320": 1,
+            "725": 1,
+            "345": 1,
+            "3630": 1,
+            "973": 1,
+            "1052": 1,
+            "1247": 1,
+            "1017": 1,
+            "4": 2,
             "39": 1,
+            "300": 3,
             "42000": 1,
+            "60": 5,
             "7337": 1,
+            "200": 6,
+            "700": 1,
             "36": 1,
             "435": 1,
             "6720": 1,
             "61000": 1,
+            "5000": 1,
+            "7": 7,
+            "20": 6,
+            "3": 6,
+            "400": 1,
+            "12": 5,
             "14": 1,
             "150": 1,
             "80": 1,
             "18": 2,
             "110": 1,
+            "10": 2,
             "9": 1
         },
         "verses_with_numbers": [
@@ -30248,12 +30226,11 @@
                 "book": "EZRA",
                 "chapter": "1",
                 "verse": 10,
-                "text": "<strong>THIRTY (30)</strong>  basons of gold, silver basons of a <strong>SECOND (2)</strong>  <strong>FOUR HUNDRED (400)</strong>  and <strong>TEN (10)</strong> , other vessels a <strong>THOUSAND (1000)</strong> .",
+                "text": "<strong>THIRTY (30)</strong>  basons of gold, silver basons of a <strong>SECOND (2)</strong>  <strong>FOUR HUNDRED AND TEN (410)</strong> , other vessels a <strong>THOUSAND (1000)</strong> .",
                 "numeric_numbers": [
                     "30",
                     "2",
-                    "400",
-                    "10",
+                    "410",
                     "1000"
                 ]
             },
@@ -30261,10 +30238,9 @@
                 "book": "EZRA",
                 "chapter": "1",
                 "verse": 11,
-                "text": "All the vessels of gold and of silver <strong>FIVE THOUSAND (5000)</strong>  and <strong>FOUR HUNDRED (400)</strong> . All did Sheshbazzar bring up with the captivity that were brought up from Babylon unto Jerusalem.",
+                "text": "All the vessels of gold and of silver <strong>FIVE THOUSAND AND FOUR HUNDRED (5400)</strong> . All did Sheshbazzar bring up with the captivity that were brought up from Babylon unto Jerusalem.",
                 "numeric_numbers": [
-                    "5000",
-                    "400"
+                    "5400"
                 ]
             },
             {
@@ -30280,73 +30256,63 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 3,
-                "text": "The children of Parosh, <strong>TWO THOUSAND (2000)</strong>  an <strong>HUNDRED (100)</strong>  seventy and <strong>TWO (2)</strong> .",
+                "text": "The children of Parosh, <strong>TWO THOUSAND AN HUNDRED SEVENTY AND TWO (2172)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "100",
-                    "2"
+                    "2172"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 4,
-                "text": "The children of Shephatiah, <strong>THREE HUNDRED (300)</strong>  seventy and <strong>TWO (2)</strong> .",
+                "text": "The children of Shephatiah, <strong>THREE HUNDRED SEVENTY AND TWO (372)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "2"
+                    "372"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 5,
-                "text": "The children of Arah, <strong>SEVEN HUNDRED (700)</strong>  seventy and <strong>FIVE (5)</strong> .",
+                "text": "The children of Arah, <strong>SEVEN HUNDRED SEVENTY AND FIVE (775)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "5"
+                    "775"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 6,
-                "text": "The children of Pahath-moab, of the children of Jeshua Joab, <strong>TWO THOUSAND (2000)</strong>  <strong>EIGHT HUNDRED (800)</strong>  and <strong>TWELVE (12)</strong> .",
+                "text": "The children of Pahath-moab, of the children of Jeshua Joab, <strong>TWO THOUSAND EIGHT HUNDRED AND TWELVE (2812)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "800",
-                    "12"
+                    "2812"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 7,
-                "text": "The children of Elam, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  fifty and <strong>FOUR (4)</strong> .",
+                "text": "The children of Elam, a <strong>THOUSAND TWO HUNDRED FIFTY AND FOUR (1254)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "4"
+                    "1254"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 8,
-                "text": "The children of Zattu, <strong>NINE HUNDRED (900)</strong>  forty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Zattu, <strong>NINE HUNDRED FORTY AND FIVE (945)</strong> .",
                 "numeric_numbers": [
-                    "900",
-                    "5"
+                    "945"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 9,
-                "text": "The children of Zaccai, <strong>SEVEN HUNDRED (700)</strong>  and <strong>THREESCORE (60)</strong> .",
+                "text": "The children of Zaccai, <strong>SEVEN HUNDRED AND THREESCORE (760)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "60"
+                    "760"
                 ]
             },
             {
@@ -30363,52 +30329,45 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 11,
-                "text": "The children of Bebai, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
+                "text": "The children of Bebai, <strong>SIX HUNDRED TWENTY AND THREE (623)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "23"
+                    "623"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 12,
-                "text": "The children of Azgad, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY AND TWO (22)</strong> .",
+                "text": "The children of Azgad, a <strong>THOUSAND TWO HUNDRED TWENTY AND TWO (1222)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "22"
+                    "1222"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 13,
-                "text": "The children of Adonikam, <strong>SIX HUNDRED (600)</strong>  <strong>SIXTY (60)</strong>  and <strong>SIX (6)</strong> .",
+                "text": "The children of Adonikam, <strong>SIX HUNDRED SIXTY AND SIX (666)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "60",
-                    "6"
+                    "666"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 14,
-                "text": "The children of Bigvai, <strong>TWO THOUSAND (2000)</strong>  fifty and <strong>SIX (6)</strong> .",
+                "text": "The children of Bigvai, <strong>TWO THOUSAND FIFTY AND SIX (2056)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "6"
+                    "2056"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 15,
-                "text": "The children of Adin, <strong>FOUR HUNDRED (400)</strong>  fifty and <strong>FOUR (4)</strong> .",
+                "text": "The children of Adin, <strong>FOUR HUNDRED FIFTY AND FOUR (454)</strong> .",
                 "numeric_numbers": [
-                    "400",
-                    "4"
+                    "454"
                 ]
             },
             {
@@ -30424,30 +30383,27 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 17,
-                "text": "The children of Bezai, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
+                "text": "The children of Bezai, <strong>THREE HUNDRED TWENTY AND THREE (323)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "23"
+                    "323"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 18,
-                "text": "The children of Jorah, an <strong>HUNDRED (100)</strong>  and <strong>TWELVE (12)</strong> .",
+                "text": "The children of Jorah, an <strong>HUNDRED AND TWELVE (112)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "12"
+                    "112"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 19,
-                "text": "The children of Hashum, <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
+                "text": "The children of Hashum, <strong>TWO HUNDRED TWENTY AND THREE (223)</strong> .",
                 "numeric_numbers": [
-                    "200",
-                    "23"
+                    "223"
                 ]
             },
             {
@@ -30482,11 +30438,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 23,
-                "text": "The men of Anathoth, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "The men of Anathoth, an <strong>HUNDRED TWENTY AND EIGHT (128)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "20",
-                    "8"
+                    "128"
                 ]
             },
             {
@@ -30502,40 +30456,36 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 25,
-                "text": "The children of Kirjath-arim, Chephirah, and Beeroth, <strong>SEVEN HUNDRED (700)</strong>  and forty and <strong>THREE (3)</strong> .",
+                "text": "The children of Kirjath-arim, Chephirah, and Beeroth, <strong>SEVEN HUNDRED AND FORTY AND THREE (743)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "3"
+                    "743"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 26,
-                "text": "The children of Ramah and Gaba, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY AND ONE (21)</strong> .",
+                "text": "The children of Ramah and Gaba, <strong>SIX HUNDRED TWENTY AND ONE (621)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "21"
+                    "621"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 27,
-                "text": "The men of Michmas, an <strong>HUNDRED (100)</strong>  <strong>TWENTY AND TWO (22)</strong> .",
+                "text": "The men of Michmas, an <strong>HUNDRED TWENTY AND TWO (122)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "22"
+                    "122"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 28,
-                "text": "The men of Beth-el and Ai, <strong>TWO HUNDRED (200)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
+                "text": "The men of Beth-el and Ai, <strong>TWO HUNDRED TWENTY AND THREE (223)</strong> .",
                 "numeric_numbers": [
-                    "200",
-                    "23"
+                    "223"
                 ]
             },
             {
@@ -30551,103 +30501,90 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 30,
-                "text": "The children of Magbish, an <strong>HUNDRED (100)</strong>  fifty and <strong>SIX (6)</strong> .",
+                "text": "The children of Magbish, an <strong>HUNDRED FIFTY AND SIX (156)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "6"
+                    "156"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 31,
-                "text": "The children of the other Elam, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  fifty and <strong>FOUR (4)</strong> .",
+                "text": "The children of the other Elam, a <strong>THOUSAND TWO HUNDRED FIFTY AND FOUR (1254)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "4"
+                    "1254"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 32,
-                "text": "The children of Harim, <strong>THREE HUNDRED (300)</strong>  and <strong>TWENTY (20)</strong> .",
+                "text": "The children of Harim, <strong>THREE HUNDRED AND TWENTY (320)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "20"
+                    "320"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 33,
-                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN HUNDRED (700)</strong>  <strong>TWENTY AND FIVE (25)</strong> .",
+                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN HUNDRED TWENTY AND FIVE (725)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "25"
+                    "725"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 34,
-                "text": "The children of Jericho, <strong>THREE HUNDRED (300)</strong>  forty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Jericho, <strong>THREE HUNDRED FORTY AND FIVE (345)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "5"
+                    "345"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 35,
-                "text": "The children of Senaah, <strong>THREE THOUSAND (3000)</strong>  and <strong>SIX HUNDRED (600)</strong>  and <strong>THIRTY (30)</strong> .",
+                "text": "The children of Senaah, <strong>THREE THOUSAND AND SIX HUNDRED AND THIRTY (3630)</strong> .",
                 "numeric_numbers": [
-                    "3000",
-                    "600",
-                    "30"
+                    "3630"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 36,
-                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE HUNDRED (900)</strong>  seventy and <strong>THREE (3)</strong> .",
+                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE HUNDRED SEVENTY AND THREE (973)</strong> .",
                 "numeric_numbers": [
-                    "900",
-                    "3"
+                    "973"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 37,
-                "text": "The children of Immer, a <strong>THOUSAND (1000)</strong>  fifty and <strong>TWO (2)</strong> .",
+                "text": "The children of Immer, a <strong>THOUSAND FIFTY AND TWO (1052)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "2"
+                    "1052"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 38,
-                "text": "The children of Pashur, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  forty and <strong>SEVEN (7)</strong> .",
+                "text": "The children of Pashur, a <strong>THOUSAND TWO HUNDRED FORTY AND SEVEN (1247)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "7"
+                    "1247"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 39,
-                "text": "The children of Harim, a <strong>THOUSAND (1000)</strong>  and <strong>SEVENTEEN (17)</strong> .",
+                "text": "The children of Harim, a <strong>THOUSAND AND SEVENTEEN (1017)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "17"
+                    "1017"
                 ]
             },
             {
@@ -30663,11 +30600,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 41,
-                "text": "# The singers: the children of Asaph, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "# The singers: the children of Asaph, an <strong>HUNDRED TWENTY AND EIGHT (128)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "20",
-                    "8"
+                    "128"
                 ]
             },
             {
@@ -31207,14 +31142,6 @@
             }
         ],
         "repeating_patterns": {
-            "(300, 2)": 2,
-            "(1000, 200)": 4,
-            "(200, 4)": 2,
-            "(200, 23)": 2,
-            "(6, 100)": 2,
-            "(100, 20)": 3,
-            "(20, 8)": 3,
-            "(1000, 2)": 2,
             "(7, 1)": 2,
             "(1, 1)": 5,
             "(1, 7)": 2,
@@ -31227,8 +31154,6 @@
             "(100, 100)": 3,
             "(12, 1)": 2,
             "(1, 3)": 2,
-            "(1000, 200, 4)": 2,
-            "(100, 20, 8)": 2,
             "(7, 1, 1)": 2,
             "(1, 1, 1)": 2,
             "(20, 1, 2)": 2,
@@ -31272,23 +31197,17 @@
             1,
             1,
             1,
-            2000,
-            100,
-            2,
-            300,
-            2,
+            2172,
+            372,
             600,
             2,
             2000,
             800,
             18,
-            1000,
-            200,
-            4,
+            1254,
             800,
             5,
-            700,
-            60,
+            760,
             600,
             48,
             600,
@@ -31311,45 +31230,32 @@
             8,
             300,
             24,
-            100,
-            12,
+            112,
             5,
             100,
             80,
             8,
-            100,
-            20,
-            8,
+            128,
             42,
             700,
             3,
-            600,
-            21,
+            621,
             120,
             2,
             100,
             23,
             2,
-            1000,
-            200,
-            4,
-            300,
-            20,
-            300,
-            5,
+            1254,
+            320,
+            345,
             700,
             21,
             3000,
             930,
-            900,
-            3,
-            1000,
-            2,
-            1000,
-            200,
-            7,
-            1000,
-            17,
+            973,
+            1052,
+            1247,
+            1017,
             4,
             100,
             48,
@@ -31409,9 +31315,7 @@
             22,
             200,
             42,
-            100,
-            20,
-            8,
+            128,
             2,
             200,
             80,
@@ -31426,45 +31330,56 @@
             1
         ],
         "number_counts": {
-            "20": 11,
+            "20": 8,
             "1": 24,
-            "3": 4,
-            "1000": 7,
+            "3": 3,
+            "1000": 2,
             "6": 2,
             "10": 3,
-            "100": 9,
+            "100": 5,
             "32": 2,
-            "12": 2,
+            "12": 1,
             "150": 1,
-            "4": 8,
-            "5": 8,
-            "2": 14,
-            "2000": 6,
-            "300": 7,
-            "600": 7,
+            "4": 6,
+            "5": 7,
+            "2": 11,
+            "2172": 1,
+            "372": 1,
+            "600": 6,
+            "2000": 5,
             "800": 3,
             "18": 1,
-            "200": 8,
-            "700": 4,
-            "60": 4,
+            "1254": 2,
+            "760": 1,
             "48": 2,
-            "8": 8,
+            "8": 6,
+            "300": 4,
             "22": 2,
-            "7": 9,
+            "60": 3,
+            "7": 8,
             "24": 1,
+            "112": 1,
             "80": 2,
+            "128": 2,
             "42": 3,
-            "21": 2,
+            "700": 3,
+            "621": 1,
             "120": 1,
             "23": 1,
+            "320": 1,
+            "345": 1,
+            "21": 1,
             "3000": 1,
             "930": 1,
-            "900": 2,
-            "17": 1,
+            "973": 1,
+            "1052": 1,
+            "1247": 1,
+            "1017": 1,
             "138": 1,
             "42000": 1,
             "360": 1,
             "7337": 1,
+            "200": 5,
             "36": 1,
             "435": 1,
             "6720": 1,
@@ -31472,7 +31387,8 @@
             "20000": 2,
             "9": 1,
             "400": 1,
-            "68": 1
+            "68": 1,
+            "900": 1
         },
         "verses_with_numbers": [
             {
@@ -31711,21 +31627,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 8,
-                "text": "The children of Parosh, <strong>TWO THOUSAND (2000)</strong>  an <strong>HUNDRED (100)</strong>  seventy and <strong>TWO (2)</strong> .",
+                "text": "The children of Parosh, <strong>TWO THOUSAND AN HUNDRED SEVENTY AND TWO (2172)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "100",
-                    "2"
+                    "2172"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 9,
-                "text": "The children of Shephatiah, <strong>THREE HUNDRED (300)</strong>  seventy and <strong>TWO (2)</strong> .",
+                "text": "The children of Shephatiah, <strong>THREE HUNDRED SEVENTY AND TWO (372)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "2"
+                    "372"
                 ]
             },
             {
@@ -31753,11 +31666,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 12,
-                "text": "The children of Elam, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  fifty and <strong>FOUR (4)</strong> .",
+                "text": "The children of Elam, a <strong>THOUSAND TWO HUNDRED FIFTY AND FOUR (1254)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "4"
+                    "1254"
                 ]
             },
             {
@@ -31774,10 +31685,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 14,
-                "text": "The children of Zaccai, <strong>SEVEN HUNDRED (700)</strong>  and <strong>THREESCORE (60)</strong> .",
+                "text": "The children of Zaccai, <strong>SEVEN HUNDRED AND THREESCORE (760)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "60"
+                    "760"
                 ]
             },
             {
@@ -31878,10 +31788,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 24,
-                "text": "The children of Hariph, an <strong>HUNDRED (100)</strong>  and <strong>TWELVE (12)</strong> .",
+                "text": "The children of Hariph, an <strong>HUNDRED AND TWELVE (112)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "12"
+                    "112"
                 ]
             },
             {
@@ -31908,11 +31817,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 27,
-                "text": "The men of Anathoth, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "The men of Anathoth, an <strong>HUNDRED TWENTY AND EIGHT (128)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "20",
-                    "8"
+                    "128"
                 ]
             },
             {
@@ -31938,10 +31845,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 30,
-                "text": "The men of Ramah and Geba, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY AND ONE (21)</strong> .",
+                "text": "The men of Ramah and Geba, <strong>SIX HUNDRED TWENTY AND ONE (621)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "21"
+                    "621"
                 ]
             },
             {
@@ -31977,31 +31883,27 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 34,
-                "text": "The children of the other Elam, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  fifty and <strong>FOUR (4)</strong> .",
+                "text": "The children of the other Elam, a <strong>THOUSAND TWO HUNDRED FIFTY AND FOUR (1254)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "4"
+                    "1254"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 35,
-                "text": "The children of Harim, <strong>THREE HUNDRED (300)</strong>  and <strong>TWENTY (20)</strong> .",
+                "text": "The children of Harim, <strong>THREE HUNDRED AND TWENTY (320)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "20"
+                    "320"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 36,
-                "text": "The children of Jericho, <strong>THREE HUNDRED (300)</strong>  forty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Jericho, <strong>THREE HUNDRED FORTY AND FIVE (345)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "5"
+                    "345"
                 ]
             },
             {
@@ -32028,41 +31930,36 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 39,
-                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE HUNDRED (900)</strong>  seventy and <strong>THREE (3)</strong> .",
+                "text": "# The priests: the children of Jedaiah, of the house of Jeshua, <strong>NINE HUNDRED SEVENTY AND THREE (973)</strong> .",
                 "numeric_numbers": [
-                    "900",
-                    "3"
+                    "973"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 40,
-                "text": "The children of Immer, a <strong>THOUSAND (1000)</strong>  fifty and <strong>TWO (2)</strong> .",
+                "text": "The children of Immer, a <strong>THOUSAND FIFTY AND TWO (1052)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "2"
+                    "1052"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 41,
-                "text": "The children of Pashur, a <strong>THOUSAND (1000)</strong>  <strong>TWO HUNDRED (200)</strong>  forty and <strong>SEVEN (7)</strong> .",
+                "text": "The children of Pashur, a <strong>THOUSAND TWO HUNDRED FORTY AND SEVEN (1247)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "200",
-                    "7"
+                    "1247"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 42,
-                "text": "The children of Harim, a <strong>THOUSAND (1000)</strong>  and <strong>SEVENTEEN (17)</strong> .",
+                "text": "The children of Harim, a <strong>THOUSAND AND SEVENTEEN (1017)</strong> .",
                 "numeric_numbers": [
-                    "1000",
-                    "17"
+                    "1017"
                 ]
             },
             {
@@ -32376,11 +32273,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 14,
-                "text": "And their brethren, mighty men of valour, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> : and their overseer Zabdiel, the son of the great men.",
+                "text": "And their brethren, mighty men of valour, an <strong>HUNDRED TWENTY AND EIGHT (128)</strong> : and their overseer Zabdiel, the son of the great men.",
                 "numeric_numbers": [
-                    "100",
-                    "20",
-                    "8"
+                    "128"
                 ]
             },
             {
@@ -32469,40 +32364,24 @@
             }
         ],
         "repeating_patterns": {
-            "(3, 1000)": 2,
             "(1, 6)": 2,
             "(6, 10)": 2,
             "(1, 1)": 10,
-            "(100, 20)": 3,
             "(2, 1)": 2,
-            "(100, 2)": 2,
-            "(300, 2)": 2,
-            "(2, 600)": 2,
-            "(1000, 200)": 3,
-            "(200, 4)": 2,
-            "(5, 700)": 3,
-            "(20, 8)": 5,
+            "(20, 8)": 3,
             "(60, 7)": 3,
             "(2000, 60)": 2,
             "(8, 300)": 2,
-            "(300, 20)": 2,
-            "(2, 1000)": 2,
             "(4, 100)": 2,
             "(200, 5)": 2,
             "(20000, 2000)": 2,
             "(7, 1)": 2,
             "(1, 7)": 3,
-            "(8, 2)": 2,
             "(1, 6, 10)": 2,
             "(1, 1, 1)": 5,
-            "(300, 2, 600)": 2,
-            "(1000, 200, 4)": 2,
             "(2000, 60, 7)": 2,
-            "(100, 20, 8)": 2,
-            "(2, 1000, 200)": 2,
             "(7, 1, 1)": 2,
             "(1, 1, 7)": 2,
-            "(20, 8, 2)": 2,
             "(1, 1, 1, 1)": 2,
             "(7, 1, 1, 7)": 2
         }
