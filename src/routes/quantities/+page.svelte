@@ -89,12 +89,12 @@
   <!-- Accordion Content: Book Buttons -->
   {#if isAccordionOpen}
     <div class="grid grid-cols-3 space-y-1 justify-center items-center">
-      <button class="btn btn-sm btn-secondary" on:click={showAllBooks}
+      <button class="btn btn-sm bg-slate-700 text-white" on:click={showAllBooks}
         >All</button
       >
       {#each $uniqueNumbersStore.sortedNumbers as number}
         <button
-          class="btn btn-sm btn-accent text-white mx-1"
+          class="btn btn-sm bg-slate-500 text-white mx-1"
           on:click={() => selectNumber(number)}>{number}</button
         >
       {/each}
