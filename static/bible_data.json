@@ -25292,8 +25292,7 @@
             3,
             3,
             120,
-            200,
-            20,
+            220,
             130,
             200,
             80,
@@ -25533,7 +25532,7 @@
             "6": 20,
             "7": 16,
             "60": 3,
-            "20": 10,
+            "20": 9,
             "33": 2,
             "9": 6,
             "16": 4,
@@ -25571,11 +25570,12 @@
             "3000": 2,
             "20800": 1,
             "18000": 3,
-            "200": 3,
+            "200": 2,
             "37000": 1,
             "8600": 1,
             "120000": 1,
             "120": 1,
+            "220": 1,
             "130": 1,
             "80": 1,
             "112": 1,
@@ -26551,10 +26551,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "15",
                 "verse": 6,
-                "text": "Of the sons of Merari; Asaiah the chief, and his brethren <strong>TWO HUNDRED (200)</strong>  and <strong>TWENTY (20)</strong> :",
+                "text": "Of the sons of Merari; Asaiah the chief, and his brethren <strong>TWO HUNDRED AND TWENTY (220)</strong> :",
                 "numeric_numbers": [
-                    "200",
-                    "20"
+                    "220"
                 ]
             },
             {
@@ -29994,8 +29993,7 @@
             1254,
             945,
             760,
-            600,
-            42,
+            642,
             623,
             1222,
             666,
@@ -30006,8 +30004,7 @@
             112,
             223,
             5,
-            100,
-            23,
+            123,
             6,
             128,
             42,
@@ -30028,26 +30025,20 @@
             1017,
             4,
             128,
-            100,
-            39,
-            300,
-            2,
-            600,
-            2,
+            139,
+            392,
+            652,
             42000,
             300,
             60,
             7337,
             200,
-            700,
-            36,
-            200,
-            5,
+            736,
+            245,
             435,
             6720,
             61000,
             5000,
-            1,
             100,
             7,
             1,
@@ -30100,8 +30091,7 @@
             3,
             18,
             20,
-            200,
-            20,
+            220,
             12,
             10,
             600,
@@ -30133,11 +30123,11 @@
             1
         ],
         "number_counts": {
-            "1": 21,
+            "1": 20,
             "30": 2,
             "1000": 3,
             "29": 1,
-            "2": 9,
+            "2": 7,
             "410": 1,
             "5400": 1,
             "2172": 1,
@@ -30147,8 +30137,7 @@
             "1254": 2,
             "945": 1,
             "760": 1,
-            "600": 3,
-            "42": 2,
+            "642": 1,
             "623": 1,
             "1222": 1,
             "666": 1,
@@ -30158,11 +30147,11 @@
             "323": 1,
             "112": 1,
             "223": 2,
-            "5": 4,
-            "100": 11,
-            "23": 1,
+            "5": 3,
+            "123": 1,
             "6": 3,
             "128": 2,
+            "42": 1,
             "743": 1,
             "621": 1,
             "122": 1,
@@ -30176,20 +30165,23 @@
             "1247": 1,
             "1017": 1,
             "4": 2,
-            "39": 1,
-            "300": 3,
+            "139": 1,
+            "392": 1,
+            "652": 1,
             "42000": 1,
+            "300": 2,
             "60": 5,
             "7337": 1,
-            "200": 6,
-            "700": 1,
-            "36": 1,
+            "200": 4,
+            "736": 1,
+            "245": 1,
             "435": 1,
             "6720": 1,
             "61000": 1,
             "5000": 1,
+            "100": 9,
             "7": 7,
-            "20": 6,
+            "20": 5,
             "3": 6,
             "400": 1,
             "12": 5,
@@ -30198,7 +30190,9 @@
             "80": 1,
             "18": 2,
             "110": 1,
+            "220": 1,
             "10": 2,
+            "600": 1,
             "9": 1
         },
         "verses_with_numbers": [
@@ -30319,10 +30313,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 10,
-                "text": "The children of Bani, <strong>SIX HUNDRED (600)</strong>  <strong>FORTY AND TWO (42)</strong> .",
+                "text": "The children of Bani, <strong>SIX HUNDRED FORTY AND TWO (642)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "42"
+                    "642"
                 ]
             },
             {
@@ -30419,10 +30412,9 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 21,
-                "text": "The children of Beth-lehem, an <strong>HUNDRED (100)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
+                "text": "The children of Beth-lehem, an <strong>HUNDRED TWENTY AND THREE (123)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "23"
+                    "123"
                 ]
             },
             {
@@ -30609,30 +30601,27 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 42,
-                "text": "# The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, all an <strong>HUNDRED (100)</strong>  <strong>THIRTY AND NINE (39)</strong> .",
+                "text": "# The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, all an <strong>HUNDRED THIRTY AND NINE (139)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "39"
+                    "139"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 58,
-                "text": "All the Nethinims, and the children of Solomon's servants, <strong>THREE HUNDRED (300)</strong>  ninety and <strong>TWO (2)</strong> .",
+                "text": "All the Nethinims, and the children of Solomon's servants, <strong>THREE HUNDRED NINETY AND TWO (392)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "2"
+                    "392"
                 ]
             },
             {
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 60,
-                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX HUNDRED (600)</strong>  fifty and <strong>TWO (2)</strong> .",
+                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX HUNDRED FIFTY AND TWO (652)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "2"
+                    "652"
                 ]
             },
             {
@@ -30660,12 +30649,10 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 66,
-                "text": "Their horses <strong>SEVEN HUNDRED (700)</strong>  <strong>THIRTY AND SIX (36)</strong> ; their mules, <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong> ;",
+                "text": "Their horses <strong>SEVEN HUNDRED THIRTY AND SIX (736)</strong> ; their mules, <strong>TWO HUNDRED FORTY AND FIVE (245)</strong> ;",
                 "numeric_numbers": [
-                    "700",
-                    "36",
-                    "200",
-                    "5"
+                    "736",
+                    "245"
                 ]
             },
             {
@@ -30682,11 +30669,10 @@
                 "book": "EZRA",
                 "chapter": "2",
                 "verse": 69,
-                "text": "They gave after their ability unto the treasure of the work <strong>THREESCORE AND ONE THOUSAND (61000)</strong>  drams of gold, and <strong>FIVE THOUSAND (5000)</strong>  pound of silver, and <strong>ONE (1)</strong>  <strong>HUNDRED (100)</strong>  priests' garments.",
+                "text": "They gave after their ability unto the treasure of the work <strong>THREESCORE AND ONE THOUSAND (61000)</strong>  drams of gold, and <strong>FIVE THOUSAND (5000)</strong>  pound of silver, and <strong>ONE HUNDRED (100)</strong>  priests' garments.",
                 "numeric_numbers": [
                     "61000",
                     "5000",
-                    "1",
                     "100"
                 ]
             },
@@ -30985,10 +30971,9 @@
                 "book": "EZRA",
                 "chapter": "8",
                 "verse": 20,
-                "text": "Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, <strong>TWO HUNDRED (200)</strong>  and <strong>TWENTY (20)</strong>  Nethinims: all of them were expressed by name.",
+                "text": "Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, <strong>TWO HUNDRED AND TWENTY (220)</strong>  Nethinims: all of them were expressed by name.",
                 "numeric_numbers": [
-                    "200",
-                    "20"
+                    "220"
                 ]
             },
             {
@@ -31199,80 +31184,49 @@
             1,
             2172,
             372,
-            600,
-            2,
-            2000,
-            800,
-            18,
+            652,
+            2818,
             1254,
-            800,
-            5,
+            845,
             760,
-            600,
-            48,
-            600,
-            20,
+            648,
+            628,
+            2322,
+            667,
+            2067,
+            655,
             8,
-            2000,
-            300,
-            22,
-            600,
-            60,
-            7,
-            2000,
-            60,
-            7,
-            600,
-            5,
-            8,
-            300,
-            20,
-            8,
-            300,
-            24,
+            328,
+            324,
             112,
             5,
-            100,
-            80,
-            8,
+            188,
             128,
             42,
-            700,
-            3,
+            743,
             621,
-            120,
-            2,
-            100,
-            23,
+            122,
+            123,
             2,
             1254,
             320,
             345,
-            700,
-            21,
-            3000,
-            930,
+            721,
+            3930,
             973,
             1052,
             1247,
             1017,
             4,
-            100,
-            48,
+            148,
             138,
-            300,
-            2,
-            600,
-            42,
-            42000,
-            360,
+            392,
+            642,
+            42360,
             7337,
-            200,
-            5,
-            700,
-            36,
-            200,
-            5,
+            245,
+            736,
+            245,
             435,
             6720,
             1000,
@@ -31305,23 +31259,15 @@
             10,
             9,
             1,
-            400,
-            68,
-            900,
-            20,
-            8,
+            468,
+            928,
             2,
-            800,
-            22,
-            200,
-            42,
+            822,
+            242,
             128,
             2,
-            200,
-            80,
-            4,
-            100,
-            2,
+            284,
+            172,
             1,
             2,
             2,
@@ -31330,65 +31276,74 @@
             1
         ],
         "number_counts": {
-            "20": 8,
+            "20": 5,
             "1": 24,
-            "3": 3,
+            "3": 2,
             "1000": 2,
             "6": 2,
             "10": 3,
-            "100": 5,
+            "100": 1,
             "32": 2,
             "12": 1,
             "150": 1,
-            "4": 6,
-            "5": 7,
-            "2": 11,
+            "4": 5,
+            "5": 3,
+            "2": 7,
             "2172": 1,
             "372": 1,
-            "600": 6,
-            "2000": 5,
-            "800": 3,
-            "18": 1,
+            "652": 1,
+            "2818": 1,
             "1254": 2,
+            "845": 1,
             "760": 1,
-            "48": 2,
-            "8": 6,
-            "300": 4,
-            "22": 2,
-            "60": 3,
-            "7": 8,
-            "24": 1,
+            "648": 1,
+            "628": 1,
+            "2322": 1,
+            "667": 1,
+            "2067": 1,
+            "655": 1,
+            "8": 2,
+            "328": 1,
+            "324": 1,
             "112": 1,
-            "80": 2,
+            "188": 1,
             "128": 2,
-            "42": 3,
-            "700": 3,
+            "42": 1,
+            "743": 1,
             "621": 1,
-            "120": 1,
-            "23": 1,
+            "122": 1,
+            "123": 1,
             "320": 1,
             "345": 1,
-            "21": 1,
-            "3000": 1,
-            "930": 1,
+            "721": 1,
+            "3930": 1,
             "973": 1,
             "1052": 1,
             "1247": 1,
             "1017": 1,
+            "148": 1,
             "138": 1,
-            "42000": 1,
-            "360": 1,
+            "392": 1,
+            "642": 1,
+            "42360": 1,
             "7337": 1,
-            "200": 5,
-            "36": 1,
+            "245": 2,
+            "736": 1,
             "435": 1,
             "6720": 1,
             "530": 1,
             "20000": 2,
+            "2000": 2,
+            "200": 1,
+            "60": 1,
+            "7": 6,
             "9": 1,
-            "400": 1,
-            "68": 1,
-            "900": 1
+            "468": 1,
+            "928": 1,
+            "822": 1,
+            "242": 1,
+            "284": 1,
+            "172": 1
         },
         "verses_with_numbers": [
             {
@@ -31645,21 +31600,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 10,
-                "text": "The children of Arah, <strong>SIX HUNDRED (600)</strong>  fifty and <strong>TWO (2)</strong> .",
+                "text": "The children of Arah, <strong>SIX HUNDRED FIFTY AND TWO (652)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "2"
+                    "652"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 11,
-                "text": "The children of Pahath-moab, of the children of Jeshua and Joab, <strong>TWO THOUSAND (2000)</strong>  and <strong>EIGHT HUNDRED (800)</strong>  <strong>EIGHTEEN (18)</strong> .",
+                "text": "The children of Pahath-moab, of the children of Jeshua and Joab, <strong>TWO THOUSAND AND EIGHT HUNDRED EIGHTEEN (2818)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "800",
-                    "18"
+                    "2818"
                 ]
             },
             {
@@ -31675,10 +31627,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 13,
-                "text": "The children of Zattu, <strong>EIGHT HUNDRED (800)</strong>  forty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Zattu, <strong>EIGHT HUNDRED FORTY AND FIVE (845)</strong> .",
                 "numeric_numbers": [
-                    "800",
-                    "5"
+                    "845"
                 ]
             },
             {
@@ -31694,64 +31645,54 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 15,
-                "text": "The children of Binnui, <strong>SIX HUNDRED (600)</strong>  <strong>FORTY AND EIGHT (48)</strong> .",
+                "text": "The children of Binnui, <strong>SIX HUNDRED FORTY AND EIGHT (648)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "48"
+                    "648"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 16,
-                "text": "The children of Bebai, <strong>SIX HUNDRED (600)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "The children of Bebai, <strong>SIX HUNDRED TWENTY AND EIGHT (628)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "20",
-                    "8"
+                    "628"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 17,
-                "text": "The children of Azgad, <strong>TWO THOUSAND (2000)</strong>  <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY AND TWO (22)</strong> .",
+                "text": "The children of Azgad, <strong>TWO THOUSAND THREE HUNDRED TWENTY AND TWO (2322)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "300",
-                    "22"
+                    "2322"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 18,
-                "text": "The children of Adonikam, <strong>SIX HUNDRED (600)</strong>  <strong>THREESCORE (60)</strong>  and <strong>SEVEN (7)</strong> .",
+                "text": "The children of Adonikam, <strong>SIX HUNDRED THREESCORE AND SEVEN (667)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "60",
-                    "7"
+                    "667"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 19,
-                "text": "The children of Bigvai, <strong>TWO THOUSAND (2000)</strong>  <strong>THREESCORE (60)</strong>  and <strong>SEVEN (7)</strong> .",
+                "text": "The children of Bigvai, <strong>TWO THOUSAND THREESCORE AND SEVEN (2067)</strong> .",
                 "numeric_numbers": [
-                    "2000",
-                    "60",
-                    "7"
+                    "2067"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 20,
-                "text": "The children of Adin, <strong>SIX HUNDRED (600)</strong>  fifty and <strong>FIVE (5)</strong> .",
+                "text": "The children of Adin, <strong>SIX HUNDRED FIFTY AND FIVE (655)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "5"
+                    "655"
                 ]
             },
             {
@@ -31767,21 +31708,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 22,
-                "text": "The children of Hashum, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "The children of Hashum, <strong>THREE HUNDRED TWENTY AND EIGHT (328)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "20",
-                    "8"
+                    "328"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 23,
-                "text": "The children of Bezai, <strong>THREE HUNDRED (300)</strong>  <strong>TWENTY AND FOUR (24)</strong> .",
+                "text": "The children of Bezai, <strong>THREE HUNDRED TWENTY AND FOUR (324)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "24"
+                    "324"
                 ]
             },
             {
@@ -31806,11 +31744,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 26,
-                "text": "The men of Beth-lehem and Netophah, an <strong>HUNDRED (100)</strong>  <strong>FOURSCORE (80)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "The men of Beth-lehem and Netophah, an <strong>HUNDRED FOURSCORE AND EIGHT (188)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "80",
-                    "8"
+                    "188"
                 ]
             },
             {
@@ -31835,10 +31771,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 29,
-                "text": "The men of Kirjath-jearim, Chephirah, and Beeroth, <strong>SEVEN HUNDRED (700)</strong>  forty and <strong>THREE (3)</strong> .",
+                "text": "The men of Kirjath-jearim, Chephirah, and Beeroth, <strong>SEVEN HUNDRED FORTY AND THREE (743)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "3"
+                    "743"
                 ]
             },
             {
@@ -31854,20 +31789,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 31,
-                "text": "The men of Michmas, an <strong>HUNDRED AND TWENTY (120)</strong>  and <strong>TWO (2)</strong> .",
+                "text": "The men of Michmas, an <strong>HUNDRED AND TWENTY AND TWO (122)</strong> .",
                 "numeric_numbers": [
-                    "120",
-                    "2"
+                    "122"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 32,
-                "text": "The men of Beth-el and Ai, an <strong>HUNDRED (100)</strong>  <strong>TWENTY AND THREE (23)</strong> .",
+                "text": "The men of Beth-el and Ai, an <strong>HUNDRED TWENTY AND THREE (123)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "23"
+                    "123"
                 ]
             },
             {
@@ -31910,20 +31843,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 37,
-                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN HUNDRED (700)</strong>  <strong>TWENTY AND ONE (21)</strong> .",
+                "text": "The children of Lod, Hadid, and Ono, <strong>SEVEN HUNDRED TWENTY AND ONE (721)</strong> .",
                 "numeric_numbers": [
-                    "700",
-                    "21"
+                    "721"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 38,
-                "text": "The children of Senaah, <strong>THREE THOUSAND (3000)</strong>  <strong>NINE HUNDRED AND THIRTY (930)</strong> .",
+                "text": "The children of Senaah, <strong>THREE THOUSAND NINE HUNDRED AND THIRTY (3930)</strong> .",
                 "numeric_numbers": [
-                    "3000",
-                    "930"
+                    "3930"
                 ]
             },
             {
@@ -31975,10 +31906,9 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 44,
-                "text": "# The singers: the children of Asaph, an <strong>HUNDRED (100)</strong>  <strong>FORTY AND EIGHT (48)</strong> .",
+                "text": "# The singers: the children of Asaph, an <strong>HUNDRED FORTY AND EIGHT (148)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "48"
+                    "148"
                 ]
             },
             {
@@ -31994,53 +31924,47 @@
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 60,
-                "text": "All the Nethinims, and the children of Solomon's servants, <strong>THREE HUNDRED (300)</strong>  ninety and <strong>TWO (2)</strong> .",
+                "text": "All the Nethinims, and the children of Solomon's servants, <strong>THREE HUNDRED NINETY AND TWO (392)</strong> .",
                 "numeric_numbers": [
-                    "300",
-                    "2"
+                    "392"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 62,
-                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX HUNDRED (600)</strong>  <strong>FORTY AND TWO (42)</strong> .",
+                "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, <strong>SIX HUNDRED FORTY AND TWO (642)</strong> .",
                 "numeric_numbers": [
-                    "600",
-                    "42"
+                    "642"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 66,
-                "text": "# The whole congregation together <strong>FORTY AND TWO THOUSAND (42000)</strong>  <strong>THREE HUNDRED AND THREESCORE (360)</strong> ,",
+                "text": "# The whole congregation together <strong>FORTY AND TWO THOUSAND THREE HUNDRED AND THREESCORE (42360)</strong> ,",
                 "numeric_numbers": [
-                    "42000",
-                    "360"
+                    "42360"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 67,
-                "text": "Beside their manservants and their maidservants, of whom <strong>SEVEN THOUSAND THREE HUNDRED THIRTY AND SEVEN (7337)</strong> : and they had <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong>  singing men and singing women.",
+                "text": "Beside their manservants and their maidservants, of whom <strong>SEVEN THOUSAND THREE HUNDRED THIRTY AND SEVEN (7337)</strong> : and they had <strong>TWO HUNDRED FORTY AND FIVE (245)</strong>  singing men and singing women.",
                 "numeric_numbers": [
                     "7337",
-                    "200",
-                    "5"
+                    "245"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "7",
                 "verse": 68,
-                "text": "Their horses, <strong>SEVEN HUNDRED (700)</strong>  <strong>THIRTY AND SIX (36)</strong> : their mules, <strong>TWO HUNDRED (200)</strong>  forty and <strong>FIVE (5)</strong> :",
+                "text": "Their horses, <strong>SEVEN HUNDRED THIRTY AND SIX (736)</strong> : their mules, <strong>TWO HUNDRED FORTY AND FIVE (245)</strong> :",
                 "numeric_numbers": [
-                    "700",
-                    "36",
-                    "200",
-                    "5"
+                    "736",
+                    "245"
                 ]
             },
             {
@@ -32223,21 +32147,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 6,
-                "text": "All the sons of Perez that dwelt at Jerusalem <strong>FOUR HUNDRED (400)</strong>  <strong>THREESCORE AND EIGHT (68)</strong>  valiant men.",
+                "text": "All the sons of Perez that dwelt at Jerusalem <strong>FOUR HUNDRED THREESCORE AND EIGHT (468)</strong>  valiant men.",
                 "numeric_numbers": [
-                    "400",
-                    "68"
+                    "468"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 8,
-                "text": "And after him Gabbai, Sallai, <strong>NINE HUNDRED (900)</strong>  <strong>TWENTY (20)</strong>  and <strong>EIGHT (8)</strong> .",
+                "text": "And after him Gabbai, Sallai, <strong>NINE HUNDRED TWENTY AND EIGHT (928)</strong> .",
                 "numeric_numbers": [
-                    "900",
-                    "20",
-                    "8"
+                    "928"
                 ]
             },
             {
@@ -32253,20 +32174,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 12,
-                "text": "And their brethren that did the work of the house <strong>EIGHT HUNDRED (800)</strong>  <strong>TWENTY AND TWO (22)</strong> : and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
+                "text": "And their brethren that did the work of the house <strong>EIGHT HUNDRED TWENTY AND TWO (822)</strong> : and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,",
                 "numeric_numbers": [
-                    "800",
-                    "22"
+                    "822"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 13,
-                "text": "And his brethren, chief of the fathers, <strong>TWO HUNDRED (200)</strong>  <strong>FORTY AND TWO (42)</strong> : and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,",
+                "text": "And his brethren, chief of the fathers, <strong>TWO HUNDRED FORTY AND TWO (242)</strong> : and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,",
                 "numeric_numbers": [
-                    "200",
-                    "42"
+                    "242"
                 ]
             },
             {
@@ -32291,21 +32210,18 @@
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 18,
-                "text": "All the Levites in the holy city <strong>TWO HUNDRED (200)</strong>  <strong>FOURSCORE (80)</strong>  and <strong>FOUR (4)</strong> .",
+                "text": "All the Levites in the holy city <strong>TWO HUNDRED FOURSCORE AND FOUR (284)</strong> .",
                 "numeric_numbers": [
-                    "200",
-                    "80",
-                    "4"
+                    "284"
                 ]
             },
             {
                 "book": "NEHEMIAH",
                 "chapter": "11",
                 "verse": 19,
-                "text": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, an <strong>HUNDRED (100)</strong>  seventy and <strong>TWO (2)</strong> .",
+                "text": "Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, an <strong>HUNDRED SEVENTY AND TWO (172)</strong> .",
                 "numeric_numbers": [
-                    "100",
-                    "2"
+                    "172"
                 ]
             },
             {
@@ -32367,19 +32283,11 @@
             "(1, 6)": 2,
             "(6, 10)": 2,
             "(1, 1)": 10,
-            "(2, 1)": 2,
-            "(20, 8)": 3,
-            "(60, 7)": 3,
-            "(2000, 60)": 2,
-            "(8, 300)": 2,
-            "(4, 100)": 2,
-            "(200, 5)": 2,
             "(20000, 2000)": 2,
             "(7, 1)": 2,
             "(1, 7)": 3,
             "(1, 6, 10)": 2,
             "(1, 1, 1)": 5,
-            "(2000, 60, 7)": 2,
             "(7, 1, 1)": 2,
             "(1, 1, 7)": 2,
             "(1, 1, 1, 1)": 2,
