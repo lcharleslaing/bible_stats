@@ -4,14 +4,25 @@
   import { bibleStore, loadBibleData } from "$lib/bibleStore";
   import { onMount } from "svelte";
   import { writable, derived } from "svelte/store";
+  import HelpModal from "$lib/components/HelpModal.svelte";
 
   const visibleBook = writable(null);
   const searchText = writable("");
   let isAccordionOpen = false; // State variable for accordion toggle
 
-  function toggleAccordion() {
-    isAccordionOpen = !isAccordionOpen;
-  }
+  let modalOpen = true; // Default state
+  let openOnStart;
+
+  onMount(async () => {
+    await loadBibleData();
+
+    if (typeof localStorage !== "undefined") {
+      // Access localStorage after component is mounted
+      openOnStart = localStorage.getItem("openOnStart") === "true";
+      modalOpen = openOnStart;
+    }
+  });
+
   const filteredVerses = derived(
     [bibleStore, searchText],
     ([$bibleStore, $searchText]) => {
@@ -40,19 +51,9 @@
     )
   );
 
-  onMount(async () => {
-    await loadBibleData();
-    if (typeof localStorage !== "undefined") {
-      const storedOpenOnStart = localStorage.getItem("openOnStart");
-      openOnStart =
-        storedOpenOnStart !== null ? storedOpenOnStart === "true" : true;
-      modalOpen = openOnStart;
-    } else {
-      // Set a default behavior if localStorage is not available
-      openOnStart = true;
-      modalOpen = true;
-    }
-  });
+  function toggleAccordion() {
+    isAccordionOpen = !isAccordionOpen;
+  }
 
   function showOnlyBook(bookName) {
     visibleBook.set(bookName);
@@ -64,20 +65,19 @@
     isAccordionOpen = false; // Also close the accordion
   }
 
-  function truncate(text) {
-    return text.slice(0, 5);
-  }
-
-  import HelpModal from "$lib/components/HelpModal.svelte";
-  let modalOpen = true;
-  let openOnStart;
-
   function handleModalClose() {
     modalOpen = false;
   }
 
   function handleModalUpdate(event) {
     openOnStart = event.detail.openOnStart;
+    if (typeof localStorage !== "undefined") {
+      localStorage.setItem("openOnStart", openOnStart.toString());
+    }
+  }
+
+  function truncate(text) {
+    return text.slice(0, 5);
   }
 </script>
 

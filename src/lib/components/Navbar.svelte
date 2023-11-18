@@ -5,6 +5,6 @@
   <a class="btn btn-xs btn-success" href="/">Verses </a>
   <a disabled class="btn btn-xs btn-primary" href="/dates">Dates </a>
   <a class="btn btn-xs btn-success" href="/quantities">Quantities </a>
-  <a disabled class="btn btn-xs btn-primary" href="/sequences">Sqeuences </a>
+  <a class="btn btn-xs btn-success" href="/sequences">Sqeuences </a>
   <a disabled class="btn btn-xs btn-primary" href="/patterns">Patterns </a>
 </div>
