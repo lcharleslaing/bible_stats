@@ -56,8 +56,11 @@
 </script>
 
 <div class="m-6">
-  <h1 class="text-4xl text-center">The Chosen Few</h1>
-  <h1 class="text-4xl text-center">KJV Bible Verses with Numbers</h1>
+  <div class="my-4">
+    <h1 class="text-2xl text-center font-extrabold">The Chosen Few</h1>
+    <h1 class="text-2xl text-center">KJV Bible Verses with Numbers</h1>
+    <h1 class="text-2xl text-center font-extrabold">It's a Bam Biscuit!!!</h1>
+  </div>
 
   <div class="m-2">
     <input
