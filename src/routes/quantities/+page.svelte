@@ -82,18 +82,19 @@
   </div>
 
   <!-- Accordion Toggle Button -->
-  <button class="btn btn-sm btn-primary my-2" on:click={toggleAccordion}>
+  <button class="btn btn-sm btn-accent my-2" on:click={toggleAccordion}>
     {isAccordionOpen ? "Hide Numbers" : "Show Numbers"}
   </button>
 
   <!-- Accordion Content: Book Buttons -->
   {#if isAccordionOpen}
-    <div class="grid grid-cols-4 space-y-1 justify-center items-center">
-      <button class="btn btn-sm btn-primary" on:click={showAllBooks}>All</button
+    <div class="grid grid-cols-3 space-y-1 justify-center items-center">
+      <button class="btn btn-sm btn-secondary" on:click={showAllBooks}
+        >All</button
       >
       {#each $uniqueNumbersStore.sortedNumbers as number}
         <button
-          class="btn btn-sm btn-primary mx-1"
+          class="btn btn-sm btn-accent text-white mx-1"
           on:click={() => selectNumber(number)}>{number}</button
         >
       {/each}
