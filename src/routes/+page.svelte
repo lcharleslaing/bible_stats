@@ -5,7 +5,11 @@
 
   const visibleBook = writable(null);
   const searchText = writable("");
+  let isAccordionOpen = false; // State variable for accordion toggle
 
+  function toggleAccordion() {
+    isAccordionOpen = !isAccordionOpen;
+  }
   const filteredVerses = derived(
     [bibleStore, searchText],
     ([$bibleStore, $searchText]) => {
@@ -45,6 +49,10 @@
   function showAllBooks() {
     visibleBook.set(null);
   }
+
+  function truncate(text) {
+    return text.slice(0, 5);
+  }
 </script>
 
 <div class="m-6">
@@ -67,19 +75,26 @@
     {/if}
   </div>
 
-  <div class="grid grid-cols-4 space-y-1 justify-center items-center">
-    <button class="btn btn-sm btn-primary" on:click={showAllBooks}
-      >Show All</button
-    >
-    {#each $filteredVerses as book (book.name)}
-      <button
-        class="btn btn-sm btn-primary mx-1"
-        on:click={() => showOnlyBook(book.name)}
+  <!-- Accordion Toggle Button -->
+  <button class="btn btn-sm btn-primary my-2" on:click={toggleAccordion}>
+    {isAccordionOpen ? "Hide Books" : "Show Books"}
+  </button>
+
+  <!-- Accordion Content: Book Buttons -->
+  {#if isAccordionOpen}
+    <div class="grid grid-cols-4 space-y-1 justify-center items-center">
+      <button class="btn btn-sm btn-primary" on:click={showAllBooks}>All</button
       >
-        {book.name}
-      </button>
-    {/each}
-  </div>
+      {#each $filteredVerses as book (book.name)}
+        <button
+          class="btn btn-sm btn-primary mx-1"
+          on:click={() => showOnlyBook(book.name)}
+        >
+          {truncate(book.name)}
+        </button>
+      {/each}
+    </div>
+  {/if}
 </div>
 
 <div class="m-4">
