@@ -32,6 +32,7 @@
             912,
             815,
             905,
+            70,
             800,
             910,
             60,
@@ -128,6 +129,7 @@
             200,
             29,
             119,
+            70,
             205,
             5,
             1,
@@ -315,6 +317,7 @@
             7,
             7,
             7,
+            2,
             5,
             7,
             7,
@@ -391,7 +394,7 @@
         ],
         "number_counts": {
             "1": 76,
-            "2": 58,
+            "2": 59,
             "3": 31,
             "4": 6,
             "5": 18,
@@ -405,6 +408,7 @@
             "912": 1,
             "815": 1,
             "905": 1,
+            "70": 4,
             "910": 1,
             "60": 5,
             "830": 1,
@@ -459,7 +463,6 @@
             "180": 1,
             "33": 1,
             "16": 1,
-            "70": 2,
             "110": 2
         },
         "verses_with_numbers": [
@@ -707,6 +710,15 @@
                 "text": "And all the days of Enos were <strong>NINE HUNDRED AND FIVE (905)</strong>  years: and he died.",
                 "numeric_numbers": [
                     "905"
+                ]
+            },
+            {
+                "book": "GENESIS",
+                "chapter": "5",
+                "verse": 12,
+                "text": "# And Cainan lived <strong>SEVENTY YEARS (70)</strong> , and begat Mahalaleel:",
+                "numeric_numbers": [
+                    "70"
                 ]
             },
             {
@@ -1371,6 +1383,15 @@
                 "text": "And Nahor lived after he begat Terah an <strong>HUNDRED AND NINETEEN (119)</strong>  years, and begat sons and daughters.",
                 "numeric_numbers": [
                     "119"
+                ]
+            },
+            {
+                "book": "GENESIS",
+                "chapter": "11",
+                "verse": 26,
+                "text": "And Terah lived <strong>SEVENTY YEARS (70)</strong> , and begat Abram, Nahor, and Haran.",
+                "numeric_numbers": [
+                    "70"
                 ]
             },
             {
@@ -2723,6 +2744,15 @@
             {
                 "book": "GENESIS",
                 "chapter": "41",
+                "verse": 32,
+                "text": "And for that the dream was doubled unto Pharaoh <strong>TWICE (2)</strong> ; because the thing established by God, and God will shortly bring it to pass.",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "GENESIS",
+                "chapter": "41",
                 "verse": 34,
                 "text": "Let Pharaoh do , and let him appoint officers over the land, and take up the <strong>FIFTH (5)</strong>  part of the land of Egypt in the <strong>SEVEN (7)</strong>  plenteous years.",
                 "numeric_numbers": [
@@ -3302,8 +3332,8 @@
             "(7, 1)": 9,
             "(1, 10)": 2,
             "(10, 3)": 2,
-            "(2, 5)": 3,
-            "(7, 2)": 5,
+            "(2, 5)": 4,
+            "(7, 2)": 6,
             "(400, 2)": 2,
             "(200, 20)": 2,
             "(12, 1)": 3,
@@ -3331,7 +3361,7 @@
             "(2, 7, 7)": 3,
             "(1, 1, 3)": 3,
             "(2, 7, 1)": 2,
-            "(7, 7, 2)": 3,
+            "(7, 7, 2)": 4,
             "(7, 1, 7)": 6,
             "(7, 2, 2)": 2,
             "(1, 12, 1)": 3,
@@ -3357,6 +3387,7 @@
             "(7, 7, 7, 7)": 5,
             "(1, 1, 1, 3)": 2,
             "(3, 3, 3, 3)": 3,
+            "(7, 7, 7, 2)": 2,
             "(7, 1, 7, 7)": 6,
             "(7, 7, 1, 7)": 4,
             "(1, 7, 7, 1)": 2,
@@ -3449,8 +3480,10 @@
             15,
             2,
             6,
+            2,
             1,
             6,
+            2,
             2,
             1,
             6,
@@ -3894,7 +3927,7 @@
         "number_counts": {
             "1": 131,
             "3": 38,
-            "2": 121,
+            "2": 123,
             "7": 31,
             "137": 2,
             "133": 1,
@@ -4042,7 +4075,7 @@
                 "book": "EXODUS",
                 "chapter": "7",
                 "verse": 7,
-                "text": "And Moses <strong>FOURSCORE (80)</strong>  years old, and Aaron <strong>FOURSCORE (80)</strong>  and <strong>THREE (3)</strong>  years old, when they spake unto Pharaoh.",
+                "text": "And Moses <strong>FOURSCORE YEARS (80)</strong>  old, and Aaron <strong>FOURSCORE (80)</strong>  and <strong>THREE (3)</strong>  years old, when they spake unto Pharaoh.",
                 "numeric_numbers": [
                     "80",
                     "80",
@@ -4388,9 +4421,10 @@
                 "book": "EXODUS",
                 "chapter": "16",
                 "verse": 5,
-                "text": "And it shall come to pass, that on the <strong>SIXTH DAY (6)</strong>  they shall prepare which they bring in; and it shall be twice as much as they gather daily.",
+                "text": "And it shall come to pass, that on the <strong>SIXTH DAY (6)</strong>  they shall prepare which they bring in; and it shall be <strong>TWICE (2)</strong>  as much as they gather daily.",
                 "numeric_numbers": [
-                    "6"
+                    "6",
+                    "2"
                 ]
             },
             {
@@ -4406,9 +4440,10 @@
                 "book": "EXODUS",
                 "chapter": "16",
                 "verse": 22,
-                "text": "# And it came to pass, on the <strong>SIXTH DAY (6)</strong>  they gathered twice as much bread, <strong>TWO (2)</strong>  omers for <strong>ONE (1)</strong>  : and all the rulers of the congregation came and told Moses.",
+                "text": "# And it came to pass, on the <strong>SIXTH DAY (6)</strong>  they gathered <strong>TWICE (2)</strong>  as much bread, <strong>TWO (2)</strong>  omers for <strong>ONE (1)</strong>  : and all the rulers of the congregation came and told Moses.",
                 "numeric_numbers": [
                     "6",
+                    "2",
                     "2",
                     "1"
                 ]
@@ -6583,7 +6618,7 @@
             "(1, 3)": 9,
             "(3, 1)": 11,
             "(1, 2)": 35,
-            "(2, 2)": 54,
+            "(2, 2)": 55,
             "(2, 7)": 3,
             "(7, 3)": 5,
             "(2, 3)": 4,
@@ -6595,12 +6630,11 @@
             "(7, 1)": 5,
             "(1, 7)": 7,
             "(7, 2)": 4,
-            "(2, 1)": 37,
+            "(2, 1)": 38,
             "(7, 7)": 5,
             "(2, 6)": 7,
-            "(6, 1)": 5,
+            "(6, 2)": 7,
             "(1, 6)": 4,
-            "(6, 2)": 6,
             "(6, 7)": 11,
             "(7, 6)": 6,
             "(7, 10)": 2,
@@ -6619,6 +6653,7 @@
             "(6, 3)": 2,
             "(3, 6)": 2,
             "(6, 4)": 2,
+            "(6, 1)": 4,
             "(1, 4)": 4,
             "(5, 1)": 7,
             "(1, 11)": 3,
@@ -6664,13 +6699,14 @@
             "(7, 1, 1)": 2,
             "(1, 1, 7)": 3,
             "(7, 2, 2)": 3,
-            "(2, 2, 1)": 10,
+            "(2, 2, 1)": 11,
             "(1, 7, 7)": 2,
             "(7, 7, 7)": 2,
-            "(2, 6, 1)": 4,
-            "(6, 1, 6)": 2,
-            "(1, 6, 2)": 2,
+            "(2, 6, 2)": 3,
             "(6, 2, 1)": 2,
+            "(2, 1, 6)": 2,
+            "(1, 6, 2)": 2,
+            "(6, 2, 2)": 4,
             "(1, 6, 7)": 2,
             "(7, 10, 1)": 2,
             "(10, 1, 1)": 2,
@@ -6698,6 +6734,7 @@
             "(6, 4, 2)": 2,
             "(4, 2, 2)": 3,
             "(2, 2, 6)": 3,
+            "(2, 6, 1)": 3,
             "(6, 1, 7)": 2,
             "(1, 4, 1)": 2,
             "(1, 5, 1)": 3,
@@ -6714,8 +6751,6 @@
             "(2, 2, 20)": 2,
             "(2, 20, 2)": 2,
             "(1, 2, 6)": 2,
-            "(2, 6, 2)": 2,
-            "(6, 2, 2)": 3,
             "(8, 16, 2)": 2,
             "(2, 5, 1)": 2,
             "(1, 5, 5)": 2,
@@ -6760,8 +6795,8 @@
             "(1, 1, 1, 7)": 2,
             "(1, 1, 7, 7)": 2,
             "(1, 7, 7, 7)": 2,
-            "(2, 6, 1, 6)": 2,
-            "(6, 1, 6, 2)": 2,
+            "(1, 6, 2, 2)": 2,
+            "(6, 2, 2, 1)": 3,
             "(10, 1, 1, 2)": 2,
             "(1, 1, 2, 1)": 6,
             "(1, 2, 1, 2)": 9,
@@ -6810,7 +6845,6 @@
             "(2, 1, 2, 6)": 2,
             "(1, 2, 6, 2)": 2,
             "(2, 6, 2, 2)": 2,
-            "(6, 2, 2, 1)": 2,
             "(2, 2, 1, 2)": 4,
             "(2, 5, 1, 5)": 2,
             "(5, 1, 5, 5)": 2,
@@ -6848,7 +6882,6 @@
             "(7, 3, 1, 1, 1)": 2,
             "(1, 1, 1, 7, 7)": 2,
             "(1, 1, 7, 7, 7)": 2,
-            "(2, 6, 1, 6, 2)": 2,
             "(10, 1, 1, 2, 1)": 2,
             "(1, 1, 2, 1, 2)": 5,
             "(1, 2, 1, 2, 1)": 5,
@@ -9642,6 +9675,7 @@
             7,
             7,
             1,
+            2,
             30,
             1,
             2,
@@ -9894,7 +9928,7 @@
         ],
         "number_counts": {
             "1": 248,
-            "2": 58,
+            "2": 59,
             "20": 23,
             "46500": 2,
             "59300": 2,
@@ -12273,6 +12307,15 @@
             {
                 "book": "NUMBERS",
                 "chapter": "20",
+                "verse": 11,
+                "text": "And Moses lifted up his hand, and with his rod he smote the rock <strong>TWICE (2)</strong> : and the water came out abundantly, and the congregation drank, and their beasts .",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "NUMBERS",
+                "chapter": "20",
                 "verse": 29,
                 "text": "And when all the congregation saw that Aaron was dead, they mourned for Aaron <strong>THIRTY DAYS (30)</strong> , all the house of Israel.",
                 "numeric_numbers": [
@@ -13585,7 +13628,7 @@
             }
         ],
         "repeating_patterns": {
-            "(1, 2)": 31,
+            "(1, 2)": 32,
             "(2, 2)": 4,
             "(2, 20)": 3,
             "(20, 1)": 2,
@@ -13594,7 +13637,7 @@
             "(12, 1)": 5,
             "(5, 20)": 2,
             "(30, 1)": 7,
-            "(1, 30)": 3,
+            "(1, 30)": 2,
             "(1, 5)": 5,
             "(5, 10)": 2,
             "(10, 7)": 4,
@@ -13651,7 +13694,6 @@
             "(1, 1, 2)": 13,
             "(1, 2, 20)": 2,
             "(30, 1, 30)": 2,
-            "(1, 30, 1)": 2,
             "(1, 1, 5)": 3,
             "(2, 2, 1)": 3,
             "(2, 1, 1)": 3,
@@ -13683,7 +13725,7 @@
             "(7, 7, 7)": 5,
             "(7, 7, 1)": 3,
             "(7, 1, 7)": 4,
-            "(7, 1, 2)": 2,
+            "(7, 1, 2)": 3,
             "(1, 3, 4)": 2,
             "(10, 4, 4)": 2,
             "(4, 4, 1)": 2,
@@ -14575,7 +14617,7 @@
                 "book": "DEUTERONOMY",
                 "chapter": "16",
                 "verse": 9,
-                "text": "# <strong>SEVEN (7)</strong>  weeks shalt thou number unto thee: begin to number the <strong>SEVEN (7)</strong>  weeks from thou beginnest the sickle to the corn.",
+                "text": "# <strong>SEVEN WEEKS (7)</strong>  shalt thou number unto thee: begin to number the <strong>SEVEN WEEKS (7)</strong>  from thou beginnest the sickle to the corn.",
                 "numeric_numbers": [
                     "7",
                     "7"
@@ -16861,7 +16903,7 @@
                 "book": "JUDGES",
                 "chapter": "3",
                 "verse": 30,
-                "text": "So Moab was subdued that day under the hand of Israel. And the land had rest <strong>FOURSCORE (80)</strong>  years.",
+                "text": "So Moab was subdued that day under the hand of Israel. And the land had rest <strong>FOURSCORE YEARS (80)</strong> .",
                 "numeric_numbers": [
                     "80"
                 ]
@@ -18443,6 +18485,7 @@
             5,
             10,
             10,
+            2,
             1000,
             100,
             200,
@@ -18515,7 +18558,7 @@
             7
         ],
         "number_counts": {
-            "2": 25,
+            "2": 26,
             "1": 47,
             "10": 11,
             "3": 27,
@@ -19261,6 +19304,15 @@
             {
                 "book": "1 SAMUEL",
                 "chapter": "18",
+                "verse": 11,
+                "text": "And Saul cast the javelin; for he said, I will smite David even to the wall . And David avoided out of his presence <strong>TWICE (2)</strong> .",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "1 SAMUEL",
+                "chapter": "18",
                 "verse": 13,
                 "text": "Therefore Saul removed him from him, and made him his captain over a <strong>THOUSAND (1000)</strong> ; and he went out and came in before the people.",
                 "numeric_numbers": [
@@ -19769,7 +19821,6 @@
             "(2, 3000)": 2,
             "(1, 600)": 3,
             "(600, 1)": 2,
-            "(10, 1000)": 2,
             "(100, 200)": 2,
             "(200, 3)": 2,
             "(1, 10)": 2,
@@ -19787,7 +19838,6 @@
             "(1, 3, 3)": 2,
             "(7, 1, 1)": 2,
             "(3, 3, 3)": 3,
-            "(10, 10, 1000)": 2,
             "(200, 3, 3)": 2,
             "(1, 600, 2)": 2,
             "(3, 2, 1, 2)": 2,
@@ -20801,7 +20851,7 @@
                 "book": "2 SAMUEL",
                 "chapter": "19",
                 "verse": 32,
-                "text": "Now Barzillai was a very aged man, <strong>FOURSCORE (80)</strong>  years old: and he had provided the king of sustenance while he lay at Mahanaim; for he a very great man.",
+                "text": "Now Barzillai was a very aged man, <strong>FOURSCORE YEARS (80)</strong>  old: and he had provided the king of sustenance while he lay at Mahanaim; for he a very great man.",
                 "numeric_numbers": [
                     "80"
                 ]
@@ -20810,7 +20860,7 @@
                 "book": "2 SAMUEL",
                 "chapter": "19",
                 "verse": 35,
-                "text": "I this day <strong>FOURSCORE (80)</strong>  years old: can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?",
+                "text": "I this day <strong>FOURSCORE YEARS (80)</strong>  old: can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?",
                 "numeric_numbers": [
                     "80"
                 ]
@@ -21361,6 +21411,7 @@
             150,
             700,
             300,
+            2,
             1,
             6,
             2,
@@ -21477,7 +21528,7 @@
             2
         ],
         "number_counts": {
-            "2": 50,
+            "2": 51,
             "7": 15,
             "33": 1,
             "1": 63,
@@ -22540,6 +22591,15 @@
             {
                 "book": "1 KINGS",
                 "chapter": "11",
+                "verse": 9,
+                "text": "# And the LORD was angry with Solomon, because his heart was turned from the LORD God of Israel, which had appeared unto him <strong>TWICE (2)</strong> ,",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "1 KINGS",
+                "chapter": "11",
                 "verse": 13,
                 "text": "Howbeit I will not rend away all the kingdom; will give <strong>ONE (1)</strong>  tribe to thy son for David my servant's sake, and for Jerusalem's sake which I have chosen.",
                 "numeric_numbers": [
@@ -23305,7 +23365,7 @@
             "(1, 2)": 7,
             "(2, 3)": 5,
             "(3, 2)": 3,
-            "(2, 1)": 13,
+            "(2, 1)": 14,
             "(1, 3)": 3,
             "(1, 12)": 4,
             "(20, 2)": 3,
@@ -23432,6 +23492,7 @@
             2,
             1,
             1,
+            2,
             1,
             80,
             4,
@@ -23611,7 +23672,7 @@
         ],
         "number_counts": {
             "3": 21,
-            "2": 43,
+            "2": 44,
             "42": 1,
             "18": 5,
             "12": 5,
@@ -23946,6 +24007,15 @@
                 "text": "But as <strong>ONE (1)</strong>  was felling a beam, the axe head fell into the water: and he cried, and said, Alas, master! for it was borrowed.",
                 "numeric_numbers": [
                     "1"
+                ]
+            },
+            {
+                "book": "2 KINGS",
+                "chapter": "6",
+                "verse": 10,
+                "text": "And the king of Israel sent to the place which the man of God told him and warned him of, and saved himself there, not once nor <strong>TWICE (2)</strong> .",
+                "numeric_numbers": [
+                    "2"
                 ]
             },
             {
@@ -25109,17 +25179,17 @@
             "(7, 3)": 3,
             "(3, 1)": 2,
             "(1, 3)": 2,
-            "(2, 1)": 6,
-            "(1, 1)": 14,
+            "(2, 1)": 7,
+            "(1, 1)": 13,
             "(7, 1)": 2,
             "(1, 20)": 2,
             "(7, 7)": 4,
+            "(1, 2)": 3,
             "(1, 80)": 2,
             "(80, 4)": 2,
             "(5, 2)": 3,
             "(2, 7)": 2,
             "(2, 20)": 2,
-            "(1, 2)": 2,
             "(1, 23)": 2,
             "(2, 25)": 2,
             "(25, 29)": 2,
@@ -25134,13 +25204,15 @@
             "(2, 3, 2)": 2,
             "(2, 1, 1)": 4,
             "(2, 2, 1)": 2,
-            "(1, 1, 1)": 6,
+            "(1, 1, 2)": 3,
+            "(2, 1, 80)": 2,
             "(1, 80, 4)": 2,
+            "(1, 1, 1)": 3,
             "(2, 7, 7)": 2,
-            "(1, 1, 2)": 2,
             "(3, 2, 2, 2)": 2,
             "(2, 2, 2, 2)": 7,
             "(2, 2, 2, 1)": 2,
+            "(2, 1, 80, 4)": 2,
             "(1, 1, 1, 2)": 2,
             "(3, 2, 2, 2, 2)": 2,
             "(2, 2, 2, 2, 2)": 5,
@@ -25164,8 +25236,7 @@
             7,
             3,
             60,
-            3,
-            20,
+            23,
             60,
             2,
             3,
@@ -25526,13 +25597,13 @@
         "number_counts": {
             "2": 28,
             "1": 29,
-            "3": 41,
+            "3": 40,
             "5": 17,
             "4": 24,
             "6": 20,
             "7": 16,
             "60": 3,
-            "20": 9,
+            "23": 3,
             "33": 2,
             "9": 6,
             "16": 4,
@@ -25572,6 +25643,7 @@
             "18000": 3,
             "200": 2,
             "37000": 1,
+            "20": 8,
             "8600": 1,
             "120000": 1,
             "120": 1,
@@ -25598,7 +25670,6 @@
             "18": 3,
             "19": 2,
             "21": 2,
-            "23": 2,
             "288": 1,
             "62": 1,
             "2700": 1,
@@ -25695,10 +25766,9 @@
                 "book": "1 CHRONICLES",
                 "chapter": "2",
                 "verse": 22,
-                "text": "And Segub begat Jair, who had <strong>THREE (3)</strong>  and <strong>TWENTY (20)</strong>  cities in the land of Gilead.",
+                "text": "And Segub begat Jair, who had <strong>THREE AND TWENTY (23)</strong>  cities in the land of Gilead.",
                 "numeric_numbers": [
-                    "3",
-                    "20"
+                    "23"
                 ]
             },
             {
@@ -27732,7 +27802,6 @@
             "(4, 5)": 8,
             "(5, 6)": 9,
             "(6, 7)": 6,
-            "(3, 20)": 2,
             "(6, 6)": 3,
             "(6, 3)": 2,
             "(3, 7)": 2,
@@ -28129,8 +28198,7 @@
             8,
             3,
             10,
-            1,
-            20,
+            21,
             11,
             70,
             1
@@ -28148,9 +28216,9 @@
             "153600": 1,
             "2": 25,
             "4": 2,
-            "1": 47,
+            "1": 46,
             "60": 4,
-            "20": 15,
+            "20": 14,
             "120": 3,
             "5": 17,
             "35": 2,
@@ -28205,7 +28273,8 @@
             "30000": 1,
             "5000": 1,
             "500": 1,
-            "11": 2
+            "11": 2,
+            "21": 1
         },
         "verses_with_numbers": [
             {
@@ -29885,10 +29954,9 @@
                 "book": "2 CHRONICLES",
                 "chapter": "36",
                 "verse": 11,
-                "text": "# Zedekiah <strong>ONE (1)</strong>  and <strong>TWENTY (20)</strong>  years old when he began to reign, and reigned <strong>ELEVEN (11)</strong>  years in Jerusalem.",
+                "text": "# Zedekiah <strong>ONE AND TWENTY (21)</strong>  years old when he began to reign, and reigned <strong>ELEVEN (11)</strong>  years in Jerusalem.",
                 "numeric_numbers": [
-                    "1",
-                    "20",
+                    "21",
                     "11"
                 ]
             },
@@ -29926,7 +29994,7 @@
             "(5, 5)": 6,
             "(20, 2)": 2,
             "(5, 100)": 2,
-            "(1, 20)": 4,
+            "(1, 20)": 3,
             "(10, 5)": 4,
             "(5, 30)": 2,
             "(2, 12)": 2,
@@ -31273,6 +31341,7 @@
             2,
             32,
             1,
+            2,
             1
         ],
         "number_counts": {
@@ -31288,7 +31357,7 @@
             "150": 1,
             "4": 5,
             "5": 3,
-            "2": 7,
+            "2": 8,
             "2172": 1,
             "372": 1,
             "652": 1,
@@ -32272,6 +32341,15 @@
             {
                 "book": "NEHEMIAH",
                 "chapter": "13",
+                "verse": 20,
+                "text": "So the merchants and sellers of all kind of ware lodged without Jerusalem once or <strong>TWICE (2)</strong> .",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "NEHEMIAH",
+                "chapter": "13",
                 "verse": 30,
                 "text": "Thus cleansed I them from all strangers, and appointed the wards of the priests and the Levites, every <strong>ONE (1)</strong>  in his business;",
                 "numeric_numbers": [
@@ -32286,6 +32364,7 @@
             "(20000, 2000)": 2,
             "(7, 1)": 2,
             "(1, 7)": 3,
+            "(1, 2)": 2,
             "(1, 6, 10)": 2,
             "(1, 1, 1)": 5,
             "(7, 1, 1)": 2,
@@ -32334,9 +32413,7 @@
             1,
             3,
             23,
-            100,
-            20,
-            7,
+            127,
             1,
             13,
             12,
@@ -32363,15 +32440,13 @@
             1,
             2,
             2,
-            100,
-            20,
-            7
+            127
         ],
         "number_counts": {
-            "127": 1,
+            "127": 3,
             "3": 4,
             "180": 1,
-            "7": 8,
+            "7": 6,
             "1": 11,
             "12": 6,
             "6": 2,
@@ -32381,8 +32456,6 @@
             "13": 6,
             "30": 1,
             "23": 1,
-            "100": 2,
-            "20": 2,
             "500": 2,
             "14": 5,
             "300": 1,
@@ -32621,13 +32694,11 @@
                 "book": "ESTHER",
                 "chapter": "8",
                 "verse": 9,
-                "text": "Then were the king's scribes called at that time in the <strong>THIRD MONTH (3)</strong> , that , the month Sivan, on the <strong>THREE AND TWENTIETH (23)</strong>  thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which from India unto Ethiopia, an <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>SEVEN (7)</strong>  provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.",
+                "text": "Then were the king's scribes called at that time in the <strong>THIRD MONTH (3)</strong> , that , the month Sivan, on the <strong>THREE AND TWENTIETH (23)</strong>  thereof; and it was written according to all that Mordecai commanded unto the Jews, and to the lieutenants, and the deputies and rulers of the provinces which from India unto Ethiopia, an <strong>HUNDRED TWENTY AND SEVEN (127)</strong>  provinces, unto every province according to the writing thereof, and unto every people after their language, and to the Jews according to their writing, and according to their language.",
                 "numeric_numbers": [
                     "3",
                     "23",
-                    "100",
-                    "20",
-                    "7"
+                    "127"
                 ]
             },
             {
@@ -32788,16 +32859,14 @@
                 "book": "ESTHER",
                 "chapter": "9",
                 "verse": 30,
-                "text": "And he sent the letters unto all the Jews, to the <strong>HUNDRED (100)</strong>  <strong>TWENTY (20)</strong>  and <strong>SEVEN (7)</strong>  provinces of the kingdom of Ahasuerus, words of peace and truth,",
+                "text": "And he sent the letters unto all the Jews, to the <strong>HUNDRED TWENTY AND SEVEN (127)</strong>  provinces of the kingdom of Ahasuerus, words of peace and truth,",
                 "numeric_numbers": [
-                    "100",
-                    "20",
-                    "7"
+                    "127"
                 ]
             }
         ],
         "repeating_patterns": {
-            "(7, 1)": 3,
+            "(7, 1)": 2,
             "(1, 7)": 2,
             "(2, 2)": 2,
             "(2, 1)": 3,
@@ -32805,7 +32874,6 @@
             "(1, 13)": 2,
             "(13, 12)": 2,
             "(1, 2)": 2,
-            "(100, 20)": 2,
             "(500, 10)": 2,
             "(13, 14)": 2,
             "(14, 15)": 2,
@@ -32859,8 +32927,10 @@
             3,
             3,
             3,
+            2,
             1,
             1000,
+            2,
             1,
             1,
             1,
@@ -32868,9 +32938,9 @@
             2,
             7,
             7,
+            2,
             1,
-            14,
-            1000,
+            14000,
             6000,
             1000,
             1000,
@@ -32891,10 +32961,10 @@
             "500": 2,
             "4": 2,
             "6": 1,
-            "1000": 5,
-            "2": 3,
+            "1000": 4,
+            "2": 6,
             "10": 1,
-            "14": 1,
+            "14000": 1,
             "6000": 1,
             "100": 1
         },
@@ -33217,11 +33287,29 @@
             {
                 "book": "JOB",
                 "chapter": "33",
+                "verse": 14,
+                "text": "For God speaketh once, yea <strong>TWICE (2)</strong> , perceiveth it not.",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "JOB",
+                "chapter": "33",
                 "verse": 23,
                 "text": "If there be a messenger with him, an interpreter, <strong>ONE (1)</strong>  among a <strong>THOUSAND (1000)</strong> , to shew unto man his uprightness:",
                 "numeric_numbers": [
                     "1",
                     "1000"
+                ]
+            },
+            {
+                "book": "JOB",
+                "chapter": "40",
+                "verse": 5,
+                "text": "Once have I spoken; but I will not answer: yea, <strong>TWICE (2)</strong> ; but I will proceed no further.",
+                "numeric_numbers": [
+                    "2"
                 ]
             },
             {
@@ -33282,6 +33370,15 @@
             {
                 "book": "JOB",
                 "chapter": "42",
+                "verse": 10,
+                "text": "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job <strong>TWICE (2)</strong>  as much as he had before.",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "JOB",
+                "chapter": "42",
                 "verse": 11,
                 "text": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every <strong>ONE (1)</strong>  an earring of gold.",
                 "numeric_numbers": [
@@ -33292,10 +33389,9 @@
                 "book": "JOB",
                 "chapter": "42",
                 "verse": 12,
-                "text": "So the LORD blessed the latter end of Job more than his beginning: for he had <strong>FOURTEEN (14)</strong>  <strong>THOUSAND (1000)</strong>  sheep, and <strong>SIX THOUSAND (6000)</strong>  camels, and a <strong>THOUSAND (1000)</strong>  yoke of oxen, and a <strong>THOUSAND (1000)</strong>  she asses.",
+                "text": "So the LORD blessed the latter end of Job more than his beginning: for he had <strong>FOURTEEN THOUSAND (14000)</strong>  sheep, and <strong>SIX THOUSAND (6000)</strong>  camels, and a <strong>THOUSAND (1000)</strong>  yoke of oxen, and a <strong>THOUSAND (1000)</strong>  she asses.",
                 "numeric_numbers": [
-                    "14",
-                    "1000",
+                    "14000",
                     "6000",
                     "1000",
                     "1000"
@@ -33337,25 +33433,22 @@
             "(1, 7)": 2,
             "(7, 3)": 2,
             "(1, 3)": 4,
-            "(3, 1)": 4,
+            "(3, 1)": 3,
             "(1, 1)": 16,
             "(7, 7)": 2,
-            "(7, 1)": 3,
+            "(7, 1)": 2,
             "(1, 1000)": 2,
-            "(1000, 1)": 2,
             "(1, 2)": 3,
+            "(2, 1)": 4,
             "(1, 3, 1)": 2,
             "(1, 1, 3)": 2,
-            "(7, 7, 1)": 2,
             "(1, 1, 1)": 9,
-            "(1, 1000, 1)": 2,
-            "(1000, 1, 1)": 2,
             "(1, 1, 2)": 2,
-            "(1, 1000, 1, 1)": 2,
-            "(1000, 1, 1, 1)": 2,
+            "(2, 1, 1)": 2,
             "(1, 1, 1, 2)": 2,
+            "(2, 1, 1, 1)": 2,
             "(1, 1, 1, 1)": 4,
-            "(1, 1000, 1, 1, 1)": 2
+            "(2, 1, 1, 1, 1)": 2
         }
     },
     {
@@ -33376,6 +33469,7 @@
             1000,
             1,
             1,
+            2,
             1,
             1,
             20000,
@@ -33392,8 +33486,7 @@
             1,
             1,
             1000,
-            60,
-            10,
+            70,
             80,
             1000,
             10000,
@@ -33414,12 +33507,13 @@
             1
         ],
         "number_counts": {
-            "10": 6,
+            "10": 5,
             "1": 34,
             "7": 2,
             "1000": 5,
+            "2": 1,
             "20000": 1,
-            "60": 1,
+            "70": 1,
             "80": 1,
             "10000": 1
         },
@@ -33549,6 +33643,15 @@
                 "numeric_numbers": [
                     "1",
                     "1"
+                ]
+            },
+            {
+                "book": "PSALMS",
+                "chapter": "62",
+                "verse": 11,
+                "text": "God hath spoken once; <strong>TWICE (2)</strong>  have I heard this; that power unto God.",
+                "numeric_numbers": [
+                    "2"
                 ]
             },
             {
@@ -33699,10 +33802,9 @@
                 "book": "PSALMS",
                 "chapter": "90",
                 "verse": 10,
-                "text": "The days of our years <strong>THREESCORE (60)</strong>  years and <strong>TEN (10)</strong> ; and if by reason of strength <strong>FOURSCORE (80)</strong>  years, yet their strength labour and sorrow; for it is soon cut off, and we fly away.",
+                "text": "The days of our years <strong>THREESCORE YEARS AND TEN (70)</strong> ; and if by reason of strength <strong>FOURSCORE YEARS (80)</strong> , yet their strength labour and sorrow; for it is soon cut off, and we fly away.",
                 "numeric_numbers": [
-                    "60",
-                    "10",
+                    "70",
                     "80"
                 ]
             },
@@ -33856,35 +33958,31 @@
             "(10, 1)": 2,
             "(1, 7)": 2,
             "(7, 1)": 2,
-            "(1, 1)": 24,
+            "(1, 1)": 23,
             "(1, 10)": 2,
             "(1, 1000)": 3,
             "(1000, 1)": 3,
             "(1, 7, 1)": 2,
             "(7, 1, 1)": 2,
-            "(1, 1, 1)": 16,
+            "(1, 1, 1)": 14,
             "(1, 1, 10)": 2,
             "(1, 1, 1000)": 3,
             "(1, 1000, 1)": 2,
             "(1000, 1, 1)": 3,
             "(1, 7, 1, 1)": 2,
             "(7, 1, 1, 1)": 2,
-            "(1, 1, 1, 1)": 10,
+            "(1, 1, 1, 1)": 9,
             "(1, 1, 1, 10)": 2,
             "(1, 1, 1, 1000)": 3,
             "(1, 1, 1000, 1)": 2,
             "(1, 1000, 1, 1)": 2,
-            "(1000, 1, 1, 1)": 3,
+            "(1000, 1, 1, 1)": 2,
             "(1, 7, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1)": 7,
             "(1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1000, 1, 1)": 2,
-            "(1, 1000, 1, 1, 1)": 2,
-            "(1000, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1000, 1, 1)": 2,
-            "(1, 1, 1000, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 1)": 2,
-            "(1, 1, 1, 1000, 1, 1, 1)": 2
+            "(1, 1, 1, 1, 1, 1)": 2
         }
     },
     {
@@ -34206,7 +34304,7 @@
             2,
             2,
             100,
-            1000,
+            2000,
             1,
             1,
             1,
@@ -34230,8 +34328,9 @@
             "1": 23,
             "2": 5,
             "100": 2,
-            "1000": 2,
+            "2000": 1,
             "10": 1,
+            "1000": 1,
             "7": 1,
             "8": 1
         },
@@ -34336,9 +34435,9 @@
                 "book": "ECCLESIASTES",
                 "chapter": "6",
                 "verse": 6,
-                "text": "# Yea, though he live a <strong>THOUSAND (1000)</strong>  years twice , yet hath he seen no good: do not all go to <strong>ONE (1)</strong>  place?",
+                "text": "# Yea, though he live a <strong>THOUSAND YEARS TWICE (2000)</strong>  , yet hath he seen no good: do not all go to <strong>ONE (1)</strong>  place?",
                 "numeric_numbers": [
-                    "1000",
+                    "2000",
                     "1"
                 ]
             },
@@ -34477,7 +34576,6 @@
             "(1, 2)": 3,
             "(2, 2)": 2,
             "(2, 1)": 2,
-            "(1000, 1)": 2,
             "(1, 1, 1)": 7,
             "(1, 1, 2)": 3,
             "(1, 2, 2)": 2,
@@ -34722,8 +34820,7 @@
             1,
             10,
             2,
-            60,
-            5,
+            65,
             2,
             1,
             1000,
@@ -34763,8 +34860,10 @@
             3,
             3,
             2,
+            70,
             1,
-            1,
+            70,
+            70,
             1,
             1,
             1,
@@ -34795,8 +34894,7 @@
             1,
             2,
             3,
-            180,
-            5000,
+            185000,
             15,
             10,
             10,
@@ -34851,20 +34949,20 @@
             1
         ],
         "number_counts": {
-            "1": 105,
+            "1": 104,
             "7": 3,
             "10": 4,
             "6": 1,
             "2": 9,
-            "60": 1,
-            "5": 4,
+            "65": 1,
             "1000": 4,
             "4": 2,
             "3": 6,
+            "5": 3,
+            "70": 3,
             "14": 1,
             "2000": 1,
-            "180": 1,
-            "5000": 1,
+            "185000": 1,
             "15": 1,
             "100": 2
         },
@@ -35012,10 +35110,9 @@
                 "book": "ISAIAH",
                 "chapter": "7",
                 "verse": 8,
-                "text": "For the head of Syria Damascus, and the head of Damascus Rezin; and within <strong>THREESCORE (60)</strong>  and <strong>FIVE (5)</strong>  years shall Ephraim be broken, that it be not a people.",
+                "text": "For the head of Syria Damascus, and the head of Damascus Rezin; and within <strong>THREESCORE AND FIVE YEARS (65)</strong>  shall Ephraim be broken, that it be not a people.",
                 "numeric_numbers": [
-                    "60",
-                    "5"
+                    "65"
                 ]
             },
             {
@@ -35309,9 +35406,20 @@
                 "book": "ISAIAH",
                 "chapter": "23",
                 "verse": 15,
-                "text": "And it shall come to pass in that day, that Tyre shall be forgotten seventy years, according to the days of <strong>ONE (1)</strong>  king: after the end of seventy years shall Tyre sing as an harlot.",
+                "text": "And it shall come to pass in that day, that Tyre shall be forgotten <strong>SEVENTY YEARS (70)</strong> , according to the days of <strong>ONE (1)</strong>  king: after the end of <strong>SEVENTY YEARS (70)</strong>  shall Tyre sing as an harlot.",
                 "numeric_numbers": [
-                    "1"
+                    "70",
+                    "1",
+                    "70"
+                ]
+            },
+            {
+                "book": "ISAIAH",
+                "chapter": "23",
+                "verse": 17,
+                "text": "# And it shall come to pass after the end of <strong>SEVENTY YEARS (70)</strong> , that the LORD will visit Tyre, and she shall turn to her hire, and shall commit fornication with all the kingdoms of the world upon the face of the earth.",
+                "numeric_numbers": [
+                    "70"
                 ]
             },
             {
@@ -35409,9 +35517,8 @@
                 "book": "ISAIAH",
                 "chapter": "30",
                 "verse": 17,
-                "text": "<strong>ONE (1)</strong>  <strong>THOUSAND (1000)</strong>  at the rebuke of <strong>ONE (1)</strong> ; at the rebuke of <strong>FIVE (5)</strong>  shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.",
+                "text": "<strong>ONE THOUSAND (1000)</strong>  at the rebuke of <strong>ONE (1)</strong> ; at the rebuke of <strong>FIVE (5)</strong>  shall ye flee: till ye be left as a beacon upon the top of a mountain, and as an ensign on an hill.",
                 "numeric_numbers": [
-                    "1",
                     "1000",
                     "1",
                     "5"
@@ -35533,10 +35640,9 @@
                 "book": "ISAIAH",
                 "chapter": "37",
                 "verse": 36,
-                "text": "Then the angel of the LORD went forth, and smote in the camp of the Assyrians a <strong>HUNDRED AND FOURSCORE (180)</strong>  and <strong>FIVE THOUSAND (5000)</strong> : and when they arose early in the morning, behold, they all dead corpses.",
+                "text": "Then the angel of the LORD went forth, and smote in the camp of the Assyrians a <strong>HUNDRED AND FOURSCORE AND FIVE THOUSAND (185000)</strong> : and when they arose early in the morning, behold, they all dead corpses.",
                 "numeric_numbers": [
-                    "180",
-                    "5000"
+                    "185000"
                 ]
             },
             {
@@ -35937,11 +36043,11 @@
             }
         ],
         "repeating_patterns": {
-            "(1, 1)": 83,
+            "(1, 1)": 81,
             "(7, 1)": 3,
             "(1, 10)": 2,
             "(10, 1)": 2,
-            "(2, 1)": 5,
+            "(2, 1)": 4,
             "(1, 1000)": 3,
             "(1000, 1)": 3,
             "(1, 2)": 5,
@@ -35950,90 +36056,83 @@
             "(2, 3)": 2,
             "(5, 1)": 2,
             "(1, 5)": 2,
-            "(1, 1, 1)": 66,
+            "(70, 1)": 2,
+            "(1, 1, 1)": 64,
             "(7, 1, 1)": 3,
             "(1, 1, 10)": 2,
             "(10, 1, 1)": 2,
             "(1, 1, 2)": 5,
             "(1, 1, 3)": 2,
             "(5, 1, 1)": 2,
-            "(2, 1, 1)": 4,
             "(1, 1, 1000)": 2,
             "(1, 1000, 1)": 2,
             "(1, 2, 1)": 3,
-            "(1, 1, 1, 1)": 54,
+            "(2, 1, 1)": 3,
+            "(1, 1, 1, 1)": 52,
             "(10, 1, 1, 1)": 2,
             "(1, 1, 1, 2)": 4,
             "(7, 1, 1, 1)": 2,
-            "(2, 1, 1, 1)": 3,
             "(1, 1, 1, 1000)": 2,
             "(1, 1, 1000, 1)": 2,
             "(1, 1, 2, 1)": 2,
             "(1, 2, 1, 1)": 2,
-            "(1, 1, 1, 1, 1)": 43,
+            "(2, 1, 1, 1)": 2,
+            "(1, 1, 1, 1, 1)": 41,
             "(10, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 2)": 4,
             "(7, 1, 1, 1, 1)": 2,
-            "(2, 1, 1, 1, 1)": 3,
             "(1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1, 2, 1)": 2,
             "(1, 1, 2, 1, 1)": 2,
             "(1, 2, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 1)": 35,
+            "(2, 1, 1, 1, 1)": 2,
+            "(1, 1, 1, 1, 1, 1)": 33,
             "(1, 1, 1, 1, 1, 2)": 4,
             "(7, 1, 1, 1, 1, 1)": 2,
-            "(2, 1, 1, 1, 1, 1)": 3,
             "(1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 2, 1, 1, 1)": 2,
             "(1, 2, 1, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 1, 1)": 26,
+            "(2, 1, 1, 1, 1, 1)": 2,
+            "(1, 1, 1, 1, 1, 1, 1)": 24,
             "(1, 1, 1, 1, 1, 1, 2)": 3,
             "(7, 1, 1, 1, 1, 1, 1)": 2,
-            "(2, 1, 1, 1, 1, 1, 1)": 3,
             "(1, 1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 2, 1, 1, 1, 1)": 2,
             "(1, 2, 1, 1, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1)": 21,
+            "(2, 1, 1, 1, 1, 1, 1)": 2,
+            "(1, 1, 1, 1, 1, 1, 1, 1)": 19,
             "(1, 1, 1, 1, 1, 1, 1, 2)": 3,
-            "(2, 1, 1, 1, 1, 1, 1, 1)": 3,
             "(1, 1, 1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 2, 1, 1, 1, 1, 1)": 2,
             "(1, 2, 1, 1, 1, 1, 1, 1)": 2,
+            "(2, 1, 1, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 2)": 2,
-            "(2, 1, 1, 1, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1)": 13,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 2, 1, 1)": 2,
-            "(2, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 11,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 2, 1, 1)": 2,
-            "(2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 9,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2,
-            "(2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 7,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2,
-            "(2, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 5,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2
+            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 2,
+            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1000, 1)": 2
         }
     },
     {
@@ -36088,12 +36187,15 @@
             13,
             23,
             1,
+            70,
+            70,
             1,
             4,
             5,
             2,
             2,
             7,
+            70,
             1,
             1,
             1,
@@ -36157,8 +36259,7 @@
             1,
             1,
             4,
-            1,
-            20,
+            21,
             11,
             9,
             10,
@@ -36188,48 +36289,46 @@
             60,
             7,
             3000,
-            3,
-            20,
-            18,
-            830,
-            2,
             23,
-            700,
-            5,
+            18,
+            832,
+            23,
+            745,
             4600,
             37,
             12,
-            5,
-            20
+            25
         ],
         "number_counts": {
             "13": 2,
             "11": 4,
-            "5": 7,
-            "2": 16,
-            "1": 69,
+            "5": 5,
+            "2": 15,
+            "1": 68,
             "4": 13,
             "7": 6,
-            "23": 2,
+            "23": 3,
+            "70": 3,
             "10": 9,
             "18": 3,
             "17": 1,
             "6": 2,
             "9": 6,
-            "3": 5,
+            "3": 4,
             "30": 1,
             "80": 1,
             "8": 1,
-            "20": 3,
+            "21": 1,
             "19": 1,
             "12": 3,
             "100": 1,
             "60": 1,
             "3000": 1,
-            "830": 1,
-            "700": 1,
+            "832": 1,
+            "745": 1,
             "4600": 1,
-            "37": 1
+            "37": 1,
+            "25": 1
         },
         "verses_with_numbers": [
             {
@@ -36612,6 +36711,24 @@
             {
                 "book": "JEREMIAH",
                 "chapter": "25",
+                "verse": 11,
+                "text": "And this whole land shall be a desolation, an astonishment; and these nations shall serve the king of Babylon <strong>SEVENTY YEARS (70)</strong> .",
+                "numeric_numbers": [
+                    "70"
+                ]
+            },
+            {
+                "book": "JEREMIAH",
+                "chapter": "25",
+                "verse": 12,
+                "text": "# And it shall come to pass, when <strong>SEVENTY YEARS (70)</strong>  are accomplished, I will punish the king of Babylon, and that nation, saith the LORD, for their iniquity, and the land of the Chaldeans, and will make it perpetual desolations.",
+                "numeric_numbers": [
+                    "70"
+                ]
+            },
+            {
+                "book": "JEREMIAH",
+                "chapter": "25",
                 "verse": 26,
                 "text": "And all the kings of the north, far and near, <strong>ONE (1)</strong>  with another, and all the kingdoms of the world, which upon the face of the earth: and the king of Sheshach shall drink after them.",
                 "numeric_numbers": [
@@ -36653,6 +36770,15 @@
                 "text": "So Hananiah the prophet died the same year in the <strong>SEVENTH MONTH (7)</strong> .",
                 "numeric_numbers": [
                     "7"
+                ]
+            },
+            {
+                "book": "JEREMIAH",
+                "chapter": "29",
+                "verse": 10,
+                "text": "# For thus saith the LORD, That after <strong>SEVENTY YEARS (70)</strong>  be accomplished at Babylon I will visit you, and perform my good word toward you, in causing you to return to this place.",
+                "numeric_numbers": [
+                    "70"
                 ]
             },
             {
@@ -37122,10 +37248,9 @@
                 "book": "JEREMIAH",
                 "chapter": "52",
                 "verse": 1,
-                "text": "Zedekiah <strong>ONE (1)</strong>  and <strong>TWENTY (20)</strong>  years old when he began to reign, and he reigned <strong>ELEVEN (11)</strong>  years in Jerusalem. And his mother's name Hamutal the daughter of Jeremiah of Libnah.",
+                "text": "Zedekiah <strong>ONE AND TWENTY (21)</strong>  years old when he began to reign, and he reigned <strong>ELEVEN (11)</strong>  years in Jerusalem. And his mother's name Hamutal the daughter of Jeremiah of Libnah.",
                 "numeric_numbers": [
-                    "1",
-                    "20",
+                    "21",
                     "11"
                 ]
             },
@@ -37247,34 +37372,31 @@
                 "book": "JEREMIAH",
                 "chapter": "52",
                 "verse": 28,
-                "text": "This the people whom Nebuchadrezzar carried away captive: in the <strong>SEVENTH (7)</strong>  year <strong>THREE THOUSAND (3000)</strong>  Jews and <strong>THREE (3)</strong>  and <strong>TWENTY (20)</strong> :",
+                "text": "This the people whom Nebuchadrezzar carried away captive: in the <strong>SEVENTH (7)</strong>  year <strong>THREE THOUSAND (3000)</strong>  Jews and <strong>THREE AND TWENTY (23)</strong> :",
                 "numeric_numbers": [
                     "7",
                     "3000",
-                    "3",
-                    "20"
+                    "23"
                 ]
             },
             {
                 "book": "JEREMIAH",
                 "chapter": "52",
                 "verse": 29,
-                "text": "In the <strong>EIGHTEENTH (18)</strong>  year of Nebuchadrezzar he carried away captive from Jerusalem <strong>EIGHT HUNDRED THIRTY (830)</strong>  and <strong>TWO (2)</strong>  persons:",
+                "text": "In the <strong>EIGHTEENTH (18)</strong>  year of Nebuchadrezzar he carried away captive from Jerusalem <strong>EIGHT HUNDRED THIRTY AND TWO (832)</strong>  persons:",
                 "numeric_numbers": [
                     "18",
-                    "830",
-                    "2"
+                    "832"
                 ]
             },
             {
                 "book": "JEREMIAH",
                 "chapter": "52",
                 "verse": 30,
-                "text": "In the <strong>THREE AND TWENTIETH (23)</strong>  year of Nebuchadrezzar Nebuzar-adan the captain of the guard carried away captive of the Jews <strong>SEVEN HUNDRED (700)</strong>  forty and <strong>FIVE (5)</strong>  persons: all the persons <strong>FOUR THOUSAND AND SIX HUNDRED (4600)</strong> .",
+                "text": "In the <strong>THREE AND TWENTIETH (23)</strong>  year of Nebuchadrezzar Nebuzar-adan the captain of the guard carried away captive of the Jews <strong>SEVEN HUNDRED FORTY AND FIVE (745)</strong>  persons: all the persons <strong>FOUR THOUSAND AND SIX HUNDRED (4600)</strong> .",
                 "numeric_numbers": [
                     "23",
-                    "700",
-                    "5",
+                    "745",
                     "4600"
                 ]
             },
@@ -37282,12 +37404,11 @@
                 "book": "JEREMIAH",
                 "chapter": "52",
                 "verse": 31,
-                "text": "# And it came to pass in the <strong>SEVEN AND THIRTIETH (37)</strong>  year of the captivity of Jehoiachin king of Judah, in the <strong>TWELFTH MONTH (12)</strong> , in the <strong>FIVE (5)</strong>  and <strong>TWENTIETH (20)</strong>  of the month, Evil-merodach king of Babylon in the year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,",
+                "text": "# And it came to pass in the <strong>SEVEN AND THIRTIETH (37)</strong>  year of the captivity of Jehoiachin king of Judah, in the <strong>TWELFTH MONTH (12)</strong> , in the <strong>FIVE AND TWENTIETH (25)</strong>  of the month, Evil-merodach king of Babylon in the year of his reign lifted up the head of Jehoiachin king of Judah, and brought him forth out of prison,",
                 "numeric_numbers": [
                     "37",
                     "12",
-                    "5",
-                    "20"
+                    "25"
                 ]
             }
         ],
@@ -37295,10 +37416,10 @@
             "(5, 2)": 3,
             "(2, 1)": 8,
             "(1, 2)": 6,
-            "(1, 1)": 45,
+            "(1, 1)": 44,
             "(1, 4)": 6,
-            "(7, 1)": 2,
-            "(4, 1)": 7,
+            "(4, 1)": 6,
+            "(70, 1)": 2,
             "(2, 7)": 2,
             "(1, 5)": 2,
             "(9, 10)": 2,
@@ -37312,9 +37433,8 @@
             "(2, 1, 1)": 4,
             "(1, 1, 1)": 33,
             "(1, 1, 2)": 4,
-            "(7, 1, 1)": 2,
-            "(1, 1, 4)": 4,
-            "(1, 4, 1)": 3,
+            "(1, 1, 4)": 3,
+            "(1, 4, 1)": 2,
             "(4, 1, 5)": 2,
             "(4, 1, 1)": 2,
             "(10, 11, 4)": 2,
@@ -37325,8 +37445,7 @@
             "(1, 1, 1, 1)": 27,
             "(1, 1, 1, 2)": 3,
             "(1, 1, 2, 1)": 4,
-            "(7, 1, 1, 1)": 2,
-            "(1, 1, 4, 1)": 3,
+            "(1, 1, 4, 1)": 2,
             "(10, 11, 4, 9)": 2,
             "(11, 4, 9, 2)": 2,
             "(1, 1, 1, 1, 1)": 23,
@@ -37537,8 +37656,7 @@
             7,
             7,
             7,
-            5,
-            20,
+            25,
             10,
             14,
             6,
@@ -37683,21 +37801,17 @@
             7,
             1,
             1,
-            25,
-            1000,
+            25000,
             10000,
             500,
             500,
-            25,
-            1000,
+            25000,
             10000,
-            25,
-            1000,
+            25000,
             10000,
             20,
             5000,
-            25,
-            1000,
+            25000,
             1,
             1,
             1,
@@ -37751,70 +37865,51 @@
             12,
             1,
             1,
-            25,
-            1000,
+            25000,
             1,
-            25,
-            1000,
+            25000,
             10000,
-            25,
-            1000,
+            25000,
             10000,
             10000,
-            25,
-            1000,
-            25,
-            1000,
+            25000,
+            25000,
             10000,
-            25,
-            1000,
+            25000,
             10000,
             5000,
-            25,
-            1000,
-            4000,
-            500,
-            4000,
-            500,
-            4000,
-            500,
-            4000,
-            500,
+            25000,
+            4500,
+            4500,
+            4500,
+            4500,
             250,
             250,
             250,
             250,
             10000,
             10000,
-            25,
-            1000,
-            25,
-            1000,
+            25000,
+            25000,
             1,
-            25,
-            1000,
-            25,
-            1000,
-            4000,
-            500,
+            25000,
+            25000,
+            4500,
             3,
             1,
             1,
             1,
-            4000,
-            500,
+            4500,
             3,
             1,
             1,
             1,
-            4000,
-            500,
+            4500,
             3,
             1,
             1,
             1,
-            4000,
-            500,
+            4500,
             3,
             1,
             1,
@@ -37824,16 +37919,16 @@
         "number_counts": {
             "30": 4,
             "4": 41,
-            "5": 16,
+            "5": 15,
             "1": 130,
             "2": 28,
             "7": 21,
             "300": 2,
             "40": 1,
-            "20": 11,
+            "20": 10,
             "6": 19,
             "3": 29,
-            "25": 25,
+            "25": 11,
             "10": 15,
             "9": 1,
             "11": 4,
@@ -37845,12 +37940,13 @@
             "13": 1,
             "60": 1,
             "100": 11,
-            "500": 16,
-            "1000": 19,
+            "500": 8,
+            "25000": 15,
             "10000": 10,
             "5000": 2,
             "200": 1,
-            "4000": 8,
+            "1000": 4,
+            "4500": 8,
             "250": 4,
             "18000": 1
         },
@@ -38763,10 +38859,9 @@
                 "book": "EZEKIEL",
                 "chapter": "40",
                 "verse": 1,
-                "text": "In the <strong>FIVE (5)</strong>  and <strong>TWENTIETH (20)</strong>  year of our captivity, in the beginning of the year, in the <strong>TENTH (10)</strong>  of the month, in the <strong>FOURTEENTH (14)</strong>  year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.",
+                "text": "In the <strong>FIVE AND TWENTIETH (25)</strong>  year of our captivity, in the beginning of the year, in the <strong>TENTH (10)</strong>  of the month, in the <strong>FOURTEENTH (14)</strong>  year after that the city was smitten, in the selfsame day the hand of the LORD was upon me, and brought me thither.",
                 "numeric_numbers": [
-                    "5",
-                    "20",
+                    "25",
                     "10",
                     "14"
                 ]
@@ -39533,10 +39628,9 @@
                 "book": "EZEKIEL",
                 "chapter": "45",
                 "verse": 1,
-                "text": "Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length the length of <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  , and the breadth <strong>TEN THOUSAND (10000)</strong> . This holy in all the borders thereof round about.",
+                "text": "Moreover, when ye shall divide by lot the land for inheritance, ye shall offer an oblation unto the LORD, an holy portion of the land: the length the length of <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  , and the breadth <strong>TEN THOUSAND (10000)</strong> . This holy in all the borders thereof round about.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "10000"
                 ]
             },
@@ -39554,10 +39648,9 @@
                 "book": "EZEKIEL",
                 "chapter": "45",
                 "verse": 3,
-                "text": "And of this measure shalt thou measure the length of <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong> , and the breadth of <strong>TEN THOUSAND (10000)</strong> : and in it shall be the sanctuary the most holy .",
+                "text": "And of this measure shalt thou measure the length of <strong>FIVE AND TWENTY THOUSAND (25000)</strong> , and the breadth of <strong>TEN THOUSAND (10000)</strong> : and in it shall be the sanctuary the most holy .",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "10000"
                 ]
             },
@@ -39565,10 +39658,9 @@
                 "book": "EZEKIEL",
                 "chapter": "45",
                 "verse": 5,
-                "text": "And the <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  of length, and the <strong>TEN THOUSAND (10000)</strong>  of breadth, shall also the Levites, the ministers of the house, have for themselves, for a possession for <strong>TWENTY (20)</strong>  chambers.",
+                "text": "And the <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  of length, and the <strong>TEN THOUSAND (10000)</strong>  of breadth, shall also the Levites, the ministers of the house, have for themselves, for a possession for <strong>TWENTY (20)</strong>  chambers.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "10000",
                     "20"
                 ]
@@ -39577,11 +39669,10 @@
                 "book": "EZEKIEL",
                 "chapter": "45",
                 "verse": 6,
-                "text": "# And ye shall appoint the possession of the city <strong>FIVE THOUSAND (5000)</strong>  broad, and <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  long, over against the oblation of the holy : it shall be for the whole house of Israel.",
+                "text": "# And ye shall appoint the possession of the city <strong>FIVE THOUSAND (5000)</strong>  broad, and <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  long, over against the oblation of the holy : it shall be for the whole house of Israel.",
                 "numeric_numbers": [
                     "5000",
-                    "25",
-                    "1000"
+                    "25000"
                 ]
             },
             {
@@ -39873,10 +39964,9 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 8,
-                "text": "# And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  breadth, and length as <strong>ONE (1)</strong>  of the parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.",
+                "text": "# And by the border of Judah, from the east side unto the west side, shall be the offering which ye shall offer of <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  breadth, and length as <strong>ONE (1)</strong>  of the parts, from the east side unto the west side: and the sanctuary shall be in the midst of it.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "1"
                 ]
             },
@@ -39884,10 +39974,9 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 9,
-                "text": "The oblation that ye shall offer unto the LORD of <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  in length, and of <strong>TEN THOUSAND (10000)</strong>  in breadth.",
+                "text": "The oblation that ye shall offer unto the LORD of <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  in length, and of <strong>TEN THOUSAND (10000)</strong>  in breadth.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "10000"
                 ]
             },
@@ -39895,27 +39984,23 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 10,
-                "text": "And for them, for the priests, shall be holy oblation; toward the north <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  , and toward the west <strong>TEN THOUSAND (10000)</strong>  in breadth, and toward the east <strong>TEN THOUSAND (10000)</strong>  in breadth, and toward the south <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  in length: and the sanctuary of the LORD shall be in the midst thereof.",
+                "text": "And for them, for the priests, shall be holy oblation; toward the north <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  , and toward the west <strong>TEN THOUSAND (10000)</strong>  in breadth, and toward the east <strong>TEN THOUSAND (10000)</strong>  in breadth, and toward the south <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  in length: and the sanctuary of the LORD shall be in the midst thereof.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "10000",
                     "10000",
-                    "25",
-                    "1000"
+                    "25000"
                 ]
             },
             {
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 13,
-                "text": "And over against the border of the priests the Levites <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  in length, and <strong>TEN THOUSAND (10000)</strong>  in breadth: all the length <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong> , and the breadth <strong>TEN THOUSAND (10000)</strong> .",
+                "text": "And over against the border of the priests the Levites <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  in length, and <strong>TEN THOUSAND (10000)</strong>  in breadth: all the length <strong>FIVE AND TWENTY THOUSAND (25000)</strong> , and the breadth <strong>TEN THOUSAND (10000)</strong> .",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
+                    "25000",
                     "10000",
-                    "25",
-                    "1000",
+                    "25000",
                     "10000"
                 ]
             },
@@ -39923,27 +40008,22 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 15,
-                "text": "# And the <strong>FIVE THOUSAND (5000)</strong> , that are left in the breadth over against the <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong> , shall be a profane for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.",
+                "text": "# And the <strong>FIVE THOUSAND (5000)</strong> , that are left in the breadth over against the <strong>FIVE AND TWENTY THOUSAND (25000)</strong> , shall be a profane for the city, for dwelling, and for suburbs: and the city shall be in the midst thereof.",
                 "numeric_numbers": [
                     "5000",
-                    "25",
-                    "1000"
+                    "25000"
                 ]
             },
             {
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 16,
-                "text": "And these the measures thereof; the north side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong> , and the south side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong> , and on the east side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong> , and the west side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong> .",
+                "text": "And these the measures thereof; the north side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong> , and the south side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong> , and on the east side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong> , and the west side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong> .",
                 "numeric_numbers": [
-                    "4000",
-                    "500",
-                    "4000",
-                    "500",
-                    "4000",
-                    "500",
-                    "4000",
-                    "500"
+                    "4500",
+                    "4500",
+                    "4500",
+                    "4500"
                 ]
             },
             {
@@ -39972,35 +40052,30 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 20,
-                "text": "All the oblation <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  by <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong> : ye shall offer the holy oblation foursquare, with the possession of the city.",
+                "text": "All the oblation <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  by <strong>FIVE AND TWENTY THOUSAND (25000)</strong> : ye shall offer the holy oblation foursquare, with the possession of the city.",
                 "numeric_numbers": [
-                    "25",
-                    "1000",
-                    "25",
-                    "1000"
+                    "25000",
+                    "25000"
                 ]
             },
             {
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 21,
-                "text": "# And the residue for the prince, on the <strong>ONE (1)</strong>  side and on the other of the holy oblation, and of the possession of the city, over against the <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  of the oblation toward the east border, and westward over against the <strong>FIVE AND TWENTY (25)</strong>  <strong>THOUSAND (1000)</strong>  toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house in the midst thereof.",
+                "text": "# And the residue for the prince, on the <strong>ONE (1)</strong>  side and on the other of the holy oblation, and of the possession of the city, over against the <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  of the oblation toward the east border, and westward over against the <strong>FIVE AND TWENTY THOUSAND (25000)</strong>  toward the west border, over against the portions for the prince: and it shall be the holy oblation; and the sanctuary of the house in the midst thereof.",
                 "numeric_numbers": [
                     "1",
-                    "25",
-                    "1000",
-                    "25",
-                    "1000"
+                    "25000",
+                    "25000"
                 ]
             },
             {
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 30,
-                "text": "# And these the goings out of the city on the north side, <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong>  measures.",
+                "text": "# And these the goings out of the city on the north side, <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong>  measures.",
                 "numeric_numbers": [
-                    "4000",
-                    "500"
+                    "4500"
                 ]
             },
             {
@@ -40019,10 +40094,9 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 32,
-                "text": "And at the east side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong> : and <strong>THREE (3)</strong>  gates; and <strong>ONE (1)</strong>  gate of Joseph, <strong>ONE (1)</strong>  gate of Benjamin, <strong>ONE (1)</strong>  gate of Dan.",
+                "text": "And at the east side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong> : and <strong>THREE (3)</strong>  gates; and <strong>ONE (1)</strong>  gate of Joseph, <strong>ONE (1)</strong>  gate of Benjamin, <strong>ONE (1)</strong>  gate of Dan.",
                 "numeric_numbers": [
-                    "4000",
-                    "500",
+                    "4500",
                     "3",
                     "1",
                     "1",
@@ -40033,10 +40107,9 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 33,
-                "text": "And at the south side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong>  measures: and <strong>THREE (3)</strong>  gates; <strong>ONE (1)</strong>  gate of Simeon, <strong>ONE (1)</strong>  gate of Issachar, <strong>ONE (1)</strong>  gate of Zebulun.",
+                "text": "And at the south side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong>  measures: and <strong>THREE (3)</strong>  gates; <strong>ONE (1)</strong>  gate of Simeon, <strong>ONE (1)</strong>  gate of Issachar, <strong>ONE (1)</strong>  gate of Zebulun.",
                 "numeric_numbers": [
-                    "4000",
-                    "500",
+                    "4500",
                     "3",
                     "1",
                     "1",
@@ -40047,10 +40120,9 @@
                 "book": "EZEKIEL",
                 "chapter": "48",
                 "verse": 34,
-                "text": "At the west side <strong>FOUR THOUSAND (4000)</strong>  and <strong>FIVE HUNDRED (500)</strong> , their <strong>THREE (3)</strong>  gates; <strong>ONE (1)</strong>  gate of Gad, <strong>ONE (1)</strong>  gate of Asher, <strong>ONE (1)</strong>  gate of Naphtali.",
+                "text": "At the west side <strong>FOUR THOUSAND AND FIVE HUNDRED (4500)</strong> , their <strong>THREE (3)</strong>  gates; <strong>ONE (1)</strong>  gate of Gad, <strong>ONE (1)</strong>  gate of Asher, <strong>ONE (1)</strong>  gate of Naphtali.",
                 "numeric_numbers": [
-                    "4000",
-                    "500",
+                    "4500",
                     "3",
                     "1",
                     "1",
@@ -40088,8 +40160,7 @@
             "(6, 6)": 5,
             "(6, 5)": 2,
             "(2, 3)": 2,
-            "(1, 25)": 6,
-            "(7, 5)": 2,
+            "(1, 25)": 2,
             "(10, 1)": 4,
             "(3, 1)": 10,
             "(10, 10)": 5,
@@ -40103,7 +40174,6 @@
             "(5, 1)": 3,
             "(2, 2)": 8,
             "(2, 4)": 3,
-            "(5, 20)": 3,
             "(1, 5)": 3,
             "(8, 2)": 2,
             "(100, 3)": 2,
@@ -40115,24 +40185,24 @@
             "(25, 8)": 2,
             "(100, 100)": 3,
             "(6, 10)": 2,
+            "(5, 20)": 2,
             "(20, 20)": 2,
             "(100, 1)": 2,
             "(3, 2)": 2,
             "(500, 500)": 4,
-            "(25, 1000)": 15,
-            "(1000, 10000)": 7,
-            "(10000, 25)": 5,
-            "(5000, 25)": 2,
-            "(1000, 1)": 4,
+            "(1, 25000)": 4,
+            "(25000, 10000)": 7,
+            "(10000, 25000)": 5,
+            "(5000, 25000)": 2,
+            "(25000, 1)": 3,
             "(1000, 1000)": 2,
             "(10000, 10000)": 2,
-            "(1000, 25)": 3,
-            "(1000, 4000)": 2,
-            "(4000, 500)": 8,
-            "(500, 4000)": 3,
+            "(25000, 25000)": 3,
+            "(25000, 4500)": 2,
+            "(4500, 4500)": 2,
             "(250, 250)": 2,
-            "(500, 3)": 4,
-            "(1, 4000)": 3,
+            "(4500, 3)": 4,
+            "(1, 4500)": 3,
             "(4, 1, 4)": 7,
             "(1, 4, 1)": 6,
             "(1, 4, 4)": 6,
@@ -40171,25 +40241,16 @@
             "(2, 4, 4)": 2,
             "(6, 1, 6)": 2,
             "(7, 1, 1)": 2,
-            "(1, 1, 25)": 2,
-            "(1, 25, 1000)": 4,
-            "(25, 1000, 10000)": 7,
-            "(1000, 10000, 25)": 3,
-            "(10000, 25, 1000)": 5,
-            "(5000, 25, 1000)": 2,
-            "(25, 1000, 1)": 3,
-            "(1000, 1, 25)": 2,
-            "(10000, 10000, 25)": 2,
-            "(25, 1000, 25)": 3,
-            "(1000, 25, 1000)": 3,
-            "(25, 1000, 4000)": 2,
-            "(1000, 4000, 500)": 2,
-            "(4000, 500, 4000)": 2,
-            "(500, 4000, 500)": 2,
-            "(4000, 500, 3)": 4,
-            "(500, 3, 1)": 4,
-            "(1, 1, 4000)": 3,
-            "(1, 4000, 500)": 3,
+            "(1, 1, 25000)": 2,
+            "(1, 25000, 10000)": 2,
+            "(25000, 10000, 25000)": 3,
+            "(10000, 25000, 10000)": 3,
+            "(25000, 1, 25000)": 2,
+            "(10000, 10000, 25000)": 2,
+            "(10000, 25000, 25000)": 2,
+            "(4500, 3, 1)": 4,
+            "(1, 1, 4500)": 3,
+            "(1, 4500, 3)": 3,
             "(4, 1, 4, 1)": 4,
             "(1, 4, 1, 4)": 3,
             "(4, 1, 4, 4)": 3,
@@ -40214,24 +40275,13 @@
             "(1, 1, 2, 2)": 2,
             "(1, 2, 2, 4)": 2,
             "(2, 2, 1, 2)": 2,
-            "(1, 1, 25, 1000)": 2,
-            "(1, 25, 1000, 10000)": 2,
-            "(25, 1000, 10000, 25)": 3,
-            "(1000, 10000, 25, 1000)": 3,
-            "(10000, 25, 1000, 10000)": 3,
-            "(25, 1000, 1, 25)": 2,
-            "(1000, 1, 25, 1000)": 2,
-            "(10000, 10000, 25, 1000)": 2,
-            "(10000, 25, 1000, 25)": 2,
-            "(25, 1000, 25, 1000)": 3,
-            "(25, 1000, 4000, 500)": 2,
-            "(4000, 500, 4000, 500)": 2,
-            "(4000, 500, 3, 1)": 4,
-            "(500, 3, 1, 1)": 4,
+            "(25000, 10000, 25000, 10000)": 3,
+            "(10000, 10000, 25000, 25000)": 2,
+            "(4500, 3, 1, 1)": 4,
             "(3, 1, 1, 1)": 4,
-            "(1, 1, 1, 4000)": 3,
-            "(1, 1, 4000, 500)": 3,
-            "(1, 4000, 500, 3)": 3,
+            "(1, 1, 1, 4500)": 3,
+            "(1, 1, 4500, 3)": 3,
+            "(1, 4500, 3, 1)": 3,
             "(4, 1, 4, 1, 4)": 2,
             "(1, 4, 1, 4, 4)": 2,
             "(2, 1, 1, 2, 1)": 2,
@@ -40245,60 +40295,40 @@
             "(1, 1, 1, 1, 1)": 10,
             "(1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 2, 2)": 2,
-            "(25, 1000, 10000, 25, 1000)": 3,
-            "(1000, 10000, 25, 1000, 10000)": 3,
-            "(25, 1000, 1, 25, 1000)": 2,
-            "(10000, 10000, 25, 1000, 25)": 2,
-            "(10000, 25, 1000, 25, 1000)": 2,
-            "(4000, 500, 3, 1, 1)": 4,
-            "(500, 3, 1, 1, 1)": 4,
-            "(3, 1, 1, 1, 4000)": 3,
-            "(1, 1, 1, 4000, 500)": 3,
-            "(1, 1, 4000, 500, 3)": 3,
-            "(1, 4000, 500, 3, 1)": 3,
+            "(4500, 3, 1, 1, 1)": 4,
+            "(3, 1, 1, 1, 4500)": 3,
+            "(1, 1, 1, 4500, 3)": 3,
+            "(1, 1, 4500, 3, 1)": 3,
+            "(1, 4500, 3, 1, 1)": 3,
             "(2, 1, 1, 2, 1, 1)": 2,
             "(1, 2, 1, 2, 1, 1)": 2,
             "(4, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1)": 7,
             "(1, 1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 1, 2, 2)": 2,
-            "(25, 1000, 10000, 25, 1000, 10000)": 3,
-            "(10000, 10000, 25, 1000, 25, 1000)": 2,
-            "(4000, 500, 3, 1, 1, 1)": 4,
-            "(500, 3, 1, 1, 1, 4000)": 3,
-            "(3, 1, 1, 1, 4000, 500)": 3,
-            "(1, 1, 1, 4000, 500, 3)": 3,
-            "(1, 1, 4000, 500, 3, 1)": 3,
-            "(1, 4000, 500, 3, 1, 1)": 3,
+            "(4500, 3, 1, 1, 1, 4500)": 2,
+            "(3, 1, 1, 1, 4500, 3)": 2,
+            "(1, 1, 1, 4500, 3, 1)": 2,
+            "(1, 1, 4500, 3, 1, 1)": 2,
+            "(1, 4500, 3, 1, 1, 1)": 2,
             "(4, 1, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1)": 4,
             "(1, 1, 1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 1, 1, 2, 2)": 2,
-            "(4000, 500, 3, 1, 1, 1, 4000)": 2,
-            "(500, 3, 1, 1, 1, 4000, 500)": 2,
-            "(3, 1, 1, 1, 4000, 500, 3)": 2,
-            "(1, 1, 1, 4000, 500, 3, 1)": 2,
-            "(1, 1, 4000, 500, 3, 1, 1)": 2,
-            "(1, 4000, 500, 3, 1, 1, 1)": 2,
+            "(4500, 3, 1, 1, 1, 4500, 3)": 2,
+            "(3, 1, 1, 1, 4500, 3, 1)": 2,
+            "(1, 1, 1, 4500, 3, 1, 1)": 2,
+            "(1, 1, 4500, 3, 1, 1, 1)": 2,
             "(4, 1, 1, 1, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 1, 1, 1, 2, 2)": 2,
-            "(4000, 500, 3, 1, 1, 1, 4000, 500)": 2,
-            "(500, 3, 1, 1, 1, 4000, 500, 3)": 2,
-            "(3, 1, 1, 1, 4000, 500, 3, 1)": 2,
-            "(1, 1, 1, 4000, 500, 3, 1, 1)": 2,
-            "(1, 1, 4000, 500, 3, 1, 1, 1)": 2,
+            "(4500, 3, 1, 1, 1, 4500, 3, 1)": 2,
+            "(3, 1, 1, 1, 4500, 3, 1, 1)": 2,
+            "(1, 1, 1, 4500, 3, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 2, 2)": 2,
-            "(4000, 500, 3, 1, 1, 1, 4000, 500, 3)": 2,
-            "(500, 3, 1, 1, 1, 4000, 500, 3, 1)": 2,
-            "(3, 1, 1, 1, 4000, 500, 3, 1, 1)": 2,
-            "(1, 1, 1, 4000, 500, 3, 1, 1, 1)": 2,
-            "(4000, 500, 3, 1, 1, 1, 4000, 500, 3, 1)": 2,
-            "(500, 3, 1, 1, 1, 4000, 500, 3, 1, 1)": 2,
-            "(3, 1, 1, 1, 4000, 500, 3, 1, 1, 1)": 2,
-            "(4000, 500, 3, 1, 1, 1, 4000, 500, 3, 1, 1)": 2,
-            "(500, 3, 1, 1, 1, 4000, 500, 3, 1, 1, 1)": 2,
-            "(4000, 500, 3, 1, 1, 1, 4000, 500, 3, 1, 1, 1)": 2
+            "(4500, 3, 1, 1, 1, 4500, 3, 1, 1)": 2,
+            "(3, 1, 1, 1, 4500, 3, 1, 1, 1)": 2,
+            "(4500, 3, 1, 1, 1, 4500, 3, 1, 1, 1)": 2
         }
     },
     {
@@ -40389,6 +40419,7 @@
             4,
             1,
             1,
+            70,
             7,
             62,
             62,
@@ -40399,8 +40430,7 @@
             24,
             1,
             1,
-            1,
-            20,
+            21,
             1,
             1,
             3,
@@ -40418,7 +40448,7 @@
             "3": 20,
             "10": 9,
             "4": 20,
-            "1": 32,
+            "1": 31,
             "2": 4,
             "60": 1,
             "6": 1,
@@ -40431,8 +40461,9 @@
             "1000000": 1,
             "100000000": 1,
             "2300": 1,
+            "70": 1,
             "24": 1,
-            "20": 1,
+            "21": 1,
             "1290": 1,
             "1335": 1
         },
@@ -41021,16 +41052,17 @@
                 "book": "DANIEL",
                 "chapter": "9",
                 "verse": 2,
-                "text": "In the <strong>FIRST (1)</strong>  year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish seventy years in the desolations of Jerusalem.",
+                "text": "In the <strong>FIRST (1)</strong>  year of his reign I Daniel understood by books the number of the years, whereof the word of the LORD came to Jeremiah the prophet, that he would accomplish <strong>SEVENTY YEARS (70)</strong>  in the desolations of Jerusalem.",
                 "numeric_numbers": [
-                    "1"
+                    "1",
+                    "70"
                 ]
             },
             {
                 "book": "DANIEL",
                 "chapter": "9",
                 "verse": 25,
-                "text": "Know therefore and understand, from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince <strong>SEVEN (7)</strong>  weeks, and <strong>THREESCORE AND TWO (62)</strong>  weeks: the street shall be built again, and the wall, even in troublous times.",
+                "text": "Know therefore and understand, from the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince <strong>SEVEN WEEKS (7)</strong> , and <strong>THREESCORE AND TWO (62)</strong>  weeks: the street shall be built again, and the wall, even in troublous times.",
                 "numeric_numbers": [
                     "7",
                     "62"
@@ -41104,10 +41136,9 @@
                 "book": "DANIEL",
                 "chapter": "10",
                 "verse": 13,
-                "text": "But the prince of the kingdom of Persia withstood me <strong>ONE (1)</strong>  and <strong>TWENTY DAYS (20)</strong> : but, lo, Michael, <strong>ONE (1)</strong>  of the chief princes, came to help me; and I remained there with the kings of Persia.",
+                "text": "But the prince of the kingdom of Persia withstood me <strong>ONE AND TWENTY DAYS (21)</strong> : but, lo, Michael, <strong>ONE (1)</strong>  of the chief princes, came to help me; and I remained there with the kings of Persia.",
                 "numeric_numbers": [
-                    "1",
-                    "20",
+                    "21",
                     "1"
                 ]
             },
@@ -41205,9 +41236,9 @@
             "(1, 3)": 6,
             "(3, 4)": 5,
             "(4, 1)": 5,
-            "(1, 7)": 4,
+            "(1, 7)": 3,
             "(4, 4)": 10,
-            "(1, 1)": 9,
+            "(1, 1)": 8,
             "(3, 1)": 4,
             "(30, 3)": 2,
             "(1, 4)": 3,
@@ -41218,7 +41249,6 @@
             "(1, 3, 4)": 3,
             "(3, 4, 4)": 4,
             "(4, 4, 1)": 4,
-            "(1, 1, 7)": 2,
             "(1, 3, 3)": 3,
             "(3, 3, 3)": 2,
             "(1, 4, 4)": 3,
@@ -42113,6 +42143,7 @@
             5,
             5,
             7,
+            70,
             1,
             4,
             5,
@@ -42149,7 +42180,7 @@
             "2": 12,
             "24": 1,
             "11": 1,
-            "70": 1,
+            "70": 2,
             "4": 9,
             "1": 24,
             "7": 7,
@@ -42379,10 +42410,11 @@
                 "book": "ZECHARIAH",
                 "chapter": "7",
                 "verse": 5,
-                "text": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the <strong>FIFTH (5)</strong>  and <strong>SEVENTH (7)</strong>  , even those seventy years, did ye at all fast unto me, to me?",
+                "text": "Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the <strong>FIFTH (5)</strong>  and <strong>SEVENTH (7)</strong>  , even those <strong>SEVENTY YEARS (70)</strong> , did ye at all fast unto me, to me?",
                 "numeric_numbers": [
                     "5",
-                    "7"
+                    "7",
+                    "70"
                 ]
             },
             {
@@ -42595,7 +42627,6 @@
         "repeating_patterns": {
             "(4, 4)": 4,
             "(1, 7)": 3,
-            "(7, 1)": 2,
             "(7, 2)": 2,
             "(2, 1)": 3,
             "(2, 2)": 2,
@@ -42769,8 +42800,8 @@
             1,
             100,
             1,
-            9,
-            9,
+            99,
+            99,
             1,
             1,
             2,
@@ -42922,8 +42953,9 @@
             "4000": 2,
             "6": 3,
             "100": 2,
-            "9": 5,
+            "99": 2,
             "10000": 1,
+            "9": 3,
             "11": 3,
             "10": 3
         },
@@ -43567,20 +43599,20 @@
                 "book": "MATTHEW",
                 "chapter": "18",
                 "verse": 12,
-                "text": "How think ye? if a man have an <strong>HUNDRED (100)</strong>  sheep, and <strong>ONE (1)</strong>  of them be gone astray, doth he not leave the ninety and <strong>NINE (9)</strong> , and goeth into the mountains, and seeketh that which is gone astray?",
+                "text": "How think ye? if a man have an <strong>HUNDRED (100)</strong>  sheep, and <strong>ONE (1)</strong>  of them be gone astray, doth he not leave the <strong>NINETY AND NINE (99)</strong> , and goeth into the mountains, and seeketh that which is gone astray?",
                 "numeric_numbers": [
                     "100",
                     "1",
-                    "9"
+                    "99"
                 ]
             },
             {
                 "book": "MATTHEW",
                 "chapter": "18",
                 "verse": 13,
-                "text": "And if so be that he find it, verily I say unto you, he rejoiceth more of that , than of the ninety and <strong>NINE (9)</strong>  which went not astray.",
+                "text": "And if so be that he find it, verily I say unto you, he rejoiceth more of that , than of the <strong>NINETY AND NINE (99)</strong>  which went not astray.",
                 "numeric_numbers": [
-                    "9"
+                    "99"
                 ]
             },
             {
@@ -43740,7 +43772,7 @@
                 "book": "MATTHEW",
                 "chapter": "20",
                 "verse": 3,
-                "text": "And he went out about the <strong>THIRD (3)</strong>  hour, and saw others standing idle in the marketplace,",
+                "text": "And he went out about the <strong>THIRD HOUR (3)</strong> , and saw others standing idle in the marketplace,",
                 "numeric_numbers": [
                     "3"
                 ]
@@ -44517,8 +44549,6 @@
             "(3, 6)": 3,
             "(1, 100)": 2,
             "(100, 1)": 2,
-            "(9, 9)": 2,
-            "(9, 1)": 2,
             "(2, 3)": 5,
             "(3, 2)": 2,
             "(6, 9)": 2,
@@ -44546,7 +44576,6 @@
             "(1, 2, 2)": 3,
             "(2, 1, 2)": 5,
             "(1, 100, 1)": 2,
-            "(9, 9, 1)": 2,
             "(2, 2, 3)": 2,
             "(2, 3, 7)": 2,
             "(7, 7, 1)": 2,
@@ -44736,6 +44765,7 @@
             1,
             1,
             12,
+            2,
             1,
             3,
             1,
@@ -44743,6 +44773,7 @@
             1,
             3,
             1,
+            2,
             2,
             1,
             1,
@@ -44770,7 +44801,7 @@
             "60": 2,
             "100": 2,
             "2000": 1,
-            "2": 19,
+            "2": 21,
             "200": 1,
             "5": 3,
             "5000": 2,
@@ -45651,6 +45682,15 @@
             {
                 "book": "MARK",
                 "chapter": "14",
+                "verse": 30,
+                "text": "And Jesus saith unto him, Verily I say unto thee, That this day, in this night, before the cock crow <strong>TWICE (2)</strong> , thou shalt deny me thrice.",
+                "numeric_numbers": [
+                    "2"
+                ]
+            },
+            {
+                "book": "MARK",
+                "chapter": "14",
                 "verse": 37,
                 "text": "And he cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest not thou watch <strong>ONE (1)</strong>  hour?",
                 "numeric_numbers": [
@@ -45707,8 +45747,9 @@
                 "book": "MARK",
                 "chapter": "14",
                 "verse": 72,
-                "text": "And the <strong>SECOND (2)</strong>  time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.",
+                "text": "And the <strong>SECOND (2)</strong>  time the cock crew. And Peter called to mind the word that Jesus said unto him, Before the cock crow <strong>TWICE (2)</strong> , thou shalt deny me thrice. And when he thought thereon, he wept.",
                 "numeric_numbers": [
+                    "2",
                     "2"
                 ]
             },
@@ -45734,7 +45775,7 @@
                 "book": "MARK",
                 "chapter": "15",
                 "verse": 25,
-                "text": "And it was the <strong>THIRD (3)</strong>  hour, and they crucified him.",
+                "text": "And it was the <strong>THIRD HOUR (3)</strong> , and they crucified him.",
                 "numeric_numbers": [
                     "3"
                 ]
@@ -45828,11 +45869,12 @@
         "repeating_patterns": {
             "(1, 1)": 38,
             "(1, 4)": 2,
-            "(12, 1)": 7,
+            "(12, 1)": 6,
             "(60, 100)": 2,
             "(1, 12)": 5,
-            "(2, 2)": 4,
-            "(2, 1)": 7,
+            "(12, 2)": 2,
+            "(2, 2)": 5,
+            "(2, 1)": 8,
             "(5, 2)": 2,
             "(2, 12)": 3,
             "(1, 3)": 7,
@@ -45846,34 +45888,34 @@
             "(1, 7)": 2,
             "(1, 1, 1)": 25,
             "(1, 1, 4)": 2,
-            "(2, 2, 1)": 2,
+            "(2, 2, 1)": 3,
             "(2, 2, 12)": 2,
             "(1, 1, 3)": 3,
             "(3, 7, 7)": 2,
             "(1, 3, 6)": 2,
             "(12, 1, 1)": 3,
             "(1, 1, 2)": 2,
+            "(1, 2, 2)": 2,
             "(2, 1, 2)": 2,
-            "(1, 2, 1)": 4,
+            "(1, 2, 1)": 3,
             "(2, 1, 1)": 3,
             "(1, 1, 12)": 2,
             "(2, 12, 1)": 2,
             "(1, 1, 7)": 2,
-            "(1, 12, 1)": 3,
-            "(12, 1, 3)": 2,
+            "(1, 12, 1)": 2,
+            "(2, 1, 3)": 2,
             "(1, 3, 1)": 2,
             "(1, 1, 1, 4)": 2,
             "(1, 1, 1, 3)": 2,
             "(1, 1, 1, 1)": 13,
             "(12, 1, 1, 1)": 2,
             "(1, 1, 1, 2)": 2,
+            "(1, 2, 2, 1)": 2,
             "(2, 1, 2, 1)": 2,
-            "(1, 2, 1, 1)": 3,
+            "(1, 2, 1, 1)": 2,
             "(2, 1, 1, 1)": 2,
             "(1, 1, 1, 12)": 2,
             "(2, 12, 1, 1)": 2,
-            "(1, 12, 1, 3)": 2,
-            "(12, 1, 3, 1)": 2,
             "(1, 1, 1, 1, 1)": 7,
             "(12, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 2)": 2,
@@ -46016,9 +46058,9 @@
             20000,
             100,
             1,
-            9,
+            99,
             1,
-            9,
+            99,
             10,
             1,
             1,
@@ -46056,6 +46098,7 @@
             1,
             2,
             1,
+            2,
             1,
             1,
             1,
@@ -46123,7 +46166,7 @@
             "6": 5,
             "3": 20,
             "8": 3,
-            "2": 32,
+            "2": 33,
             "7": 8,
             "80": 2,
             "4": 1,
@@ -46137,8 +46180,9 @@
             "10000": 1,
             "20000": 1,
             "100": 3,
-            "9": 4,
+            "99": 2,
             "10": 9,
+            "9": 2,
             "11": 2,
             "60": 1
         },
@@ -47056,21 +47100,21 @@
                 "book": "LUKE",
                 "chapter": "15",
                 "verse": 4,
-                "text": "What man of you, having an <strong>HUNDRED (100)</strong>  sheep, if he lose <strong>ONE (1)</strong>  of them, doth not leave the ninety and <strong>NINE (9)</strong>  in the wilderness, and go after that which is lost, until he find it?",
+                "text": "What man of you, having an <strong>HUNDRED (100)</strong>  sheep, if he lose <strong>ONE (1)</strong>  of them, doth not leave the <strong>NINETY AND NINE (99)</strong>  in the wilderness, and go after that which is lost, until he find it?",
                 "numeric_numbers": [
                     "100",
                     "1",
-                    "9"
+                    "99"
                 ]
             },
             {
                 "book": "LUKE",
                 "chapter": "15",
                 "verse": 7,
-                "text": "I say unto you, that likewise joy shall be in heaven over <strong>ONE (1)</strong>  sinner that repenteth, more than over ninety and <strong>NINE (9)</strong>  just persons, which need no repentance.",
+                "text": "I say unto you, that likewise joy shall be in heaven over <strong>ONE (1)</strong>  sinner that repenteth, more than over <strong>NINETY AND NINE (99)</strong>  just persons, which need no repentance.",
                 "numeric_numbers": [
                     "1",
-                    "9"
+                    "99"
                 ]
             },
             {
@@ -47308,6 +47352,15 @@
                 "numeric_numbers": [
                     "2",
                     "1"
+                ]
+            },
+            {
+                "book": "LUKE",
+                "chapter": "18",
+                "verse": 12,
+                "text": "I fast <strong>TWICE (2)</strong>  in the week, I give tithes of all that I possess.",
+                "numeric_numbers": [
+                    "2"
                 ]
             },
             {
@@ -47790,12 +47843,12 @@
         "repeating_patterns": {
             "(1, 5)": 4,
             "(3, 8)": 2,
-            "(1, 1)": 52,
+            "(1, 1)": 51,
             "(8, 2)": 2,
-            "(2, 1)": 19,
+            "(2, 1)": 20,
             "(1, 7)": 3,
             "(12, 3)": 2,
-            "(1, 2)": 18,
+            "(1, 2)": 19,
             "(6, 1)": 2,
             "(1, 12)": 7,
             "(12, 1)": 5,
@@ -47809,17 +47862,17 @@
             "(5, 1)": 3,
             "(18, 3)": 2,
             "(1, 18)": 2,
-            "(1, 9)": 2,
-            "(9, 1)": 3,
+            "(1, 99)": 2,
             "(10, 1)": 4,
             "(7, 7)": 2,
             "(1, 10)": 2,
+            "(9, 1)": 2,
             "(10, 10)": 3,
             "(3, 7)": 2,
-            "(1, 1, 1)": 28,
-            "(1, 2, 1)": 13,
+            "(1, 1, 1)": 27,
+            "(1, 2, 1)": 14,
             "(1, 1, 2)": 8,
-            "(2, 1, 2)": 4,
+            "(2, 1, 2)": 5,
             "(2, 1, 1)": 10,
             "(1, 1, 12)": 4,
             "(1, 12, 1)": 2,
@@ -47841,8 +47894,8 @@
             "(10, 1, 10)": 2,
             "(10, 10, 1)": 2,
             "(1, 1, 2, 1)": 6,
-            "(1, 2, 1, 2)": 3,
-            "(2, 1, 2, 1)": 3,
+            "(1, 2, 1, 2)": 4,
+            "(2, 1, 2, 1)": 4,
             "(1, 2, 1, 1)": 7,
             "(2, 1, 1, 1)": 6,
             "(1, 1, 1, 12)": 2,
@@ -47853,16 +47906,17 @@
             "(1, 1, 12, 12)": 2,
             "(2, 3, 1, 1)": 2,
             "(3, 1, 1, 1)": 4,
-            "(1, 1, 1, 1)": 9,
+            "(1, 1, 1, 1)": 8,
             "(1, 1, 1, 3)": 4,
             "(1, 1, 3, 1)": 4,
             "(1, 1, 1, 5)": 3,
             "(1, 1, 5, 1)": 2,
             "(1, 5, 1, 1)": 2,
             "(1, 1, 2, 1, 2)": 2,
-            "(1, 2, 1, 2, 1)": 3,
+            "(1, 2, 1, 2, 1)": 4,
             "(2, 1, 2, 1, 1)": 2,
             "(1, 2, 1, 1, 1)": 4,
+            "(2, 1, 1, 1, 12)": 2,
             "(1, 12, 1, 1, 1)": 2,
             "(1, 1, 1, 2, 1)": 2,
             "(1, 1, 2, 1, 1)": 3,
@@ -47875,22 +47929,24 @@
             "(3, 1, 1, 1, 3)": 2,
             "(1, 1, 1, 3, 1)": 3,
             "(1, 1, 1, 1, 5)": 2,
-            "(2, 1, 1, 1, 1)": 3,
+            "(2, 1, 1, 1, 1)": 2,
             "(1, 1, 1, 5, 1)": 2,
             "(1, 1, 5, 1, 1)": 2,
             "(1, 1, 2, 1, 2, 1)": 2,
             "(1, 2, 1, 2, 1, 1)": 2,
             "(2, 1, 2, 1, 1, 1)": 2,
+            "(1, 2, 1, 1, 1, 12)": 2,
             "(1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 2, 1, 1, 2)": 2,
             "(1, 2, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 1, 1, 1)": 2,
             "(3, 1, 1, 1, 3, 1)": 2,
             "(1, 1, 1, 5, 1, 1)": 2,
-            "(1, 2, 1, 1, 1, 1)": 2,
             "(1, 2, 1, 2, 1, 1, 1)": 2,
+            "(2, 1, 2, 1, 1, 1, 12)": 2,
             "(1, 1, 1, 2, 1, 1, 2)": 2,
             "(1, 1, 2, 1, 1, 2, 1)": 2,
+            "(1, 2, 1, 2, 1, 1, 1, 12)": 2,
             "(1, 1, 1, 2, 1, 1, 2, 1)": 2
         }
     },
@@ -49086,8 +49142,7 @@
             12,
             1,
             2,
-            60,
-            15,
+            75,
             3,
             1,
             1,
@@ -49201,9 +49256,7 @@
             15,
             4,
             14,
-            200,
-            60,
-            16,
+            276,
             2,
             1,
             1,
@@ -49231,19 +49284,19 @@
             "12": 5,
             "7": 8,
             "8": 2,
-            "60": 2,
-            "15": 2,
+            "75": 1,
             "6": 3,
             "4": 7,
             "1000": 1,
             "5": 2,
             "4000": 1,
-            "200": 3,
+            "200": 2,
             "70": 1,
             "10": 1,
             "14": 2,
             "20": 1,
-            "16": 1
+            "15": 1,
+            "276": 1
         },
         "verses_with_numbers": [
             {
@@ -49359,7 +49412,7 @@
                 "book": "ACTS",
                 "chapter": "2",
                 "verse": 15,
-                "text": "For these are not drunken, as ye suppose, seeing it is the <strong>THIRD (3)</strong>  hour of the day.",
+                "text": "For these are not drunken, as ye suppose, seeing it is the <strong>THIRD HOUR (3)</strong>  of the day.",
                 "numeric_numbers": [
                     "3"
                 ]
@@ -49569,10 +49622,9 @@
                 "book": "ACTS",
                 "chapter": "7",
                 "verse": 14,
-                "text": "Then sent Joseph, and called his father Jacob to , and all his kindred, <strong>THREESCORE (60)</strong>  and <strong>FIFTEEN (15)</strong>  souls.",
+                "text": "Then sent Joseph, and called his father Jacob to , and all his kindred, <strong>THREESCORE AND FIFTEEN (75)</strong>  souls.",
                 "numeric_numbers": [
-                    "60",
-                    "15"
+                    "75"
                 ]
             },
             {
@@ -50334,7 +50386,7 @@
                 "book": "ACTS",
                 "chapter": "23",
                 "verse": 23,
-                "text": "And he called unto <strong>TWO (2)</strong>  centurions, saying, Make ready <strong>TWO HUNDRED (200)</strong>  soldiers to go to Caesarea, and horsemen <strong>THREESCORE AND TEN (70)</strong> , and spearmen <strong>TWO HUNDRED (200)</strong> , at the <strong>THIRD (3)</strong>  hour of the night;",
+                "text": "And he called unto <strong>TWO (2)</strong>  centurions, saying, Make ready <strong>TWO HUNDRED (200)</strong>  soldiers to go to Caesarea, and horsemen <strong>THREESCORE AND TEN (70)</strong> , and spearmen <strong>TWO HUNDRED (200)</strong> , at the <strong>THIRD HOUR (3)</strong>  of the night;",
                 "numeric_numbers": [
                     "2",
                     "200",
@@ -50492,11 +50544,9 @@
                 "book": "ACTS",
                 "chapter": "27",
                 "verse": 37,
-                "text": "And we were in all in the ship <strong>TWO HUNDRED (200)</strong>  <strong>THREESCORE (60)</strong>  and <strong>SIXTEEN (16)</strong>  souls.",
+                "text": "And we were in all in the ship <strong>TWO HUNDRED THREESCORE AND SIXTEEN (276)</strong>  souls.",
                 "numeric_numbers": [
-                    "200",
-                    "60",
-                    "16"
+                    "276"
                 ]
             },
             {
@@ -51165,9 +51215,7 @@
             1,
             1,
             1,
-            1,
-            3,
-            20000,
+            32000,
             1,
             1,
             1,
@@ -51225,11 +51273,11 @@
             1
         ],
         "number_counts": {
-            "1": 67,
+            "1": 66,
             "10000": 2,
             "2": 4,
-            "3": 5,
-            "20000": 1,
+            "32000": 1,
+            "3": 4,
             "5": 1,
             "12": 1,
             "500": 1
@@ -51423,11 +51471,9 @@
                 "book": "1 CORINTHIANS",
                 "chapter": "10",
                 "verse": 8,
-                "text": "Neither let us commit fornication, as some of them committed, and fell in <strong>ONE DAY (1)</strong>  <strong>THREE (3)</strong>  and <strong>TWENTY THOUSAND (20000)</strong> .",
+                "text": "Neither let us commit fornication, as some of them committed, and fell in <strong>ONE DAY THREE AND TWENTY THOUSAND (32000)</strong> .",
                 "numeric_numbers": [
-                    "1",
-                    "3",
-                    "20000"
+                    "32000"
                 ]
             },
             {
@@ -51807,63 +51853,55 @@
             }
         ],
         "repeating_patterns": {
-            "(1, 1)": 56,
+            "(1, 1)": 55,
             "(10000, 1)": 2,
             "(1, 2)": 4,
             "(2, 1)": 2,
-            "(1, 3)": 3,
+            "(1, 3)": 2,
             "(2, 3)": 2,
             "(3, 1)": 2,
-            "(1, 1, 1)": 47,
+            "(1, 1, 1)": 46,
             "(10000, 1, 1)": 2,
             "(1, 1, 2)": 3,
             "(1, 2, 1)": 2,
             "(2, 1, 1)": 2,
-            "(1, 1, 3)": 3,
+            "(1, 1, 3)": 2,
             "(1, 2, 3)": 2,
             "(2, 3, 1)": 2,
-            "(1, 1, 1, 1)": 40,
+            "(1, 1, 1, 1)": 39,
             "(10000, 1, 1, 1)": 2,
             "(1, 1, 1, 2)": 3,
             "(1, 1, 2, 1)": 2,
             "(1, 2, 1, 1)": 2,
             "(2, 1, 1, 1)": 2,
-            "(1, 1, 1, 3)": 3,
-            "(1, 1, 1, 1, 1)": 35,
+            "(1, 1, 1, 3)": 2,
+            "(1, 1, 1, 1, 1)": 34,
             "(1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 2, 1)": 2,
             "(1, 1, 2, 1, 1)": 2,
             "(1, 2, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 3)": 3,
-            "(1, 1, 1, 1, 1, 1)": 30,
+            "(1, 1, 1, 1, 3)": 2,
+            "(1, 1, 1, 1, 1, 1)": 29,
             "(1, 1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 2, 1, 1, 1)": 2,
-            "(1, 1, 1, 1, 1, 3)": 2,
             "(1, 1, 1, 1, 1, 1, 2)": 2,
             "(1, 1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 1, 2, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1)": 21,
-            "(1, 1, 1, 1, 1, 1, 3)": 2,
             "(1, 1, 1, 1, 1, 1, 2, 1)": 2,
             "(1, 1, 1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 1, 1, 2, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1)": 19,
-            "(1, 1, 1, 1, 1, 1, 1, 3)": 2,
             "(1, 1, 1, 1, 1, 1, 2, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 2, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1)": 18,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 3)": 2,
             "(1, 1, 1, 1, 1, 1, 2, 1, 1, 1)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 17,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 3)": 2,
             "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 16,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 15,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3)": 2,
-            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 3)": 2
+            "(1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1)": 3
         }
     },
     {
@@ -53962,11 +54000,13 @@
         "name": "JUDE",
         "sequences": [
             1,
+            2,
             7,
             10
         ],
         "number_counts": {
             "1": 1,
+            "2": 1,
             "7": 1,
             "10": 1
         },
@@ -53978,6 +54018,15 @@
                 "text": "And the angels which kept not their <strong>FIRST (1)</strong>  estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.",
                 "numeric_numbers": [
                     "1"
+                ]
+            },
+            {
+                "book": "JUDE",
+                "chapter": "1",
+                "verse": 12,
+                "text": "These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds without water, carried about of winds; trees whose fruit withereth, without fruit, <strong>TWICE (2)</strong>  dead, plucked up by the roots;",
+                "numeric_numbers": [
+                    "2"
                 ]
             },
             {
