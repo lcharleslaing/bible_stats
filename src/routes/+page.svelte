@@ -57,7 +57,6 @@
       bind:value={$searchText}
       class="input input-bordered w-full max-w-full text-center"
       placeholder="Enter number..."
-      inputmode="numeric"
     />
   </div>
 
