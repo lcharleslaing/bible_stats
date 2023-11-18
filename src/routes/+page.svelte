@@ -44,14 +44,26 @@
 
   function showOnlyBook(bookName) {
     visibleBook.set(bookName);
+    isAccordionOpen = false; // Close the accordion
   }
-
   function showAllBooks() {
     visibleBook.set(null);
   }
 
   function truncate(text) {
     return text.slice(0, 5);
+  }
+
+  import HelpModal from "$lib/components/HelpModal.svelte";
+  let modalOpen = true;
+  let openOnStart = true;
+
+  function handleModalClose() {
+    modalOpen = false;
+  }
+
+  function handleModalUpdate(event) {
+    openOnStart = event.detail.openOnStart;
   }
 </script>
 
@@ -117,3 +129,10 @@
     {/if}
   {/each}
 </div>
+
+<HelpModal
+  bind:isOpen={modalOpen}
+  bind:openOnStart
+  on:close={handleModalClose}
+  on:update={handleModalUpdate}
+/>

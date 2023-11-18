@@ -2,4 +2,7 @@
   <h1 class="text-2xl text-center font-extrabold">The Chosen Few</h1>
   <h1 class="text-2xl text-center">KJV Bible Number Qty's</h1>
   <h1 class="text-2xl text-center font-extrabold">It's All Giberish!!!</h1>
+  <h2 class="text-center text-xl text-green-700 my-12 font-extrabold">
+    This is coming tomorrow!!!!
+  </h2>
 </div>
