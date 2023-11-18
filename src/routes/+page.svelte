@@ -58,8 +58,10 @@
     visibleBook.set(bookName);
     isAccordionOpen = false; // Close the accordion
   }
+
   function showAllBooks() {
     visibleBook.set(null);
+    isAccordionOpen = false; // Also close the accordion
   }
 
   function truncate(text) {

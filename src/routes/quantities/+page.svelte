@@ -13,24 +13,41 @@
     await loadQuantitiesData();
   });
 
-  // Adjusted derived store
   const filteredVerses = derived(
     [bibleStore, selectedNumber],
     ([$bibleStore, $selectedNumber]) => {
+      console.log("Selected Number (raw):", $selectedNumber);
+
       if ($selectedNumber === null) {
+        console.log("Displaying all verses");
         return $bibleStore.flatMap((book) => book.verses_with_numbers);
       } else {
-        return $bibleStore
+        // Convert $selectedNumber to a string for comparison
+        const selectedStr = String($selectedNumber);
+        console.log("Selected Number (string):", selectedStr);
+
+        const filtered = $bibleStore
           .flatMap((book) => book.verses_with_numbers)
-          .filter(
-            (verse) => verse.numbers && verse.numbers.includes($selectedNumber)
-          );
+          .filter((verse) => {
+            console.log("Processing verse:", verse);
+            if (!verse.numeric_numbers) {
+              console.log("No numeric_numbers array in this verse.");
+              return false;
+            }
+            const isMatch = verse.numeric_numbers.includes(selectedStr);
+            console.log("Does the verse match the selected number?", isMatch);
+            return isMatch;
+          });
+        console.log("Filtered Verses:", filtered);
+        return filtered;
       }
     }
   );
 
   function selectNumber(number) {
-    selectedNumber.set(number); // Corrected to use .set() method
+    selectedNumber.set(number);
+    console.log("Number selected for filter:", number);
+    isAccordionOpen = false;
   }
 
   function toggleAccordion() {
@@ -39,11 +56,15 @@
 
   function showAllBooks() {
     selectedNumber.set(null);
+    console.log("Showing all books");
+    isAccordionOpen = false;
   }
+
   const totalFilteredVerses = derived(
     filteredVerses,
-    ($filteredVerses) => $filteredVerses.length // Simply count the number of verse objects
+    ($filteredVerses) => $filteredVerses.length
   );
+  console.log("Filter Quantity: ", $filteredVerses.length);
 </script>
 
 <div class="m-6">
