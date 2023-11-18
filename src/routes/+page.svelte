@@ -47,7 +47,7 @@
   }
 </script>
 
-<div class="my-4">
+<div class="m-6">
   <h1 class="text-4xl text-center">The Chosen Few</h1>
   <h1 class="text-4xl text-center">KJV Bible Verses with Numbers</h1>
 
