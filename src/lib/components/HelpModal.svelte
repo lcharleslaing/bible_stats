@@ -55,6 +55,20 @@
         is used in a sequence in a book. PATTERNS, the number of times a number is
         used in a verse, chapter and book.
       </p>
+      <p class="py-2 text-yellow-700 font-extrabold text-xl">Errors</p>
+      <p class="py-2">
+        As you go through this you may find something like below...Let me know
+        and I'll fix them and I will be going through and fixing them as I find
+        them over the next couple days.
+      </p>
+      <p class="py-2">
+        <strong class="text-red-700">EIGHT (8) HUNDRED (100)</strong> This is an
+        error and if you see this let me know and I can get it fixed.
+      </p>
+      <p class="py-2">
+        <strong class="text-green-700">EIGHT HUNDRED (800)</strong> This is what
+        it is supposed to total to.
+      </p>
       <div class="modal-action">
         <label class="label cursor-pointer">
           <span class="label-text mr-4">Hide on Start:</span>
