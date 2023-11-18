@@ -53,7 +53,7 @@
 
   <div class="m-2">
     <input
-      type="text"
+      type="number"
       bind:value={$searchText}
       class="input input-bordered w-full max-w-full text-center"
       placeholder="Enter number..."
