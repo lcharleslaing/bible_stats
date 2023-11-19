@@ -2,40 +2,45 @@
 import { writable } from 'svelte/store';
 
 function createSequencesStore() {
-    const { subscribe, set, update } = writable({ books: [], sequencesByBook: new Map(), numberCountsByBook: new Map(), loadedPages: 0 });
+    const { subscribe, set, update } = writable({ books: [], sequencesByBook: new Map(), numberCountsByBook: new Map() });
 
-    async function loadMoreData(pageSize = 10) {
+    async function loadAllData() {
         try {
-            const response = await fetch('/bible_data.json'); // Update with the correct path
+            const response = await fetch('/bible_data.json');
             if (!response.ok) {
                 throw new Error(`HTTP error! Status: ${response.status}`);
             }
             const booksData = await response.json();
 
-            update(data => {
-                const startIndex = data.loadedPages * pageSize;
-                const endIndex = startIndex + pageSize;
-                const newBooks = booksData.slice(startIndex, endIndex);
-
-                newBooks.forEach(book => {
-                    data.sequencesByBook.set(book.name, new Set(book.sequences || []));
-                    data.numberCountsByBook.set(book.name, book.number_counts || {});
-                });
-
-                return {
-                    ...data,
-                    books: [...data.books, ...newBooks],
-                    loadedPages: data.loadedPages + 1
-                };
+            set({
+                books: booksData,
+                sequencesByBook: booksData.reduce((map, book) => {
+                    map.set(book.name, new Set(book.sequences || []));
+                    return map;
+                }, new Map()),
+                numberCountsByBook: booksData.reduce((map, book) => {
+                    map.set(book.name, book.number_counts || {});
+                    return map;
+                }, new Map())
             });
         } catch (error) {
-            console.error("Error loading more data:", error);
+            console.error("Error loading data:", error);
         }
+    }
+
+    // Function to get number counts
+    function getNumberCounts(bookName) {
+        let storeValue;
+        subscribe((value) => {
+            storeValue = value;
+        })();
+        return storeValue.numberCountsByBook.get(bookName) || {};
     }
 
     return {
         subscribe,
-        loadMoreData, // Make sure this function is correctly exported
+        loadAllData,
+        getNumberCounts,
     };
 }
 
