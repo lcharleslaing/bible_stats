@@ -80,6 +80,12 @@
     }
   }
 
+  function clearSearchAndCloseAccordions() {
+    searchPattern = "";
+    openCount = null;
+    openBook = null;
+  }
+
   // Function to toggle accordion sections for books within a count
   function toggleBook(book) {
     openBook = openBook === book ? null : book;
@@ -101,7 +107,7 @@
     placeholder="Enter patterns (e.g., 1 3 7)"
     bind:value={searchPattern}
   />
-  <button class="btn btn-error" on:click={() => (searchPattern = "")}>
+  <button class="btn btn-error" on:click={clearSearchAndCloseAccordions}>
     Clear
   </button>
 </div>

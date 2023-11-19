@@ -17,6 +17,12 @@
     return allPatterns;
   }
 
+  function clearSearchAndCloseAccordions() {
+    searchPattern = "";
+    openGroup = null;
+    openBook = null; // Add this line if you have book-level accordions
+  }
+
   // Function to group patterns by count
   function groupPatternsByCount(aggregatedPatterns) {
     const grouped = {};
@@ -29,8 +35,42 @@
     return grouped;
   }
 
-  const aggregatedPatterns = aggregateBiblePatterns(bibleSequences);
-  const groupedPatterns = groupPatternsByCount(aggregatedPatterns);
+  const aggregatedPatterns = groupPatternsByCount(
+    aggregateBiblePatterns(bibleSequences)
+  );
+
+  let searchPattern = "";
+  let filteredPatterns = aggregatedPatterns; // Initialize with all patterns
+
+  $: {
+    const searchNumbers = searchPattern
+      .trim()
+      .split(" ")
+      .map(Number)
+      .filter((n) => !isNaN(n));
+    filteredPatterns =
+      searchPattern.trim() === ""
+        ? aggregatedPatterns
+        : filterBiblePatterns(searchNumbers);
+  }
+
+  function startsWithSequence(patternString, sequence) {
+    const pattern = patternString.split(",").map(Number);
+    return sequence.every((num, index) => pattern[index] === num);
+  }
+
+  function filterBiblePatterns(searchNumbers) {
+    const filtered = {};
+    Object.entries(aggregatedPatterns).forEach(([count, patterns]) => {
+      const matchingPatterns = patterns.filter((patternString) =>
+        startsWithSequence(patternString, searchNumbers)
+      );
+      if (matchingPatterns.length > 0) {
+        filtered[count] = matchingPatterns;
+      }
+    });
+    return filtered;
+  }
 
   // State management for accordion
   let openGroup = null;
@@ -46,18 +86,26 @@
   secondTitle="Number Patterns in the BIBLE"
   thirdTitle="It's Praise JESUS Let's Gooooo"
 />
+<!-- Search Input with Clear Button -->
+<div class="text-center my-4 flex justify-center items-center gap-2">
+  <input
+    type="text"
+    class="input input-bordered"
+    placeholder="Enter patterns (e.g., 1 3 7)"
+    bind:value={searchPattern}
+  />
+  <button class="btn btn-error" on:click={clearSearchAndCloseAccordions}>
+    Clear
+  </button>
+</div>
+
 <!-- Display Grouped Patterns for the entire Bible -->
 <div class="p-4">
-  <h1 class="text-center text-lg text-center">
-    Click the <strong>Buttons</strong> below to open the
-    <strong>Section</strong>
-    to view the <strong>Books</strong> within each
-    <strong>Count</strong>
+  <h1 class="text-center text-lg">
+    Click the <strong>Buttons</strong> below to view patterns.
   </h1>
-  {#each Object.entries(groupedPatterns) as [count, patterns]}
+  {#each Object.entries(filteredPatterns) as [count, patterns]}
     <div class="my-2">
-      <!-- svelte-ignore a11y-click-events-have-key-events -->
-      <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
       <h2
         class="text-4xl p-2 bg-success text-slate-900 text-center rounded-lg font-bold my-4 cursor-pointer"
         on:click={() => toggleGroup(count)}
