@@ -3,6 +3,8 @@
   import { sequencesStore } from "$lib/sequencesStore.js";
   import { onMount } from "svelte";
 
+  import TitleBanner from "$lib/components/TitleBanner.svelte";
+
   let isAccordionOpen = false;
   const visibleBook = writable(null); // Store to track the visible book
 
@@ -60,9 +62,10 @@
 </script>
 
 <div class="m-6">
-  <h1 class="text-2xl text-center font-extrabold">The Chosen Few</h1>
-  <h1 class="text-2xl text-center">KJV Bible Number Sequences</h1>
-  <h1 class="text-2xl text-center font-extrabold">Praise GOD Let's Goooo!!!</h1>
+  <TitleBanner
+    secondTitle="KJV Bible Number Sequences"
+    thirdTitle="We Love JESUS Let's Gooooo!!!"
+  />
 
   <button class="btn btn-sm btn-primary my-2" on:click={toggleAccordion}>
     {isAccordionOpen ? "Hide Books" : "Show Books"}

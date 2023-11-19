@@ -4,6 +4,7 @@
   import { loadQuantitiesData, uniqueNumbersStore } from "$lib/quantitiesStore";
   import { onMount } from "svelte";
   import { writable, derived } from "svelte/store";
+  import TitleBanner from "$lib/components/TitleBanner.svelte";
 
   const selectedNumber = writable(null);
   let isAccordionOpen = false;
@@ -68,11 +69,10 @@
 </script>
 
 <div class="m-6">
-  <div class="my-4">
-    <h1 class="text-2xl text-center font-extrabold">The Chosen Few</h1>
-    <h1 class="text-2xl text-center">KJV Bible Number Qty's</h1>
-    <h1 class="text-2xl text-center font-extrabold">It's All Giberish!!!</h1>
-  </div>
+  <TitleBanner
+    secondTitle="Number Patterns By BOOKS"
+    thirdTitle="It's Praise JESUS Let's Gooooo"
+  />
 
   <!-- Display the count of matched verses -->
   <div class="text-center my-2">

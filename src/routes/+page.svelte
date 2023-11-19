@@ -5,6 +5,7 @@
   import { onMount } from "svelte";
   import { writable, derived } from "svelte/store";
   import HelpModal from "$lib/components/HelpModal.svelte";
+  import TitleBanner from "$lib/components/TitleBanner.svelte";
 
   const visibleBook = writable(null);
   const searchText = writable("");
@@ -82,11 +83,10 @@
 </script>
 
 <div class="m-6">
-  <div class="my-4">
-    <h1 class="text-2xl text-center font-extrabold">The Chosen Few</h1>
-    <h1 class="text-2xl text-center">KJV Bible Verses with Numbers</h1>
-    <h1 class="text-2xl text-center font-extrabold">It's a Bam Biscuit!!!</h1>
-  </div>
+  <TitleBanner
+    secondTitle="KJV Bible Verses with Numbers"
+    thirdTitle="It's a Bam Biscuit!!!"
+  />
 
   <div class="m-2">
     <input

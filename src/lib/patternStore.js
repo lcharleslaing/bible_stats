@@ -1,0 +1,1 @@
+// "$lib/patternStore.js" This is going to be the pattern store. It will be very similar to the sequences store, but it will have a few differences
