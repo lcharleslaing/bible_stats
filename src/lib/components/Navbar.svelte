@@ -6,5 +6,5 @@
   <!-- <a disabled class="btn btn-xs btn-primary" href="/dates">Dates </a> -->
   <a class="btn btn-xs btn-success" href="/quantities">Numbers </a>
   <a class="btn btn-xs btn-success" href="/sequences">Counts </a>
-  <a class="btn btn-xs btn-primary" href="/patterns">Patterns </a>
+  <a class="btn btn-xs btn-success" href="/patterns">Patterns </a>
 </div>
