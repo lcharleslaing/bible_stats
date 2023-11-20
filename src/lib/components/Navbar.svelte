@@ -12,7 +12,6 @@
       : 'btn-success'}"
     href="/">Verses</a
   >
-  <!-- <a disabled class="btn btn-sm btn-primary" href="/dates">Dates</a> -->
   <a
     class="btn btn-sm {currentPath === '/quantities'
       ? 'bg-black text-white border border-white'
@@ -30,5 +29,11 @@
       ? 'bg-black text-white border border-white'
       : 'btn-success'}"
     href="/patterns">Patterns</a
+  >
+  <a
+    class="btn btn-sm {currentPath === '/dates'
+      ? 'bg-black text-white border border-white'
+      : 'btn-success'}"
+    href="/dates">Dates</a
   >
 </div>
