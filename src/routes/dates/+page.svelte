@@ -120,6 +120,8 @@
   </div>
 
   <!-- Search Input and Clear Button -->
+  <p class="mb-2 font-bold">Refine the Filters with Numbers</p>
+
   <div class="flex gap-2">
     <input
       class="w-full p-2 border-2 border-gray-300 rounded-lg"
