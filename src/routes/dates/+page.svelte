@@ -3,40 +3,36 @@
   import dateKeywords from "$lib/data/dates_keywords.json";
   import TitleBanner from "$lib/components/TitleBanner.svelte";
   import { bibleData, fetchBibleData } from "$lib/bibleDataStore";
+  import {
+    completeBible,
+    fetchCompleteBibleData,
+  } from "$lib/completeBibleStore";
 
   let searchNumber = "";
-  let searchKeyword = ""; // Store the current keyword
+  let searchKeyword = "";
   let allVerses = [];
   let groupedVerses = {};
   let openBook = null;
-
-  let totalVersesCount = 0; // Store the total count of verses
+  let totalVersesCount = 0;
 
   onMount(() => {
     fetchBibleData();
+    fetchCompleteBibleData();
   });
 
-  $: totalVersesCount = Object.values(groupedVerses).reduce(
-    (total, verses) => total + verses.length,
-    0
-  );
-
-  // Singular keywords (without plurals) from the JSON file
-  let keywords = dateKeywords.keywords;
-
   $: {
-    if ($bibleData && $bibleData.length > 0) {
-      allVerses = $bibleData.flatMap((book) => book.verses_with_numbers);
+    if ($bibleData && $completeBible) {
+      allVerses = [
+        ...$bibleData.flatMap((book) => book.verses_with_numbers || []),
+        ...$completeBible,
+      ];
       groupedVerses = groupAndFilterVerses(
         searchNumber,
         searchKeyword,
         allVerses
       );
-      openBook = null; // Close all accordions when filter changes
-    } else {
-      allVerses = [];
-      groupedVerses = {};
-      openBook = null; // Close all accordions if there are no data
+      openBook = null; // Reset the open book
+      totalVersesCount = calculateTotalVerses(groupedVerses);
     }
   }
 
@@ -49,107 +45,112 @@
   }
 
   function groupAndFilterVerses(number, keyword, verses) {
-    let filtered = verses.filter((verse) => {
-      const numberMatch = number.trim() ? verse.text.includes(number) : true;
-      const keywordMatch = keyword.trim() ? verse.text.includes(keyword) : true;
-      return numberMatch && keywordMatch;
-    });
-    return groupVerses(filtered);
+    return groupVerses(
+      verses.filter(
+        (verse) =>
+          (!number.trim() || verse.text.includes(number)) &&
+          (!keyword.trim() || verse.text.includes(keyword))
+      )
+    );
   }
 
   function setKeywordFilter(keyword) {
     searchKeyword = keyword;
-    groupedVerses = groupAndFilterVerses(
-      searchNumber,
-      searchKeyword,
-      allVerses
-    );
-    openBook = null; // Close all accordions when filter changes
-  }
-
-  function filterVersesByKeyword(keyword, verses) {
-    // Search for both singular and plural forms of the keyword
-    const pluralKeyword = keyword + "s"; // Assuming plural is just 's' added
-    return verses.filter(
-      (verse) =>
-        verse.text.includes(keyword) || verse.text.includes(pluralKeyword)
-    );
   }
 
   function clearSearch() {
     searchNumber = "";
     searchKeyword = "";
-    openBook = null; // Close all accordions on clear
+    openBook = null;
   }
 
   function toggleBook(book) {
-    openBook = openBook === book ? null : book; // Toggle the open book
+    openBook = openBook === book ? null : book;
+  }
+
+  function calculateTotalVerses(grouped) {
+    return Object.values(grouped).reduce(
+      (total, verses) => total + verses.length,
+      0
+    );
   }
 </script>
 
+<!-- HTML Template -->
 <div class="m-4">
   <TitleBanner
     secondTitle="Dates in Bible Verses"
     thirdTitle="It's Praise JESUS Let's Gooooo"
   />
 
-  <!-- Keyword Filter Buttons -->
-  <p class="text-lg font-bold text-green-700">Filter Buttons...</p>
-  <div class="flex flex-wrap gap-2 mb-4">
-    {#each keywords as keyword}
-      <button
-        class={`btn ${
-          searchKeyword === keyword ? "btn-success" : "btn-primary"
-        }`}
-        on:click={() => setKeywordFilter(keyword)}
-      >
-        {keyword}(s)
-      </button>
-    {/each}
+  <!-- Date Keyword Filter Buttons -->
+
+  <div class="card bg-slate-800 pt-4 pb-0 pl-2 my-2">
+    <p class="mb-2 font-bold">Day/Date/Time Filters</p>
+    <div class="flex flex-wrap gap-2 mb-4">
+      {#each dateKeywords.keywords as keyword}
+        <button
+          class={`btn ${
+            searchKeyword === keyword ? "btn-success" : "btn-primary"
+          }`}
+          on:click={() => setKeywordFilter(keyword)}
+        >
+          {keyword}(s)
+        </button>
+      {/each}
+    </div>
   </div>
 
-  <!-- Search and Clear -->
-  <p class="text-lg font-bold text-green-700">Refine by Adding a Number...</p>
+  <!-- Month Filter Buttons -->
+  <div class="card bg-slate-800 pt-4 pb-0 pl-2 my-2">
+    <p class="mb-2 font-bold">Jewish Month Filters</p>
 
+    <div class="flex flex-wrap gap-2 mb-4">
+      {#each dateKeywords.months as month}
+        <button
+          class={`btn ${
+            searchKeyword === month ? "btn-success" : "btn-primary"
+          }`}
+          on:click={() => setKeywordFilter(month)}
+        >
+          {month}
+        </button>
+      {/each}
+    </div>
+  </div>
+
+  <!-- Search Input and Clear Button -->
   <div class="flex gap-2">
     <input
-      class="w-full p-2 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent"
+      class="w-full p-2 border-2 border-gray-300 rounded-lg"
       type="text"
       placeholder="Enter a number to search within date verses..."
       bind:value={searchNumber}
     />
-    <button class="btn btn-error p-2 rounded-lg" on:click={clearSearch}>
-      Clear
-    </button>
+    <button class="btn btn-error" on:click={clearSearch}>Clear</button>
   </div>
 
-  <!-- Display Total Count of Verses -->
-  <div
-    class="card bg-slate-200 text-slate-900 p-2 my-4 rounded-lg outline outline-orange-600"
-  >
-    <h2 class="text-xl font-bold text-center">
-      Total Verses Found: {totalVersesCount}
-    </h2>
+  <!-- Total Verses Count Display -->
+  <div class="text-lg font-bold">
+    Total Verses Found: {totalVersesCount}
   </div>
 
-  <!-- Displaying Grouped Verses with Accordions and Counts -->
+  <!-- Display Grouped Verses with Styled Accordion Feature -->
   {#each Object.entries(groupedVerses) as [book, verses]}
     <div class="my-4">
       <!-- svelte-ignore a11y-click-events-have-key-events -->
       <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
       <h2
-        class="rounded-lg p-2 font-extrabold bg-success text-slate-900 rouned-lg text-xl text-center font-bold cursor-pointer outline outline-slate-400"
+        class="rounded-lg p-2 font-extrabold bg-success text-slate-900 text-xl text-center cursor-pointer"
         on:click={() => toggleBook(book)}
       >
         {book}
-
-        <span
-          class="pb-1 font-normal px-2 pt-0 bg-green-900 text-slate-100 shadow-md rounded-lg"
+        <span class="ml-2 bg-green-900 text-slate-100 shadow-md rounded-lg p-1"
           >({verses.length}) Verses</span
         >
       </h2>
       {#if openBook === book}
-        <div class="">
+        <div class="mt-2">
           {#each verses as verse}
             <div class="my-2 card bg-slate-100 text-slate-900 p-2">
               <strong>{verse.book} {verse.chapter}:{verse.verse}</strong>
