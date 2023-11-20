@@ -27,5 +27,22 @@
         "Zif",
         "Ethanim",
         "Bul"
+    ],
+    "feasts": [
+        "Nisan",
+        "Sivan",
+        "Tammuz",
+        "Av",
+        "Elul",
+        "Tishrei",
+        "Cheshvan",
+        "Kislev",
+        "Tevet",
+        "Shevat",
+        "Adar",
+        "Abib",
+        "Zif",
+        "Ethanim",
+        "Bul"
     ]
 }

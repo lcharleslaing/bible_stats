@@ -154,6 +154,7 @@
       {#if openBook === book}
         <div class="mt-2">
           {#each verses as verse}
+            <!-- {#each $completeBible as verse} -->
             <div class="my-2 card bg-slate-100 text-slate-900 p-2">
               <strong>{verse.book} {verse.chapter}:{verse.verse}</strong>
               <p>{@html verse.text}</p>
