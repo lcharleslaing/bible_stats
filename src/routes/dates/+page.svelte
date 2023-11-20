@@ -10,9 +10,16 @@
   let groupedVerses = {};
   let openBook = null;
 
+  let totalVersesCount = 0; // Store the total count of verses
+
   onMount(() => {
     fetchBibleData();
   });
+
+  $: totalVersesCount = Object.values(groupedVerses).reduce(
+    (total, verses) => total + verses.length,
+    0
+  );
 
   // Singular keywords (without plurals) from the JSON file
   let keywords = dateKeywords.keywords;
@@ -116,13 +123,22 @@
     </button>
   </div>
 
+  <!-- Display Total Count of Verses -->
+  <div
+    class="card bg-slate-200 text-slate-900 p-2 my-4 rounded-lg outline outline-orange-600"
+  >
+    <h2 class="text-xl font-bold text-center">
+      Total Verses Found: {totalVersesCount}
+    </h2>
+  </div>
+
   <!-- Displaying Grouped Verses with Accordions and Counts -->
   {#each Object.entries(groupedVerses) as [book, verses]}
     <div class="my-4">
       <!-- svelte-ignore a11y-click-events-have-key-events -->
       <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
       <h2
-        class="rounded-lg p-2 font-extrabold bg-success text-slate-900 rouned-lg text-xl text-center font-bold cursor-pointer"
+        class="rounded-lg p-2 font-extrabold bg-success text-slate-900 rouned-lg text-xl text-center font-bold cursor-pointer outline outline-slate-400"
         on:click={() => toggleBook(book)}
       >
         {book}
