@@ -9,16 +9,6 @@
         "season",
         "week",
         "time",
-        "hour",
-        "days",
-        "nights",
-        "evenings",
-        "mornings",
-        "years",
-        "months",
-        "seasons",
-        "weeks",
-        "times",
-        "hours"
+        "hour"
     ]
 }
