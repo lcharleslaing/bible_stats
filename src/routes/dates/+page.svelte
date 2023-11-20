@@ -4,13 +4,14 @@
   import TitleBanner from "$lib/components/TitleBanner.svelte";
   import { bibleData, fetchBibleData } from "$lib/bibleDataStore";
 
+  // Declare and initialize variables
   let searchNumber = "";
   let allVerses = [];
-  let versesWithKeywords = []; // Verses that contain date-related keywords
-  let filteredVerses = []; // Verses that match the search number
+  let versesWithKeywords = [];
+  let filteredVerses = [];
 
   onMount(() => {
-    fetchBibleData();
+    fetchBibleData(); // Fetch the data when the component mounts
   });
 
   $: {
@@ -27,7 +28,11 @@
         .map(Number)
         .filter((n) => !isNaN(n));
       filteredVerses = searchNumber.trim()
-        ? filterVersesByNumber(searchNumbers, versesWithKeywords)
+        ? filterAndModifyVerses(
+            searchNumbers,
+            dateKeywords.keywords,
+            versesWithKeywords
+          )
         : versesWithKeywords;
     } else {
       allVerses = [];
@@ -37,15 +42,33 @@
   }
 
   function filterVersesByKeywords(keywords, verses) {
-    return verses.filter((verse) => {
-      return keywords.some((keyword) => verse.text.includes(keyword));
-    });
+    return verses.filter((verse) =>
+      keywords.some((keyword) => verse.text.includes(keyword))
+    );
   }
 
-  function filterVersesByNumber(numbers, verses) {
-    return verses.filter((verse) => {
-      return numbers.some((number) => verse.text.includes(number.toString()));
-    });
+  function filterAndModifyVerses(numbers, keywords, verses) {
+    return verses
+      .map((verse) => {
+        let modifiedText = verse.text;
+        numbers.forEach((number) => {
+          keywords.forEach((keyword) => {
+            const regex = new RegExp(`\\b${number}(\\s+${keyword})\\b`, "gi");
+            modifiedText = modifiedText.replace(
+              regex,
+              (match, keywordMatch) => {
+                return `${number}<strong>${keywordMatch.toUpperCase()}</strong>`;
+              }
+            );
+          });
+        });
+        return modifiedText !== verse.text
+          ? { ...verse, text: modifiedText }
+          : verse;
+      })
+      .filter((verse) =>
+        numbers.some((number) => verse.text.includes(number.toString()))
+      );
   }
 </script>
 
@@ -58,13 +81,23 @@
 </div>
 
 <div class="m-4">
-  <input
-    class="w-full p-2 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent"
-    id="searchNumber"
-    type="text"
-    placeholder="Enter a number to search within date verses..."
-    bind:value={searchNumber}
-  />
+  <div class="flex gap-2">
+    <input
+      class="w-full p-2 border-2 border-gray-300 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-600 focus:border-transparent"
+      id="searchNumber"
+      type="text"
+      placeholder="Enter a number to search within date verses..."
+      bind:value={searchNumber}
+    />
+
+    <!-- Clear Button -->
+    <button
+      class="btn btn-error p-2 rounded-lg"
+      on:click={() => (searchNumber = "")}
+    >
+      Clear
+    </button>
+  </div>
 
   <!-- Displaying the total number of verses -->
   <p class="card bg-slate-200 flex justify-between items-center text-xl my-4">
@@ -80,7 +113,7 @@
       <div class="my-2 card bg-slate-100 text-slate-900 p-2">
         <strong>{verse.book} {verse.chapter}:{verse.verse}</strong>
         <p>{@html verse.text}</p>
-        <!-- Using @html to render any HTML inside the text -->
+        <!-- Render modified text as HTML -->
       </div>
     {/each}
   </div>
