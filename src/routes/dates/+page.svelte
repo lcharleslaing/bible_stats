@@ -91,7 +91,7 @@
       {#each dateKeywords.keywords as keyword}
         <button
           class={`btn ${
-            searchKeyword === keyword ? "btn-success" : "btn-primary"
+            searchKeyword === keyword ? "btn-success" : "btn-xs btn-primary"
           }`}
           on:click={() => setKeywordFilter(keyword)}
         >
@@ -109,7 +109,7 @@
       {#each dateKeywords.months as month}
         <button
           class={`btn ${
-            searchKeyword === month ? "btn-success" : "btn-primary"
+            searchKeyword === month ? "btn-success" : "btn-xs btn-primary"
           }`}
           on:click={() => setKeywordFilter(month)}
         >
