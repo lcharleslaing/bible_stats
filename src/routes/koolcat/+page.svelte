@@ -59,7 +59,7 @@
   imageUrl="/koolcat7729.jpg"
   secondTitle="KOOLCAT7729 Video Studies"
   thirdTitle="PTERODACTYL Rides Anyone!!!!"
-  para="If you wanna get inside the head of a PTERODACTYL riding, SHED jumping NEPHILIM, then start your typing engines and get ready to take some notes. PRAISE GOS LET'S GO!  Get some BAM BISCUITS you SUM GUM!!"
+  para="If you wanna get inside the head of a PTERODACTYL riding, SHED jumping NEPHILIM, then start your typing engines and get ready to take some notes. PRAISE GOD LET'S GO!  Get some BAM BISCUITS you SUM GUM!!"
 />
 
 <label class="label" for="searchInput">
