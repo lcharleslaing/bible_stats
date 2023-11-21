@@ -1,0 +1,17 @@
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Example {
+  id   Int    @id @default(autoincrement())
+  name String
+}
+
+model Transcript {
+  id       Int    @id @default(autoincrement())
+  video_id String
+  start    Float
+  duration Float
+  text     String
+}

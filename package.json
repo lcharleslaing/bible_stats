@@ -18,5 +18,11 @@
     "tailwindcss": "^3.3.2",
     "vite": "^4.4.2"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@prisma/client": "^5.6.0",
+    "better-sqlite3": "^9.1.1",
+    "sqlite3": "^5.1.6",
+    "svelte-debounce": "^0.0.3"
+  }
 }

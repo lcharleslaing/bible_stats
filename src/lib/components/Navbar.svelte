@@ -36,4 +36,16 @@
       : 'btn-success'}"
     href="/dates">Dates/Time</a
   >
+  <a
+    class="btn btn-sm {currentPath === '/koolcat'
+      ? 'bg-black text-white border border-white'
+      : 'btn-success'}"
+    href="/koolcat">Koolcat</a
+  >
+  <a
+    class="btn btn-sm {currentPath === '/repoman64'
+      ? 'bg-black text-white border border-white'
+      : 'btn-success'}"
+    href="/repoman64">Repoman64</a
+  >
 </div>
